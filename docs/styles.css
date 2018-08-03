@@ -32,12 +32,18 @@ cite #book{
     font-style: normal;
 }
 
-#acknowledgment {
+#buttom {
     height: 10px; 
+    width: 100%;
     position: fixed; 
     bottom:2%;
     color: dimgray;
 }
-#acknowledgment a, a:visited {
+#buttom a, a:visited {
     color: rgb(66, 66, 66)
+}
+
+#github {
+    float: right;
+    padding-right: 40px
 }

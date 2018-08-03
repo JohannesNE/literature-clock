@@ -41,7 +41,7 @@ litclock_list <- litclock %>%
 
 
 # save individual files
-lit_times_path <- 'times/'
+lit_times_path <- 'docs/times/'
 save_json <- function(df) {
   cat(toJSON(df, pretty = TRUE), file = paste0(lit_times_path, df$time[1], ".json"))
 }

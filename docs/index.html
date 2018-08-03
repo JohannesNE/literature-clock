@@ -2,6 +2,16 @@
 <html>
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123318858-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-123318858-1');
+    </script>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
         function loadFile(timeStamp) {
@@ -52,7 +62,7 @@
                 // set fontsize according to length
                 // Equation to make fontsize match
                 // y = 6.190864 - 0.01211676*x + 0.00001176814*x^2 - 1.969435e-9*x^3, where x is quote_len
-                document.getElementById('lit_quote').style.fontSize = ((6.000864 - 0.01211676*quote_len + 0.00001176814*quote_len**2 - 1.969435e-9*quote_len**3) + "vw");
+                document.getElementById('lit_quote').style.fontSize = ((6.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len ** 2 - 1.969435e-9 * quote_len ** 3) + "vw");
                 console.log(quote_len);
 
             } catch (e) {
@@ -79,7 +89,8 @@
     <div id="main_text">
         <blockquote id="lit_quote"></blockquote>
         <cite>
-            - <span id="book"></span>,
+            -
+            <span id="book"></span>,
             <span id="author"></span>
         </cite>
     </div>

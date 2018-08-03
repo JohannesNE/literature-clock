@@ -1,9 +1,9 @@
 html, body { 
     margin: 0; padding: 0;
-    height: 90%; 
-    /*
+    height: 100%; 
+    
     overflow: hidden;
-    */
+    
 }
 
 /*
@@ -20,7 +20,6 @@ html, body {
 
 #main_text {
     width: 80vw;
-    height: 90vh;
     margin: auto; 
     color: rgb(39, 39, 39);
     font-family: 'Merriweather', Times, serif;
@@ -35,6 +34,9 @@ cite #book{
 }
 
 #acknowledgment {
+    height: 10px; 
+    position: fixed; 
+    bottom:2%;
     color: dimgray;
 }
 #acknowledgment a, a:visited {

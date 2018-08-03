@@ -51,8 +51,8 @@
 
                 // set fontsize according to length
                 // Equation to make fontsize match
-                // y = 7.205755 - 0.01301993*x + 0.00001001672*x^2, where x is quote_len
-                document.getElementById('lit_quote').style.fontSize = ((7.205755 - 0.01301993*quote_len + 0.00001001672*quote_len**2) + "vw");
+                // y = 6.190864 - 0.01211676*x + 0.00001176814*x^2 - 1.969435e-9*x^3, where x is quote_len
+                document.getElementById('lit_quote').style.fontSize = ((6.000864 - 0.01211676*quote_len + 0.00001176814*quote_len**2 - 1.969435e-9*quote_len**3) + "vw");
                 console.log(quote_len);
 
             } catch (e) {

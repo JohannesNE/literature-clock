@@ -15,7 +15,6 @@ names(litclock) <- c('time',
                      'quote',
                      'title',
                      'author')
-litclock$quote_time[598] <- 'around ten'
 
 litclock <- mutate(litclock, split_str = str_split(quote, regex(quote_time, ignore_case = TRUE), n = 2),
                    quote_time_case = str_extract(quote, regex(quote_time, ignore_case = TRUE)),

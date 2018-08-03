@@ -4,22 +4,19 @@
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
-        function initiate() {
-            var lit = {};
-            loadFile();
-            startTime();
-        }
-        function loadFile() {
+        function loadFile(timeStamp) {
+            var text = {};
             $.ajaxSetup({
                 async: false
             });
-            $.getJSON("litclock_annotated.json", function (json) {
+            $.getJSON("literature/times/" + timeStamp + ".json", function (json) {
                 //console.log(json); // this will show the info it in firebug console
-                lit = json;
+                text = json;
             });
             $.ajaxSetup({
                 async: true
             });
+            return(text);
         }
         function startTime() {
             var today = new Date();
@@ -31,10 +28,20 @@
             // s = checkTime(s);
             var timeCode = h + ":" + m;
 
+            // Load JSON file
+            var lit_json = loadFile(timeCode);
+            
+            // select single random text
+            var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
+
             // Write to HTML
             document.getElementById('txt').innerHTML = timeCode;
-            document.getElementById('test').innerHTML = 
-            lit[timeCode][0].quote_first + lit[timeCode][0].quote_time_case + lit[timeCode][0].quote_last;
+            try{
+                document.getElementById('test').innerHTML = 
+                lit_json_single.quote_first + '<em>' + lit_json_single.quote_time_case + '</em>' + lit_json_single.quote_last;
+            }catch(e){
+                console.log(e);
+            }
             //console.log(lit["00:00"])
 
 
@@ -45,14 +52,10 @@
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
             return i;
         }
-
-        function getQuote(timeStamp) {
-
-        }
     </script>
 </head>
 
-<body onload="initiate()">
+<body onload="startTime()">
 
     <div id="txt"></div>
     <div id="test"></div>

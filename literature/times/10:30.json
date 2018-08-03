@@ -1,0 +1,26 @@
+[
+  {
+    "time": "10:30",
+    "quote_first": "",
+    "quote_time_case": "10.30 a.m.",
+    "quote_last": " Break",
+    "title": "The Curious Incident of the Dog in the Night-time",
+    "author": "Mark Haddon"
+  },
+  {
+    "time": "10:30",
+    "quote_first": "according to the clock on the wall, it is barely ",
+    "quote_time_case": "ten thirty",
+    "quote_last": ".",
+    "title": "The Hours",
+    "author": "Michael Cunningham"
+  },
+  {
+    "time": "10:30",
+    "quote_first": "At ",
+    "quote_time_case": "ten-thirty",
+    "quote_last": " I'm cleaned up, shaved and dressed in my Easter best - a two-piece seersucker Palm Beach I've had since college.",
+    "title": "The Sportswriter",
+    "author": "Richard Ford"
+  }
+]

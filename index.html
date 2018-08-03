@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        function initiate() {
+            var lit = {};
+            loadFile();
+            startTime();
+        }
+        function loadFile() {
+            $.ajaxSetup({
+                async: false
+            });
+            $.getJSON("litclock_annotated.json", function (json) {
+                //console.log(json); // this will show the info it in firebug console
+                lit = json;
+            });
+            $.ajaxSetup({
+                async: true
+            });
+        }
+        function startTime() {
+            var today = new Date();
+            var h = today.getHours();
+            var m = today.getMinutes();
+            // var s = today.getSeconds();
+            h = checkTime(h);
+            m = checkTime(m);
+            // s = checkTime(s);
+            var timeCode = h + ":" + m;
+
+            // Write to HTML
+            document.getElementById('txt').innerHTML = timeCode;
+            document.getElementById('test').innerHTML = 
+            lit[timeCode][0].quote_first + lit[timeCode][0].quote_time_case + lit[timeCode][0].quote_last;
+            //console.log(lit["00:00"])
+
+
+            // Timeout
+            var t = setTimeout(startTime, 10000);
+        }
+        function checkTime(i) {
+            if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
+            return i;
+        }
+
+        function getQuote(timeStamp) {
+
+        }
+    </script>
+</head>
+
+<body onload="initiate()">
+
+    <div id="txt"></div>
+    <div id="test"></div>
+
+</body>
+
+</html>

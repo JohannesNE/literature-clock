@@ -1,0 +1,42 @@
+html, body { 
+    margin: 0; padding: 0;
+    height: 90%; 
+    /*
+    overflow: hidden;
+    */
+}
+
+/*
+#lit_quote {
+
+}
+*/
+#lit_quote em {
+    font-weight: 900;
+    color: rgb(19, 19, 19);
+    font-style: normal
+}
+
+
+#main_text {
+    width: 80vw;
+    height: 90vh;
+    margin: auto; 
+    color: rgb(39, 39, 39);
+    font-family: 'Merriweather', Times, serif;
+}
+
+cite {
+    float: right;
+    font-size: 2.3vw;
+}
+cite #book{
+    font-style: normal;
+}
+
+#acknowledgment {
+    color: dimgray;
+}
+#acknowledgment a, a:visited {
+    color: rgb(66, 66, 66)
+}

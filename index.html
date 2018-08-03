@@ -16,7 +16,7 @@
             $.ajaxSetup({
                 async: true
             });
-            return(text);
+            return (text);
         }
         function startTime() {
             var today = new Date();
@@ -28,37 +28,66 @@
             // s = checkTime(s);
             var timeCode = h + ":" + m;
 
+            //Test longest (20:15)
+            //Test shortest (08:51)
+            //timeCode = "20:07";
+
             // Load JSON file
             var lit_json = loadFile(timeCode);
-            
+
             // select single random text
             var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
 
+            // get quote_len
+            var quote_len = (lit_json_single.quote_first + lit_json_single.quote_time_case + lit_json_single.quote_last).length
+
             // Write to HTML
-            document.getElementById('txt').innerHTML = timeCode;
-            try{
-                document.getElementById('test').innerHTML = 
-                lit_json_single.quote_first + '<em>' + lit_json_single.quote_time_case + '</em>' + lit_json_single.quote_last;
-            }catch(e){
+            //document.getElementById('time').innerHTML = timeCode;     // Show time
+            try {
+                document.getElementById('lit_quote').innerHTML =
+                    lit_json_single.quote_first + '<em>' + lit_json_single.quote_time_case + '</em>' + lit_json_single.quote_last;
+                document.getElementById('book').innerHTML = lit_json_single.title;
+                document.getElementById('author').innerHTML = lit_json_single.author;
+
+                // set fontsize according to length
+                // Equation to make fontsize match
+                // y = 7.205755 - 0.01301993*x + 0.00001001672*x^2, where x is quote_len
+                document.getElementById('lit_quote').style.fontSize = ((7.205755 - 0.01301993*quote_len + 0.00001001672*quote_len**2) + "vw");
+                console.log(quote_len);
+
+            } catch (e) {
                 console.log(e);
             }
-            //console.log(lit["00:00"])
-
 
             // Timeout
-            var t = setTimeout(startTime, 10000);
+            var t = setTimeout(startTime, 60000);
         }
         function checkTime(i) {
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
             return i;
         }
     </script>
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet'>
+
 </head>
 
 <body onload="startTime()">
 
-    <div id="txt"></div>
-    <div id="test"></div>
+    <div id="time"></div>
+
+    <div id="main_text">
+        <blockquote id="lit_quote"></blockquote>
+        <cite>
+            - <span id="book"></span>,
+            <span id="author"></span>
+        </cite>
+    </div>
+
+    <div id="acknowledgment"> Based on work and idea by
+        <a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a> (
+        <a href="https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/">E-reader clock</a>).</div>
+
 
 </body>
 

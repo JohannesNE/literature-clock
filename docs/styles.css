@@ -34,16 +34,22 @@ cite #book{
 
 #buttom {
     height: 10px; 
-    width: 100%;
+    width: 90%;
     position: fixed; 
     bottom:2%;
     color: dimgray;
+    padding-left: 40px;
+    padding-right: 0px;
+
 }
 #buttom a, a:visited {
     color: rgb(66, 66, 66)
 }
 
 #github {
-    float: right;
-    padding-right: 40px
+    display: inline;
+    padding-right: 5px;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: dimgray;
 }

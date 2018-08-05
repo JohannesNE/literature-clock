@@ -20,12 +20,13 @@ html, body {
 #main_text {
     width: 80vw;
     margin: auto; 
-    color: rgb(39, 39, 39);
+    color: dimgrey;
     font-family: 'Merriweather', Times, serif;
 }
 
 cite {
     float: right;
+    padding-left: 10vw;
     font-size: 2.3vw;
 }
 cite #book{

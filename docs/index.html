@@ -14,6 +14,8 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
+        var current_date;
+
         function loadFile(timeStamp) {
             var text = {};
             $.ajaxSetup({
@@ -30,6 +32,13 @@
         }
         function startTime() {
             var today = new Date();
+            if(current_date !== undefined
+                && current_date.getMinutes() === today.getMinutes() ) {
+                var t = setTimeout(startTime, 1000);
+                return;
+            }
+
+            current_date = today;
             var h = today.getHours();
             var m = today.getMinutes();
             // var s = today.getSeconds();
@@ -70,7 +79,7 @@
             }
 
             // Timeout
-            var t = setTimeout(startTime, 60000);
+            var t = setTimeout(startTime, 1000);
         }
         function checkTime(i) {
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10

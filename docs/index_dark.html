@@ -45,11 +45,11 @@
             h = checkTime(h);
             m = checkTime(m);
             // s = checkTime(s);
-            var timeCode = h + ":" + m;
+            var timeCode = h + "_" + m;  // fixed for windoze compatibility
 
             //Test longest (20:15)
             //Test shortest (08:51)
-            //timeCode = "20:07";
+            //timeCode = "20_07";
 
             // Load JSON file
             var lit_json = loadFile(timeCode);

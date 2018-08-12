@@ -54,3 +54,7 @@ cite #book{
     border-right-width: 2px;
     border-right-color: dimgray;
 }
+
+#based_on {
+    padding-left: 5px;
+}

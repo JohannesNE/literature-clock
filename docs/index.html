@@ -32,8 +32,8 @@
         }
         function startTime() {
             var today = new Date();
-            if(current_date !== undefined
-                && current_date.getMinutes() === today.getMinutes() ) {
+            if (current_date !== undefined
+                && current_date.getMinutes() === today.getMinutes()) {
                 var t = setTimeout(startTime, 1000);
                 return;
             }
@@ -110,10 +110,12 @@
         <div id="github">
             <a href="https://github.com/JohannesNE/literature-clock">GitHub</a>
         </div>
-        Based on work and idea by
-        <a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a> (
-        <a href="https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/">E-reader clock</a>) and
-        <a href="http://litclock.mohawkhq.com/">The Guardian</a>
+        <span id="based_on">
+            Based on work and idea by
+            <a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a> (
+            <a href="https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/">E-reader clock</a>) and
+            <a href="http://litclock.mohawkhq.com/">The Guardian</a>
+        </span>
     </div>
 
 

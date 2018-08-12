@@ -54,15 +54,3 @@ cite #book{
     border-right-width: 2px;
     border-right-color: dimgray;
 }
-
-body.dark {
-  background: #000;
-}
-
-body.dark #lit_quote em {
-  color: #ABB7B7;
-}
-
-body.dark #main_text {
-  color: #34495e;
-}

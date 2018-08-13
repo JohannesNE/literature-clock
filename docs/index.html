@@ -2,34 +2,18 @@
 <html>
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123318858-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-123318858-1');
-    </script>
+    <meta charset="utf-8"/>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
         var current_date;
 
         function loadFile(timeStamp) {
-            var text = {};
-            $.ajaxSetup({
-                async: false
+            return new Promise((resolve, reject) => {
+                $.getJSON("times/" + timeStamp + ".json", json => resolve(json));
             });
-            $.getJSON("times/" + timeStamp + ".json", function (json) {
-                //console.log(json); // this will show the info it in firebug console
-                text = json;
-            });
-            $.ajaxSetup({
-                async: true
-            });
-            return (text);
         }
+
         function startTime() {
             var today = new Date();
             if (current_date !== undefined
@@ -52,34 +36,34 @@
             //timeCode = "20_07";
 
             // Load JSON file
-            var lit_json = loadFile(timeCode);
+            loadFile(timeCode).then((lit_json) => {
 
-            // select single random text
-            var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
+                // select single random text
+                var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
 
-            // get quote_len
-            var quote_len = (lit_json_single.quote_first + lit_json_single.quote_time_case + lit_json_single.quote_last).length
+                // get quote_len
+                var quote_len = (lit_json_single.quote_first + lit_json_single.quote_time_case + lit_json_single.quote_last).length
 
-            // Write to HTML
-            //document.getElementById('time').innerHTML = timeCode;     // Show time
-            try {
-                document.getElementById('lit_quote').innerHTML =
-                    lit_json_single.quote_first + '<em>' + lit_json_single.quote_time_case + '</em>' + lit_json_single.quote_last;
-                document.getElementById('book').innerHTML = lit_json_single.title;
-                document.getElementById('author').innerHTML = lit_json_single.author;
+                // Write to HTML
+                //document.getElementById('time').innerHTML = timeCode;     // Show time
+                try {
+                    document.getElementById('lit_quote').innerHTML =
+                        lit_json_single.quote_first + '<em>' + lit_json_single.quote_time_case + '</em>' + lit_json_single.quote_last;
+                    document.getElementById('book').innerHTML = lit_json_single.title;
+                    document.getElementById('author').innerHTML = lit_json_single.author;
 
-                // set fontsize according to length
-                // Equation to make fontsize match
-                // y = 6.190864 - 0.01211676*x + 0.00001176814*x^2 - 1.969435e-9*x^3, where x is quote_len
-                document.getElementById('lit_quote').style.fontSize = ((6.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len ** 2 - 1.969435e-9 * quote_len ** 3) + "vw");
-                console.log(quote_len);
+                    // set fontsize according to length
+                    // Equation to make fontsize match
+                    // y = 6.190864 - 0.01211676*x + 0.00001176814*x^2 - 1.969435e-9*x^3, where x is quote_len
+                    document.getElementById('lit_quote').style.fontSize = ((6.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len ** 2 - 1.969435e-9 * quote_len ** 3) + "vw");
 
-            } catch (e) {
-                console.log(e);
-            }
+                } catch (e) {
+                    console.log(e);
+                }
 
-            // Timeout
-            var t = setTimeout(startTime, 1000);
+                // Timeout
+                var t = setTimeout(startTime, 1000);
+            });
         }
         function checkTime(i) {
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10

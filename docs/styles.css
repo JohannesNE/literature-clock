@@ -50,11 +50,11 @@ cite #book{
 #github {
     display: inline;
     padding-right: 5px;
-    border-right-style: solid;
-    border-right-width: 2px;
-    border-right-color: dimgray;
 }
 
-#based_on {
+#buttom span {
     padding-left: 5px;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: dimgray;
 }

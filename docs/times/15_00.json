@@ -1,7 +1,7 @@
 [
   {
     "time": "15:00",
-    "quote_first": "'I gotta get uptown by ",
+    "quote_first": "&lsquo;I gotta get uptown by ",
     "quote_time_case": "three o'clock",
     "quote_last": ".'",
     "title": "A Confederacy of Dunces",
@@ -9,9 +9,9 @@
   },
   {
     "time": "15:00",
-    "quote_first": "\"Remember,\" they shouted, \"battle at ",
+    "quote_first": "&ldquo;Remember,&rdquo; they shouted, &ldquo;battle at ",
     "quote_time_case": "three o'clock",
-    "quote_last": " sharp. There's no time to lose.\"",
+    "quote_last": " sharp. There&rsquo;s no time to lose.&quot;",
     "title": "Swallows and Amazons",
     "author": "Arthur Ransome"
   },
@@ -27,7 +27,7 @@
     "time": "15:00",
     "quote_first": "At ",
     "quote_time_case": "three o'clock",
-    "quote_last": " on the afternoon of that same day, he called on her. She held out her two hands, smiling in her usual charming, friendly way; and for a few seconds they looked deep into each other's eyes.",
+    "quote_last": " on the afternoon of that same day, he called on her. She held out her two hands, smiling in her usual charming, friendly way; and for a few seconds they looked deep into each other&rsquo;s eyes.",
     "title": "Bel-Ami",
     "author": "Guy de Maupassant"
   },
@@ -51,7 +51,7 @@
     "time": "15:00",
     "quote_first": "Ditched by the woman I loved, I exalted my suffering into a sign of greatness (lying collapsed on a bed ",
     "quote_time_case": "at three",
-    "quote_last": " in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe's departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
+    "quote_last": " in the afternoon), and hence protected myself from experiencing my grief as the outcome of what was at best a mundane romantic break-up. Chloe&rsquo;s departure may have killed me, but it had at least left me in glorious possession of the moral high ground. I was a martyr.",
     "title": "Essays in Love",
     "author": "Alain de Botton"
   },
@@ -129,7 +129,7 @@
   },
   {
     "time": "15:00",
-    "quote_first": "Today was the day Alex had appointed for her 'punishment'. I became increasingly nervous as the hour of ",
+    "quote_first": "Today was the day Alex had appointed for her &lsquo;punishment&rsquo;. I became increasingly nervous as the hour of ",
     "quote_time_case": "three o'clock",
     "quote_last": " approached. I was alone in the house, and paced restlessly from room to room, glancing at the clocks in each of them.",
     "title": "Deaf Sentence",

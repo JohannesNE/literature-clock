@@ -1,9 +1,9 @@
 [
   {
     "time": "04:00",
-    "quote_first": "\"Nothing happened,\" he said wanly. \"I waited, and about ",
+    "quote_first": "&ldquo;Nothing happened,&rdquo; he said wanly. &ldquo;I waited, and about ",
     "quote_time_case": "four o'clock",
-    "quote_last": " she came to the window and stood there for a minute and then turned out the light.\"",
+    "quote_last": " she came to the window and stood there for a minute and then turned out the light.&quot;",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald"
   },
@@ -11,7 +11,7 @@
     "time": "04:00",
     "quote_first": "I looked at the clock and it was (yes, you guessed it) ",
     "quote_time_case": "four am.",
-    "quote_last": " I should have taken comfort from the fact that approximately quarter of the Greenwich Mean Time world had just jolted awake also and were lying, staring miserably into the darkness, worrying ...\"",
+    "quote_last": " I should have taken comfort from the fact that approximately quarter of the Greenwich Mean Time world had just jolted awake also and were lying, staring miserably into the darkness, worrying &hellip;&ldquo;",
     "title": "Watermelon",
     "author": "Marian Keyes"
   },
@@ -43,7 +43,7 @@
     "time": "04:00",
     "quote_first": "Waking ",
     "quote_time_case": "at four",
-    "quote_last": " to soundless dark, I stare. In time the curtain-edges will grow light. Till then I see what's really always there: Unresting death, a whole day nearer now, Making all thought impossible but how And where and when I shall myself die.",
+    "quote_last": " to soundless dark, I stare. In time the curtain-edges will grow light. Till then I see what&rsquo;s really always there: Unresting death, a whole day nearer now, Making all thought impossible but how And where and when I shall myself die.",
     "title": "Aubade",
     "author": "Philip Larkin"
   },

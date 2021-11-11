@@ -1,7 +1,7 @@
 [
   {
     "time": "09:00",
-    "quote_first": "'I could never get all the way down there before ",
+    "quote_first": "&lsquo;I could never get all the way down there before ",
     "quote_time_case": "nine o'clock",
     "quote_last": ".'",
     "title": "A Confederacy of Dunces",
@@ -9,7 +9,7 @@
   },
   {
     "time": "09:00",
-    "quote_first": "'Look. Ignatius. I'm beat. I've been on the road since ",
+    "quote_first": "&lsquo;Look. Ignatius. I&rsquo;m beat. I&rsquo;ve been on the road since ",
     "quote_time_case": "nine o'clock",
     "quote_last": " yesterday morning.'",
     "title": "A Confederacy of Dunces",
@@ -43,7 +43,7 @@
     "time": "09:00",
     "quote_first": "A fly buzzed, the wall clock began to strike. After the ",
     "quote_time_case": "nine",
-    "quote_last": " golden strokes faded, the district captain began. \"How is Herr Colonel Marek?\" \"Thank you, Papá, he's fine.\" \"Still weak in geometry?\" \"Thank you, Papá, a little better.\" \"Read any books?\" \"Yessir, Papá.\"",
+    "quote_last": " golden strokes faded, the district captain began. &ldquo;How is Herr Colonel Marek?&rdquo; &ldquo;Thank you, Papá, he&rsquo;s fine.&rdquo; &ldquo;Still weak in geometry?&rdquo; &ldquo;Thank you, Papá, a little better.&rdquo; &ldquo;Read any books?&rdquo; &ldquo;Yessir, Papá.&rdquo;",
     "title": "The Radetzky March",
     "author": "Joseph Roth"
   },
@@ -59,7 +59,7 @@
     "time": "09:00",
     "quote_first": "At ",
     "quote_time_case": "nine o'clock",
-    "quote_last": ", one morning late in July, Gatsby's gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
+    "quote_last": ", one morning late in July, Gatsby&rsquo;s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald"
   },
@@ -67,15 +67,15 @@
     "time": "09:00",
     "quote_first": "He was at breakfast ",
     "quote_time_case": "at nine",
-    "quote_last": ", and for the twentieth time consulted his \"Bradshaw,\" to see at what earliest hour Dr. Grantly could arrive from Barchester.",
+    "quote_last": ", and for the twentieth time consulted his &ldquo;Bradshaw,&rdquo; to see at what earliest hour Dr. Grantly could arrive from Barchester.",
     "title": "The Warden",
     "author": "Anthony Trollope"
   },
   {
     "time": "09:00",
-    "quote_first": "He won't stand beating. Now, if you only kept on good terms with him, he'd do almost anything you liked with the clock. For instance, suppose it were ",
+    "quote_first": "He won&rsquo;t stand beating. Now, if you only kept on good terms with him, he&rsquo;d do almost anything you liked with the clock. For instance, suppose it were ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " in the morning, just time to begin lessons: you'd only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past one, time for dinner!",
+    "quote_last": " in the morning, just time to begin lessons: you&rsquo;d only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past one, time for dinner!",
     "title": "Alice's Adventures in Wonderland",
     "author": "Lewis Carroll"
   },
@@ -83,7 +83,7 @@
     "time": "09:00",
     "quote_first": "It was around ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " that I crossed the border into Cornwall. This was at least three hours before the rain began and the clouds were still all of a brilliant white. In fact, many of the sights that greeted me this morning were among the most charming I have so far encountered. It was unfortunate, then, that I could not for much of the time give to them the attention they warranted; for one may as well declare it, one was in a condition of some preoccupation with the thought that - barring some unseen complication - one would be meeting Miss Kenton again before the day's end.",
+    "quote_last": " that I crossed the border into Cornwall. This was at least three hours before the rain began and the clouds were still all of a brilliant white. In fact, many of the sights that greeted me this morning were among the most charming I have so far encountered. It was unfortunate, then, that I could not for much of the time give to them the attention they warranted; for one may as well declare it, one was in a condition of some preoccupation with the thought that - barring some unseen complication - one would be meeting Miss Kenton again before the day&rsquo;s end.",
     "title": "The Remains of the Day",
     "author": "Kazuo Ishiguro"
   },
@@ -97,7 +97,7 @@
   },
   {
     "time": "09:00",
-    "quote_first": "Sometimes what I wouldn't give to have us sitting in a bar again at ",
+    "quote_first": "Sometimes what I wouldn&rsquo;t give to have us sitting in a bar again at ",
     "quote_time_case": "9.00am",
     "quote_last": " telling lies to one another, far from God.",
     "title": "Jesus' Son",
@@ -107,7 +107,7 @@
     "time": "09:00",
     "quote_first": "The clock struck ",
     "quote_time_case": "nine",
-    "quote_last": " when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that's not so.",
+    "quote_last": " when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that&rsquo;s not so.",
     "title": "Romeo and Juliet",
     "author": "Shakespeare"
   },

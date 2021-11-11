@@ -1,7 +1,7 @@
 [
   {
     "time": "12:00",
-    "quote_first": "'There's nobody here!' I insisted. 'It was yourself, Mrs. Linton: you knew it a while since.' 'Myself!' she gasped, 'and the clock is striking ",
+    "quote_first": "&lsquo;There&rsquo;s nobody here!&rsquo; I insisted. &lsquo;It was yourself, Mrs. Linton: you knew it a while since.&rsquo; &lsquo;Myself!&rsquo; she gasped, &lsquo;and the clock is striking ",
     "quote_time_case": "twelve",
     "quote_last": "!",
     "title": "Wuthering Heights",
@@ -91,7 +91,7 @@
     "time": "12:00",
     "quote_first": "The Oxen Christmas Eve, and ",
     "quote_time_case": "twelve",
-    "quote_last": " of the clock. \"Now they are all on their knees,\" An elder said as we sat in a flock By the embers in hearthside ease. We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then. So fair a fancy few would weave In these years! Yet, I feel, If someone said on Christmas Eve, \"Come; see the oxen kneel \"In the lonely barton by yonder coomb Our childhood used to know,\" I should go with him in the gloom, Hoping it might be so.",
+    "quote_last": " of the clock. &ldquo;Now they are all on their knees,&rdquo; An elder said as we sat in a flock By the embers in hearthside ease. We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then. So fair a fancy few would weave In these years! Yet, I feel, If someone said on Christmas Eve, &ldquo;Come; see the oxen kneel &quot;In the lonely barton by yonder coomb Our childhood used to know,&rdquo; I should go with him in the gloom, Hoping it might be so.",
     "title": "The Oxen",
     "author": "Thomas Hardy"
   },
@@ -99,7 +99,7 @@
     "time": "12:00",
     "quote_first": "Then came the stroke of ",
     "quote_time_case": "noon",
-    "quote_last": ", and all these working and professional people dispersed like a trampled anthill into all the streets and directions. The white bridge was swarming with nimble dots. And when you considered that each dot had a mouth with which it was now planning to eat lunch, you couldn't help bursting into laughter.",
+    "quote_last": ", and all these working and professional people dispersed like a trampled anthill into all the streets and directions. The white bridge was swarming with nimble dots. And when you considered that each dot had a mouth with which it was now planning to eat lunch, you couldn&rsquo;t help bursting into laughter.",
     "title": "The Tanners",
     "author": "Robert Walser"
   }

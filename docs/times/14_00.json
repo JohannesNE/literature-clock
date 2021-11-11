@@ -1,7 +1,7 @@
 [
   {
     "time": "14:00",
-    "quote_first": "'She could have fired the jig, and he could have kept on picking up his packages at the old time, ",
+    "quote_first": "&lsquo;She could have fired the jig, and he could have kept on picking up his packages at the old time, ",
     "quote_time_case": "two o'clock",
     "quote_last": ". As it was, he had almost been arrested.'",
     "title": "A Confederacy of Dunces",
@@ -9,9 +9,9 @@
   },
   {
     "time": "14:00",
-    "quote_first": "\"The old people's home is at Marengo, fifty miles from Algiers. I'll catch the ",
+    "quote_first": "&ldquo;The old people&rsquo;s home is at Marengo, fifty miles from Algiers. I&rsquo;ll catch the ",
     "quote_time_case": "two o'clock",
-    "quote_last": " bus and get there in the afternoon.\".... \"I caught the two o'clock bus. It was very hot.\"",
+    "quote_last": " bus and get there in the afternoon.&rdquo;&hellip;. &ldquo;I caught the two o'clock bus. It was very hot.&quot;",
     "title": "The Outsider",
     "author": "Albert Camus"
   },
@@ -43,7 +43,7 @@
     "time": "14:00",
     "quote_first": "I caught the ",
     "quote_time_case": "two o'clock",
-    "quote_last": " bus. It was very hot. I ate at Céleste's restaurant as usual. They all felt very sorry for me and Céleste told me, 'There's no one like a mother'.",
+    "quote_last": " bus. It was very hot. I ate at Céleste&rsquo;s restaurant as usual. They all felt very sorry for me and Céleste told me, &lsquo;There&rsquo;s no one like a mother&rsquo;.",
     "title": "The Outsider",
     "author": "Albert Camus"
   },

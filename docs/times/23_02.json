@@ -1,9 +1,9 @@
 [
   {
     "time": "23:02",
-    "quote_first": "'He will be here ",
+    "quote_first": "&lsquo;He will be here ",
     "quote_time_case": "at eleven",
-    "quote_last": " exactly, sir.' At the bar, naked couples had begun dancing.",
+    "quote_last": " exactly, sir.&rsquo; At the bar, naked couples had begun dancing.",
     "title": "Smiley's People",
     "author": "John le Carre"
   },
@@ -25,9 +25,9 @@
   },
   {
     "time": "23:02",
-    "quote_first": "He says, \"They've killed Jan. Clear out.\" \"The suitcase?\" I ask. \"Take it away again. We want nothing to do with it now. Catch the ",
+    "quote_first": "He says, &ldquo;They&rsquo;ve killed Jan. Clear out.&rdquo; &ldquo;The suitcase?&rdquo; I ask. &ldquo;Take it away again. We want nothing to do with it now. Catch the ",
     "quote_time_case": "eleven o'clock",
-    "quote_last": " express.\" \"But it doesn't stop here....\" \"It will. Go to track six. Opposite the freight station. You have three minutes.\" \"But...\" \"Move, or I'll have to arrest you.\"",
+    "quote_last": " express.&rdquo; &ldquo;But it doesn&rsquo;t stop here&hellip;.&rdquo; &ldquo;It will. Go to track six. Opposite the freight station. You have three minutes.&rdquo; &ldquo;But&hellip;&rdquo; &ldquo;Move, or I&rsquo;ll have to arrest you.&quot;",
     "title": "If on a winter's night a traveller",
     "author": "Italo Calvino"
   },
@@ -57,7 +57,7 @@
   },
   {
     "time": "23:02",
-    "quote_first": "They didn't even sit down to eat until ",
+    "quote_first": "They didn&rsquo;t even sit down to eat until ",
     "quote_time_case": "2300h",
     "quote_last": ".",
     "title": "Infinite Jest",

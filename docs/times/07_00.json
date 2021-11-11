@@ -1,9 +1,9 @@
 [
   {
     "time": "07:00",
-    "quote_first": "\"",
+    "quote_first": "&ldquo;",
     "quote_time_case": "Seven o'clock",
-    "quote_last": ", already\", he said to himself when the clock struck again, \"seven o'clock, and there's still a fog like this.\"",
+    "quote_last": ", already&rdquo;, he said to himself when the clock struck again, &ldquo;seven o'clock, and there&rsquo;s still a fog like this.&quot;",
     "title": "Metamorphosis",
     "author": "Franz Kafka"
   },

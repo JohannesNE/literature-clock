@@ -1,9 +1,9 @@
 [
   {
     "time": "03:00",
-    "quote_first": "\"She died this morning, very early, about ",
+    "quote_first": "&ldquo;She died this morning, very early, about ",
     "quote_time_case": "three o'clock",
-    "quote_last": ".\"",
+    "quote_last": ".&quot;",
     "title": "The Voyage Out",
     "author": "Virginia Woolf"
   },
@@ -35,7 +35,7 @@
     "time": "03:00",
     "quote_first": "At ",
     "quote_time_case": "three o' clock in the morning",
-    "quote_last": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly. This is not a digression. Where I am at three o' clock in the morning - and by now every hour is three o' clock in the morning - there are no digressions, it's all one thing.",
+    "quote_last": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly. This is not a digression. Where I am at three o' clock in the morning - and by now every hour is three o' clock in the morning - there are no digressions, it&rsquo;s all one thing.",
     "title": "The Medusa Frequency",
     "author": "Russell Hoban"
   },
@@ -43,7 +43,7 @@
     "time": "03:00",
     "quote_first": "But ",
     "quote_time_case": "at three o’clock in the morning",
-    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
+    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work &ndash; and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
     "title": "The Crack-Up",
     "author": "F. Scott Fitzgerald"
   },
@@ -97,7 +97,7 @@
   },
   {
     "time": "03:00",
-    "quote_first": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. 'Lo,' she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
+    "quote_first": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. &lsquo;Lo,&rsquo; she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
     "quote_time_case": "Three AM.",
     "quote_last": " Good grief.",
     "title": "The Game Players of Titan",
@@ -105,9 +105,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "Schact clears his mouth and swallows mightily. 'Tavis can't even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee's been dragging along since may. Suddenly they're pulling secret ",
+    "quote_first": "Schact clears his mouth and swallows mightily. &lsquo;Tavis can&rsquo;t even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee&rsquo;s been dragging along since may. Suddenly they&rsquo;re pulling secret ",
     "quote_time_case": "0300",
-    "quote_last": " milk-switches? It doesn't ring true, Jim.",
+    "quote_last": " milk-switches? It doesn&rsquo;t ring true, Jim.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace"
   },
@@ -121,9 +121,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "What's the time?\" said the man, eyeing George up and down with evident suspicion; \"why, if you listen you will hear it strike.\" George listened, and a neighbouring clock immediately obliged. \"But it's only gone ",
+    "quote_first": "What&rsquo;s the time?&ldquo; said the man, eyeing George up and down with evident suspicion; &quot;why, if you listen you will hear it strike.&rdquo; George listened, and a neighbouring clock immediately obliged. &ldquo;But it&rsquo;s only gone ",
     "quote_time_case": "three",
-    "quote_last": "!\" said George in an injured tone, when it had finished.",
+    "quote_last": "!&rdquo; said George in an injured tone, when it had finished.",
     "title": "Three Men in a Boat",
     "author": "Jerome K Jerome"
   },

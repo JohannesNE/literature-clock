@@ -1,9 +1,9 @@
 [
   {
     "time": "18:17",
-    "quote_first": "'",
+    "quote_first": "&lsquo;",
     "quote_time_case": "Quarter past six",
-    "quote_last": ",' said Tony. 'He's bound to have told her by now.'",
+    "quote_last": ",&rsquo; said Tony. &lsquo;He&rsquo;s bound to have told her by now.'",
     "title": "A Handful of Dust",
     "author": "Evelyn Waugh"
   },

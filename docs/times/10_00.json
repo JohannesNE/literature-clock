@@ -65,7 +65,7 @@
   },
   {
     "time": "10:00",
-    "quote_first": "King Richard: Well, but what's o'clock? Buckingham: Upon the stroke of ",
+    "quote_first": "King Richard: Well, but what&rsquo;s o'clock? Buckingham: Upon the stroke of ",
     "quote_time_case": "ten",
     "quote_last": ".",
     "title": "Richard III",
@@ -89,9 +89,9 @@
   },
   {
     "time": "10:00",
-    "quote_first": "The pundit sighed. 'Only a fool like me would leave his door open when a riot can occur at any moment, and only a fool like me would say yes to you,' he said. 'What time?' Just his head was sticking out of the partially opened door. The money from blessing the ice-cream factory must have dulled his desire for work, I thought. 'Ten.' '",
+    "quote_first": "The pundit sighed. &lsquo;Only a fool like me would leave his door open when a riot can occur at any moment, and only a fool like me would say yes to you,&rsquo; he said. &lsquo;What time?&rsquo; Just his head was sticking out of the partially opened door. The money from blessing the ice-cream factory must have dulled his desire for work, I thought. &lsquo;Ten.&rsquo; &lsquo;",
     "quote_time_case": "Ten-thirty",
-    "quote_last": ".' Without another word, he closed the door.",
+    "quote_last": ".&rsquo; Without another word, he closed the door.",
     "title": "An Obedient Father",
     "author": "Akhil Sharma"
   },
@@ -99,13 +99,13 @@
     "time": "10:00",
     "quote_first": "The Saturday immediately preceding the examinations was a very busy day for Kennedy. At ",
     "quote_time_case": "ten o' clock",
-    "quote_last": " he was entering Willey's room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
+    "quote_last": " he was entering Willey&rsquo;s room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
     "title": "The Greeks have a word for it",
     "author": "Barry Unsworth"
   },
   {
     "time": "10:00",
-    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet ",
+    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day&rsquo;s mitching. Each of us saved up sixpence. We were to meet ",
     "quote_time_case": "at ten",
     "quote_last": " in the morning on the Canal Bridge.",
     "title": "Dubliners",

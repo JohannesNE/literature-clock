@@ -16,6 +16,9 @@ names(litclock) <- c('time',
                      'title',
                      'author')
 
+# Use markdown::smartypants to convert ASCII punctuation to smart punctuations
+litclock$quote <- purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x))
+
 litclock <- mutate(litclock, split_str = str_split(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE), n = 2),
                    quote_time_case = str_extract(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE)),
                    quote_first = unlist(map(split_str, `[`, 1)),

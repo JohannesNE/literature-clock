@@ -1,17 +1,17 @@
 [
   {
     "time": "13:00",
-    "quote_first": "\"I think,\" he said, with a triumphant smile, \"that I may safely expect to find the person I seek in the dining-room, fair lady.\" \"There may be more than one.\" \"Whoever is there, as the ",
+    "quote_first": "&ldquo;I think,&rdquo; he said, with a triumphant smile, &ldquo;that I may safely expect to find the person I seek in the dining-room, fair lady.&rdquo; &ldquo;There may be more than one.&rdquo; &ldquo;Whoever is there, as the ",
     "quote_time_case": "clock strikes one",
-    "quote_last": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.'\"",
+    "quote_last": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the Scarlet Pimpernel.&lsquo;&quot;",
     "title": "The Scarlet Pimpernel",
     "author": "Baroness Orczy"
   },
   {
     "time": "13:00",
-    "quote_first": "\"",
+    "quote_first": "&ldquo;",
     "quote_time_case": "One o'clock",
-    "quote_last": " pee em! Hello, Insert Name Here!\" Said by the Disorganizer",
+    "quote_last": " pee em! Hello, Insert Name Here!&rdquo; Said by the Disorganizer",
     "title": "Jingo",
     "author": "Terry Pratchett"
   },
@@ -49,9 +49,9 @@
   },
   {
     "time": "13:00",
-    "quote_first": "I got to Schmidt's early, feeling horribly nervous. At ",
+    "quote_first": "I got to Schmidt&rsquo;s early, feeling horribly nervous. At ",
     "quote_time_case": "one o'clock",
-    "quote_last": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. 'Traitor.' Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her. Toni addressed the air. 'If he does not leave at once I shall tell the waiter that I am not sharing my table with this gentleman.' Jamie heard, said her name again, turned to go, I rose to go with him. Toni - with that concentration of will - said, 'YOU are lunching with me.'",
+    "quote_last": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. &lsquo;Traitor.&rsquo; Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her. Toni addressed the air. &lsquo;If he does not leave at once I shall tell the waiter that I am not sharing my table with this gentleman.&rsquo; Jamie heard, said her name again, turned to go, I rose to go with him. Toni - with that concentration of will - said, &lsquo;YOU are lunching with me.'",
     "title": "Jigsaw",
     "author": "Sybille Bedford"
   },
@@ -83,7 +83,7 @@
     "time": "13:00",
     "quote_first": "That day it was ",
     "quote_time_case": "one o'clock",
-    "quote_last": " before John and Roger rowed across and went up to Dixon's farm for the milk and a new supply of eggs and butter.",
+    "quote_last": " before John and Roger rowed across and went up to Dixon&rsquo;s farm for the milk and a new supply of eggs and butter.",
     "title": "Swallows and Amazons",
     "author": "Arthur Ransome"
   },
@@ -91,7 +91,7 @@
     "time": "13:00",
     "quote_first": "The day-room floor gets cleared of tables and at ",
     "quote_time_case": "one o'clock",
-    "quote_last": " the doctor comes out of his office down the hall, nods once at the nurse as he goes past where he's watching out of her window, sits in his chair just to the left of the door.",
+    "quote_last": " the doctor comes out of his office down the hall, nods once at the nurse as he goes past where he&rsquo;s watching out of her window, sits in his chair just to the left of the door.",
     "title": "One Flew Over the Cuckoo's Nest",
     "author": "Ken Kesey"
   }

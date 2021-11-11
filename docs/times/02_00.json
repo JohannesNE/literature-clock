@@ -1,9 +1,9 @@
 [
   {
     "time": "02:00",
-    "quote_first": "\"The middle of the night?\" Alec asked sharply.\"Can you be more definite?\" \"",
+    "quote_first": "&ldquo;The middle of the night?&rdquo; Alec asked sharply.&ldquo;Can you be more definite?&rdquo; &ldquo;",
     "quote_time_case": "About two",
-    "quote_last": ". Just past.\" Daisy noted that he expressed no concern for her safety.",
+    "quote_last": ". Just past.&rdquo; Daisy noted that he expressed no concern for her safety.",
     "title": "Dead in the water",
     "author": "Carola Dunn"
   },
@@ -27,7 +27,7 @@
     "time": "02:00",
     "quote_first": "Lady Macbeth: Out, damned spot! out, I say!—One: ",
     "quote_time_case": "two",
-    "quote_last": ": why, then, 'tis time to do't.—Hell is murky!—Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?—Yet who would have thought the old man to have had so much blood in him.",
+    "quote_last": ": why, then, &lsquo;tis time to do&rsquo;t.—Hell is murky!—Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?—Yet who would have thought the old man to have had so much blood in him.",
     "title": "Macbeth",
     "author": "Shakespeare"
   },
@@ -43,7 +43,7 @@
     "time": "02:00",
     "quote_first": "When all had grown quiet and Fyodor Pavlovich went to bed at around ",
     "quote_time_case": "two o'clock",
-    "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.'",
+    "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.&lsquo;",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky"
   }

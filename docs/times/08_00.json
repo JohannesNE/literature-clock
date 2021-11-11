@@ -1,9 +1,9 @@
 [
   {
     "time": "08:00",
-    "quote_first": "\"I'm not crying,\" Maria said when Carter called from the desert at ",
+    "quote_first": "&ldquo;I&rsquo;m not crying,&rdquo; Maria said when Carter called from the desert at ",
     "quote_time_case": "8 a.m.",
-    "quote_last": " \"I'm perfectly alright\". \"You don't sound perfectly alright",
+    "quote_last": " &ldquo;I&rsquo;m perfectly alright&rdquo;. &ldquo;You don&rsquo;t sound perfectly alright",
     "title": "Play it as is Lays",
     "author": "Joan Didion"
   },
@@ -19,7 +19,7 @@
     "time": "08:00",
     "quote_first": "At ",
     "quote_time_case": "8 o'clock",
-    "quote_last": " on Thursday morning Arthur didn't feel very good.",
+    "quote_last": " on Thursday morning Arthur didn&rsquo;t feel very good.",
     "title": "Hitch-Hikers Guide to the Galaxy",
     "author": "Douglas Adams"
   },
@@ -27,7 +27,7 @@
     "time": "08:00",
     "quote_first": "At ",
     "quote_time_case": "eight o'clock",
-    "quote_last": " on Thursday morning Arthur didn't feel very good. He woke up blearily, got up, wandered blearily round his room, opened a window, saw a bulldozer, found his slippers and stomped off to the bathroom to wash.",
+    "quote_last": " on Thursday morning Arthur didn&rsquo;t feel very good. He woke up blearily, got up, wandered blearily round his room, opened a window, saw a bulldozer, found his slippers and stomped off to the bathroom to wash.",
     "title": "Hitch-hikers guide to the galaxy",
     "author": "Douglas Adams"
   },
@@ -75,7 +75,7 @@
     "time": "08:00",
     "quote_first": "It was dated from Rosings, at ",
     "quote_time_case": "eight o'clock",
-    "quote_last": " in the morning, and was as follows: - \"Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offerings which were last night so disgusting to you.",
+    "quote_last": " in the morning, and was as follows: - &ldquo;Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offerings which were last night so disgusting to you.",
     "title": "Pride and Prejudice",
     "author": "Jane Austen"
   },
@@ -97,7 +97,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "So here I'll watch the night and wait To see the morning shine, When he will hear the stroke of ",
+    "quote_first": "So here I&rsquo;ll watch the night and wait To see the morning shine, When he will hear the stroke of ",
     "quote_time_case": "eight",
     "quote_last": " And not the stroke of nine;",
     "title": "A shropshire Lad",
@@ -105,7 +105,7 @@
   },
   {
     "time": "08:00",
-    "quote_first": "Someone must have been telling lies about Joseph K. for without having done anything wrong he was arrested one fine morning. His landlady's cook, who always brought him breakfast at ",
+    "quote_first": "Someone must have been telling lies about Joseph K. for without having done anything wrong he was arrested one fine morning. His landlady&rsquo;s cook, who always brought him breakfast at ",
     "quote_time_case": "eight o'clock",
     "quote_last": ", failed to appear on this occasion.",
     "title": "The Trial",
@@ -121,9 +121,9 @@
   },
   {
     "time": "08:00",
-    "quote_first": "Three days after the quarrel, Prince Stepan Arkadyevitch Oblonsky--Stiva, as he was called in the fashionable world-- woke up at his usual hour, that is, at ",
+    "quote_first": "Three days after the quarrel, Prince Stepan Arkadyevitch Oblonsky&ndash;Stiva, as he was called in the fashionable world&ndash; woke up at his usual hour, that is, at ",
     "quote_time_case": "eight o'clock",
-    "quote_last": " in the morning, not in his wife's bedroom, but on the leather-covered sofa in his study.",
+    "quote_last": " in the morning, not in his wife&rsquo;s bedroom, but on the leather-covered sofa in his study.",
     "title": "Anna Karenina",
     "author": "Leo Tolstoy"
   },

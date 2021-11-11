@@ -28,6 +28,7 @@ all_timestamps <- tibble(time = format(seq(as.POSIXct("2013-01-01 00:00:00", tz=
 litclock <- litclock %>%
   nest(data = -time) %>%
   right_join(all_timestamps, by = "time") %>%
+  arrange(time) %>%
   fill(data) %>%
   unnest(cols = data)
 

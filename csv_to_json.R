@@ -22,18 +22,18 @@ litclock <- mutate(litclock, split_str = str_split(quote, regex(paste0('(?<!\\w)
                    quote_last = unlist(map(split_str, `[`, 2)))
 
 # To copy text to times without quotes the data is nested.
-all_timestamps <- tibble(time = format(seq(as.POSIXct("2013-01-01 00:00:00", tz="GMT"), 
+all_timestamps <- tibble(time = format(seq(as.POSIXct("2013-01-01 00:00:00", tz="GMT"),
                              length.out=1440, by='1 min'), '%H:%M'))
 
-litclock <- litclock %>% 
-  nest(-time) %>% 
-  right_join(all_timestamps) %>% 
-  fill(data) %>% 
-  unnest()
-  
+litclock <- litclock %>%
+  nest(data = -time) %>%
+  right_join(all_timestamps, by = "time") %>%
+  fill(data) %>%
+  unnest(cols = data)
+
 # Create list by timestamp and save to individual files
-litclock_list <- litclock %>% 
-  select(time, quote_first, quote_time_case, quote_last, title, author) %>% 
+litclock_list <- litclock %>%
+  select(time, quote_first, quote_time_case, quote_last, title, author) %>%
   split(litclock$time)
 
 # cat(toJSON(litclock_list, pretty = TRUE), file = "litclock_annotated.json")

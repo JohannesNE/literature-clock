@@ -5,7 +5,8 @@
     "quote_time_case": "twenty-five past eleven",
     "quote_last": " what time it was. Linda looked at her watch and replied that it was a quarter to twelve.",
     "title": "Evil under the Sun",
-    "author": "Agatha Christie"
+    "author": "Agatha Christie",
+    "sfw": "yes"
   },
   {
     "time": "11:26",
@@ -13,6 +14,7 @@
     "quote_time_case": "11.25am",
     "quote_last": ", Katharina Blum was finally taken from her apartment for questioning, it was decided not to handcuff her at all.",
     "title": "The Lost Honour of Katharina Blum",
-    "author": "Heinrich Böll"
+    "author": "Heinrich Böll",
+    "sfw": "yes"
   }
 ]

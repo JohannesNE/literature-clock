@@ -5,7 +5,8 @@
     "quote_time_case": "8.50pm.",
     "quote_last": " Ah Diagram &ldquo;Buttons for IMC functions&rdquo;. But what are IMC functions?",
     "title": "Bridget Jones's Diary",
-    "author": "Helen Fielding"
+    "author": "Helen Fielding",
+    "sfw": "yes"
   },
   {
     "time": "20:50",
@@ -13,7 +14,8 @@
     "quote_time_case": "ten minutes before nine",
     "quote_last": ".",
     "title": "Around the world in eighty days",
-    "author": "Jules Verne"
+    "author": "Jules Verne",
+    "sfw": "yes"
   },
   {
     "time": "20:50",
@@ -21,7 +23,8 @@
     "quote_time_case": "ten minutes to nine",
     "quote_last": ".&rsquo; &lsquo;Good God!&rsquo; she exclaimed, turning quite pale. &lsquo;What am I to do?'",
     "title": "The Reluctant Widow",
-    "author": "Georgette Heyer"
+    "author": "Georgette Heyer",
+    "sfw": "yes"
   },
   {
     "time": "20:50",
@@ -29,7 +32,8 @@
     "quote_time_case": "2050",
     "quote_last": " on Thursdays.",
     "title": "Infinite Jest",
-    "author": "David Foster Wallace"
+    "author": "David Foster Wallace",
+    "sfw": "yes"
   },
   {
     "time": "20:50",
@@ -37,6 +41,7 @@
     "quote_time_case": "ten minutes to nine",
     "quote_last": ". Mrs Verloc cared nothing for time, and the ticking went on.",
     "title": "The Secret Agent",
-    "author": "Joseph Conrad"
+    "author": "Joseph Conrad",
+    "sfw": "yes"
   }
 ]

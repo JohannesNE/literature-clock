@@ -5,7 +5,8 @@
     "quote_time_case": "four o'clock",
     "quote_last": " she came to the window and stood there for a minute and then turned out the light.&quot;",
     "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "four am.",
     "quote_last": " I should have taken comfort from the fact that approximately quarter of the Greenwich Mean Time world had just jolted awake also and were lying, staring miserably into the darkness, worrying &hellip;&ldquo;",
     "title": "Watermelon",
-    "author": "Marian Keyes"
+    "author": "Marian Keyes",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "4am",
     "quote_last": ". On the screen a wild cat had a rabbit in its mouth.",
     "title": "Atomised",
-    "author": "Michel Houellebecq"
+    "author": "Michel Houellebecq",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "Four o'clock",
     "quote_last": "— Their period for Dawn—",
     "title": "The Birds begun at Four o'clock",
-    "author": "Emily Dickinson"
+    "author": "Emily Dickinson",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "at four",
     "quote_last": " in the morning, Sergio Gonzalez Rodriguez got a call from Azucena Esquivel Plata, reporter and PRI congresswoman.",
     "title": "2666",
-    "author": "Roberto Bolano"
+    "author": "Roberto Bolano",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -45,7 +50,8 @@
     "quote_time_case": "at four",
     "quote_last": " to soundless dark, I stare. In time the curtain-edges will grow light. Till then I see what&rsquo;s really always there: Unresting death, a whole day nearer now, Making all thought impossible but how And where and when I shall myself die.",
     "title": "Aubade",
-    "author": "Philip Larkin"
+    "author": "Philip Larkin",
+    "sfw": "yes"
   },
   {
     "time": "04:00",
@@ -53,6 +59,7 @@
     "quote_time_case": "at four",
     "quote_last": " in the morning, lingered and bought.",
     "title": "The Tea Rose",
-    "author": "Jennifer Donnelly"
+    "author": "Jennifer Donnelly",
+    "sfw": "yes"
   }
 ]

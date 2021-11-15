@@ -5,7 +5,8 @@
     "quote_time_case": "half-past five",
     "quote_last": ", and he was late.",
     "title": "Anna Karenina",
-    "author": "Leo Tolstoy"
+    "author": "Leo Tolstoy",
+    "sfw": "yes"
   },
   {
     "time": "17:30",
@@ -13,6 +14,7 @@
     "quote_time_case": "half-past five",
     "quote_last": " before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits of the blackest depression.",
     "title": "The Sign Of Four",
-    "author": "Arthur Conan Doyle"
+    "author": "Arthur Conan Doyle",
+    "sfw": "yes"
   }
 ]

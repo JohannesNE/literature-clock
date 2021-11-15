@@ -5,7 +5,8 @@
     "quote_time_case": "7.20 a.m.",
     "quote_last": " Wake up",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "07:23",
@@ -13,6 +14,7 @@
     "quote_time_case": "seven-twenty",
     "quote_last": ".",
     "title": "Babbitt",
-    "author": "Sinclair Lewis"
+    "author": "Sinclair Lewis",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "seven fifty-six",
     "quote_last": ".",
     "title": "The Undomestic Goddess",
-    "author": "Sophie Kinsella"
+    "author": "Sophie Kinsella",
+    "sfw": "yes"
   },
   {
     "time": "07:57",
@@ -13,6 +14,7 @@
     "quote_time_case": "four minutes to eight",
     "quote_last": ".",
     "title": "Buddenbrooks",
-    "author": "Thomas Mann"
+    "author": "Thomas Mann",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "6.00 p.m.",
     "quote_last": " Have tea",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "six o'clock",
     "quote_last": ", the night was already dark. The fog, made thicker by its proximity to the Seine, blurred every detail with its ragged veils, punctured at various distances by the reddish glow of lanterns and bars of light escaping from illuminated windows.",
     "title": "Le Club des Hachichins",
-    "author": "Théophile Gautier"
+    "author": "Théophile Gautier",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "six o'clock",
     "quote_last": ", same as usual.&rsquo; &lsquo;Are you sure he said six o'clock?&rsquo; she asked, puzzled. &lsquo;Quite sure.'",
     "title": "The Go-Between",
-    "author": "L.P. Hartley"
+    "author": "L.P. Hartley",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "six o'clock",
     "quote_last": ", full supper time. King Richard: I will not sup tonight. Give me some ink and paper.",
     "title": "Richard III",
-    "author": "William Shakespeare"
+    "author": "William Shakespeare",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "six o'clock",
     "quote_last": " to arrive; when he got to the inn, he found no one there but Monsieur Binet, already at the table.",
     "title": "Madame Bovary",
-    "author": "Gustave Flaubert"
+    "author": "Gustave Flaubert",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -45,7 +50,8 @@
     "quote_time_case": "Six o'clock",
     "quote_last": " and the master not home yet.",
     "title": "The skin of our teeth",
-    "author": "Thornton Wilder"
+    "author": "Thornton Wilder",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -53,7 +59,8 @@
     "quote_time_case": "six o'clock",
     "quote_last": " feeling in the house",
     "title": "The Prime of Miss Jean Brodie",
-    "author": "Muriel Spark"
+    "author": "Muriel Spark",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -61,7 +68,8 @@
     "quote_time_case": "Six o'clock",
     "quote_last": ".",
     "title": "Preludes",
-    "author": "T S Eliot"
+    "author": "T S Eliot",
+    "sfw": "yes"
   },
   {
     "time": "18:00",
@@ -69,6 +77,7 @@
     "quote_time_case": "six",
     "quote_last": ", she saw Mr and Mrs Biggs hurrying down the front stoop, rushing off to the shops before they closed.",
     "title": "The Interpretation Of Murder",
-    "author": "Jed Rubenfeld"
+    "author": "Jed Rubenfeld",
+    "sfw": "yes"
   }
 ]

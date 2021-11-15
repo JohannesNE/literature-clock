@@ -5,7 +5,8 @@
     "quote_time_case": "Half-past eight",
     "quote_last": ". Time to go down to the cellar and start work.&quot;",
     "title": "The Listerdale Mystery",
-    "author": "Agatha Christie"
+    "author": "Agatha Christie",
+    "sfw": "yes"
   },
   {
     "time": "20:30",
@@ -13,6 +14,7 @@
     "quote_time_case": "Half-past eight",
     "quote_last": " and there is not a spot upon a mile of road, no shadow thrown that might turn out a man or woman,",
     "title": "Inniskeen Road: July Evening",
-    "author": "Patrick Kavanagh"
+    "author": "Patrick Kavanagh",
+    "sfw": "yes"
   }
 ]

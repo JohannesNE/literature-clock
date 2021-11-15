@@ -5,7 +5,8 @@
     "quote_time_case": "Five past four",
     "quote_last": ".'",
     "title": "The Bell Jar",
-    "author": "Sylvia Plath"
+    "author": "Sylvia Plath",
+    "sfw": "yes"
   },
   {
     "time": "16:05",
@@ -13,7 +14,8 @@
     "quote_time_case": "Five past four",
     "quote_last": ".'",
     "title": "The Bell Jar",
-    "author": "Sylvia Plath"
+    "author": "Sylvia Plath",
+    "sfw": "yes"
   },
   {
     "time": "16:05",
@@ -21,6 +23,7 @@
     "quote_time_case": "five minutes past four",
     "quote_last": " as Mr. Robert Audley stepped out upon the platform at Shoreditch, and waited placidly … it took a long while to make matters agreeable to all claimants, and even the barrister&rsquo;s seraphic indifference to mundane affairs nearly gave way.",
     "title": "Lady Audley's Secret",
-    "author": "Mary Elizabeth Braddon"
+    "author": "Mary Elizabeth Braddon",
+    "sfw": "yes"
   }
 ]

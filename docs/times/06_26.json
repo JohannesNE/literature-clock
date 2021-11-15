@@ -5,7 +5,8 @@
     "quote_time_case": "6.25",
     "quote_last": ". But today the .25 is delayed to 6.44.",
     "title": "The Deaths",
-    "author": "Mark Lawson"
+    "author": "Mark Lawson",
+    "sfw": "yes"
   },
   {
     "time": "06:26",
@@ -13,6 +14,7 @@
     "quote_time_case": "Six-twenty-five",
     "quote_last": ". Well past daybreak. Morning papers delivered. &ldquo;According t'my estimates, in another twenty-nine hours and thirty-five minutes,&rdquo; said the Professor. &ldquo;Plus or minus forty-five minutes. I set it at twelve noon for easy reference. Noon tomorrow.",
     "title": "Hard Boiled Wonderland and the End of the World",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   }
 ]

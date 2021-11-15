@@ -14,7 +14,8 @@ names(litclock) <- c('time',
                      'quote_time',
                      'quote',
                      'title',
-                     'author')
+                     'author',
+                     'sfw')
 
 # Use markdown::smartypants to convert ASCII punctuation to smart punctuations
 litclock$quote <- purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x))
@@ -37,7 +38,7 @@ litclock <- litclock %>%
 
 # Create list by timestamp and save to individual files
 litclock_list <- litclock %>%
-  select(time, quote_first, quote_time_case, quote_last, title, author) %>%
+  select(time, quote_first, quote_time_case, quote_last, title, author, sfw) %>%
   split(litclock$time)
 
 # cat(toJSON(litclock_list, pretty = TRUE), file = "litclock_annotated.json")

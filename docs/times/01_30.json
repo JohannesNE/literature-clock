@@ -5,7 +5,8 @@
     "quote_time_case": "Half-past one",
     "quote_last": "”, The street lamp sputtered, The street lamp muttered, The street lamp said, &quot;Regard that woman &hellip;&quot;",
     "title": "Rhapsody on a Windy Night",
-    "author": "TS Eliot"
+    "author": "TS Eliot",
+    "sfw": "yes"
   },
   {
     "time": "01:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "1:30 A.M.",
     "quote_last": " the door opened and I thought it was Karla, but it was Bug, saying Karla and Laura had gone out for a stag night after they ran out of paint.",
     "title": "Microserfs",
-    "author": "Douglas Coupland"
+    "author": "Douglas Coupland",
+    "sfw": "yes"
   },
   {
     "time": "01:30",
@@ -21,7 +23,8 @@
     "quote_time_case": "one thirty",
     "quote_last": " in the morning. Until I looped around to 22nd and Broadway.",
     "title": "Gone Tomorrow",
-    "author": "Lee Child"
+    "author": "Lee Child",
+    "sfw": "yes"
   },
   {
     "time": "01:30",
@@ -29,6 +32,7 @@
     "quote_time_case": "1:30 a.m.",
     "quote_last": " Bad karaoke throbbed through walls. I was wide awake, straightjacketed by my sweaty sheets. A headache dug its thumbs into my temples. My gut pulsed with gamma interference: I lurched to the toilet.",
     "title": "Ghostwritten",
-    "author": "David Mitchell"
+    "author": "David Mitchell",
+    "sfw": "yes"
   }
 ]

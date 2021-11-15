@@ -5,7 +5,8 @@
     "quote_time_case": "five-and-twenty minutes past midnight",
     "quote_last": ". And it was indeed this which had taken place.",
     "title": "Fruitfulness",
-    "author": "Emile Zola"
+    "author": "Emile Zola",
+    "sfw": "yes"
   },
   {
     "time": "00:25",
@@ -13,6 +14,7 @@
     "quote_time_case": "Twenty-five past midnight",
     "quote_last": "! It was a triumph, it really was!",
     "title": "The Soldier's Wife",
-    "author": "Joanna Trollope"
+    "author": "Joanna Trollope",
+    "sfw": "yes"
   }
 ]

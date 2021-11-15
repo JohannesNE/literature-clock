@@ -5,7 +5,8 @@
     "quote_time_case": "8.05 pm",
     "quote_last": " Prof. Preobrazhensky commenced the first operation of its kind to be performed in Europe: removal under anaesthesia of a dog&rsquo;s testicles and their replacement by implanted human testes, with appendages and seminal ducts, taken from a 28-year-old human male",
     "title": "The Heart of a Dog",
-    "author": "Mikhail Bulgakov"
+    "author": "Mikhail Bulgakov",
+    "sfw": "yes"
   },
   {
     "time": "20:05",
@@ -13,6 +14,7 @@
     "quote_time_case": "five minutes past eight",
     "quote_last": ".",
     "title": "The Bostonians",
-    "author": "Henry James"
+    "author": "Henry James",
+    "sfw": "yes"
   }
 ]

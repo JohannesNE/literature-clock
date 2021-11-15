@@ -5,7 +5,8 @@
     "quote_time_case": "eleven-twenty",
     "quote_last": ", he parked his van across the street from the Hudston house.",
     "title": "Watchers",
-    "author": "Dean Koontz"
+    "author": "Dean Koontz",
+    "sfw": "yes"
   },
   {
     "time": "23:21",
@@ -13,6 +14,7 @@
     "quote_time_case": "twenty past eleven",
     "quote_last": ". &ldquo;Then I&rsquo;ll sleep here till three and catch the four o'clock freight. They let us men from the Fleet ride free as a rule.&quot;",
     "title": "Captains Courageous",
-    "author": "Rudyard Kipling"
+    "author": "Rudyard Kipling",
+    "sfw": "yes"
   }
 ]

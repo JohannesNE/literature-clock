@@ -5,7 +5,8 @@
     "quote_time_case": "2:55 a.m.",
     "quote_last": "?&quot;",
     "title": "The Night People",
-    "author": "Jack Finney"
+    "author": "Jack Finney",
+    "sfw": "yes"
   },
   {
     "time": "02:55",
@@ -13,6 +14,7 @@
     "quote_time_case": "2.55am.",
     "quote_last": " Two-handed, Cec lifted his peak cap from the chair.",
     "title": "Downriver",
-    "author": "Iain Sinclair"
+    "author": "Iain Sinclair",
+    "sfw": "yes"
   }
 ]

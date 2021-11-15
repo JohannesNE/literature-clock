@@ -5,7 +5,8 @@
     "quote_time_case": "2:30 a.m.",
     "quote_last": " with a better idea? Yippee, to quote Lew, we&rsquo;re having a party! What&rsquo;re we serving, Lew?&rdquo; &ldquo;Beer, I guess. Haven&rsquo;t got any wine, have we, Jo?&rdquo; &ldquo;Just for cooking.&quot;",
     "title": "The Night People",
-    "author": "Jack Finney"
+    "author": "Jack Finney",
+    "sfw": "yes"
   },
   {
     "time": "02:30",
@@ -13,15 +14,15 @@
     "quote_time_case": "half past two",
     "quote_last": " she had been woken by the creak of footsteps out on the stairs. At first she had been frightened.",
     "title": "The Little Stranger",
-    "author": "Sarah Waters"
+    "author": "Sarah Waters",
+    "sfw": "yes"
   },
   {
     "time": "02:30",
-    "quote_first": "Inc, I tried to pull her off about ",
-    "quote_time_case": "0230",
-    "quote_last": ", and there was this fucking… sound.",
+    "quote_first": "Inc, I tried to pull her off about 0230, and there was this fucking… sound.",
     "title": "Infinite Jest",
-    "author": "David Foster Wallace"
+    "author": "David Foster Wallace",
+    "sfw": "no"
   },
   {
     "time": "02:30",
@@ -29,6 +30,7 @@
     "quote_time_case": "2.30am",
     "quote_last": " and I am tight. As a tick, as a lord, as a newt. Must write this down before the sublime memories fade and blur.",
     "title": "Any Human Heart",
-    "author": "William Boyd"
+    "author": "William Boyd",
+    "sfw": "yes"
   }
 ]

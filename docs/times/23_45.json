@@ -5,7 +5,8 @@
     "quote_time_case": "three quarters past eleven",
     "quote_last": ", as two figures emerged on London Bridge. One, which advanced with a swift and rapid step, was that of a woman who looked eagerly about her as though in quest of some expected object; the other figure was that of a man&hellip;",
     "title": "Oliver Twist",
-    "author": "Charles Dickens"
+    "author": "Charles Dickens",
+    "sfw": "yes"
   },
   {
     "time": "23:45",
@@ -13,6 +14,7 @@
     "quote_time_case": "quarter to twelve",
     "quote_last": " and then George said thoughtfully: &lsquo;You don&rsquo;t happen to remember which of the islands it was, do you?&rsquo;",
     "title": "Three Men in a Boat",
-    "author": "Jerome K. Jerome"
+    "author": "Jerome K. Jerome",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "four-twelve",
     "quote_last": " in the morning. Not yet dawn. The morning papers still not delivered, trains not yet running, citizens of the surface world fast asleep, oblivious to all this. I pulled the rope taut with both hands, took a deep breath, then slowly began my climb.",
     "title": "Hard Boiled Wonderland and the End of the World",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   },
   {
     "time": "04:12",
@@ -13,6 +14,7 @@
     "quote_time_case": "4:12",
     "quote_last": " in pale green. Behind her Harry continued to move, settling in. She watched the numbers change to 4:13.",
     "title": "Get Shorty",
-    "author": "Elmore Leonard"
+    "author": "Elmore Leonard",
+    "sfw": "yes"
   }
 ]

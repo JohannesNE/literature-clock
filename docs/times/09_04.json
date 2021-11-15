@@ -5,7 +5,8 @@
     "quote_time_case": "9:04am",
     "quote_last": " lay in bed, staring at ceiling",
     "title": "A Fraction of the Whole",
-    "author": "Steve Toltz"
+    "author": "Steve Toltz",
+    "sfw": "yes"
   },
   {
     "time": "09:04",
@@ -13,6 +14,7 @@
     "quote_time_case": "9.04",
     "quote_last": ".",
     "title": "The Great Train Robbery",
-    "author": "Michael Crichton"
+    "author": "Michael Crichton",
+    "sfw": "yes"
   }
 ]

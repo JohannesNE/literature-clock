@@ -1,11 +1,10 @@
 [
   {
     "time": "16:50",
-    "quote_first": "&ldquo;The train standing at Platform 3,&rdquo; the Voice told her, &ldquo;is the ",
-    "quote_time_case": "4.50",
-    "quote_last": " for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.&rdquo; The voice shut itself off with a click,",
+    "quote_first": "&ldquo;The train standing at Platform 3,&rdquo; the Voice told her, &ldquo;is the 4.50 for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.&rdquo; The voice shut itself off with a click,",
     "title": "4.50 from Paddington",
-    "author": "Agatha Christie"
+    "author": "Agatha Christie",
+    "sfw": "yes"
   },
   {
     "time": "16:50",
@@ -13,7 +12,8 @@
     "quote_time_case": "ten minutes to five",
     "quote_last": " in the castle.",
     "title": "The 13 Clocks",
-    "author": "James Thurber"
+    "author": "James Thurber",
+    "sfw": "yes"
   },
   {
     "time": "16:50",
@@ -21,6 +21,7 @@
     "quote_time_case": "ten minutes to five",
     "quote_last": ", she began to listen, and a few moments later, punctually as always, she heard the tires on the gravel outside, and the car door slamming, the footsteps passing the window, the key turning in the lock. She laid aside her sewing, stood up, and went forward to kiss him as he came in.",
     "title": "Lamb to the Slaughter",
-    "author": "Roald Dahl"
+    "author": "Roald Dahl",
+    "sfw": "yes"
   }
 ]

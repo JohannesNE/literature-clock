@@ -5,7 +5,8 @@
     "quote_time_case": "ten-past three",
     "quote_last": ".",
     "title": "The Whole Story and Other Stories",
-    "author": "Ali Smith"
+    "author": "Ali Smith",
+    "sfw": "yes"
   },
   {
     "time": "03:13",
@@ -13,6 +14,7 @@
     "quote_time_case": "ten past three",
     "quote_last": "",
     "title": "Love Again",
-    "author": "Philip Larkin"
+    "author": "Philip Larkin",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "twenty minutes before ten",
     "quote_last": ".",
     "title": "Around the World in 80 days",
-    "author": "Jules Verne"
+    "author": "Jules Verne",
+    "sfw": "yes"
   },
   {
     "time": "09:40",
@@ -13,6 +14,7 @@
     "quote_time_case": "9:40",
     "quote_last": ". To sleep 4:15.",
     "title": "The Voices of Time",
-    "author": "JG Ballard"
+    "author": "JG Ballard",
+    "sfw": "yes"
   }
 ]

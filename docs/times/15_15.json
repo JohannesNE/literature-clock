@@ -5,7 +5,8 @@
     "quote_time_case": "quarter past three",
     "quote_last": ".",
     "title": "Keep the Aspidistra Flying",
-    "author": "George Orwell"
+    "author": "George Orwell",
+    "sfw": "yes"
   },
   {
     "time": "15:15",
@@ -13,7 +14,8 @@
     "quote_time_case": "3:15",
     "quote_last": ".&rdquo; That was about four hours from now.",
     "title": "Where I'm Calling From",
-    "author": "Raymond Carver"
+    "author": "Raymond Carver",
+    "sfw": "yes"
   },
   {
     "time": "15:15",
@@ -21,6 +23,7 @@
     "quote_time_case": "3:15",
     "quote_last": ".",
     "title": "The Voices of Time",
-    "author": "JG Ballard"
+    "author": "JG Ballard",
+    "sfw": "yes"
   }
 ]

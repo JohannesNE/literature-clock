@@ -5,7 +5,8 @@
     "quote_time_case": "Quarter past six",
     "quote_last": ",&rsquo; said Tony. &lsquo;He&rsquo;s bound to have told her by now.'",
     "title": "A Handful of Dust",
-    "author": "Evelyn Waugh"
+    "author": "Evelyn Waugh",
+    "sfw": "yes"
   },
   {
     "time": "18:18",
@@ -13,7 +14,8 @@
     "quote_time_case": "quarter past six",
     "quote_last": " he was through with them.",
     "title": "The Photograph",
-    "author": "Penelope Lively"
+    "author": "Penelope Lively",
+    "sfw": "yes"
   },
   {
     "time": "18:18",
@@ -21,6 +23,7 @@
     "quote_time_case": "6.15 pm.",
     "quote_last": " I was never going to finish my essay in forty-five minutes",
     "title": "Girl Missing",
-    "author": "Sophie McKenzie"
+    "author": "Sophie McKenzie",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "ten past eleven",
     "quote_last": ". Richard declined with thanks my offer to make up a bed for him here in my study, and has driven off back to Cambridge, so I am able to make some notes on the day before going to bed myself.",
     "title": "Deaf Sentence",
-    "author": "David Lodge"
+    "author": "David Lodge",
+    "sfw": "yes"
   },
   {
     "time": "23:10",
@@ -13,6 +14,7 @@
     "quote_time_case": "ten minutes past eleven",
     "quote_last": " no one could have helped him, no one in the world",
     "title": "Appointment in Samarra",
-    "author": "John O'Hara"
+    "author": "John O'Hara",
+    "sfw": "yes"
   }
 ]

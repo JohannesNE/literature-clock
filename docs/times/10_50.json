@@ -5,7 +5,8 @@
     "quote_time_case": "10.50 a.m.",
     "quote_last": " Art class with Mrs Peters",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "10:50",
@@ -13,6 +14,7 @@
     "quote_time_case": "ten to eleven",
     "quote_last": ".",
     "title": "Bomber",
-    "author": "Len Deighton"
+    "author": "Len Deighton",
+    "sfw": "yes"
   }
 ]

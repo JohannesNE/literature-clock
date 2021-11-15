@@ -5,7 +5,8 @@
     "quote_time_case": "half past eight",
     "quote_last": ", Mr. Dursley picked up his briefcase, pecked Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, because Dudley was now having a tantrum and throwing his cereal at the walls.",
     "title": "Harry Potter and the Philosopher's Stone",
-    "author": "JK Rowling"
+    "author": "JK Rowling",
+    "sfw": "yes"
   },
   {
     "time": "08:31",
@@ -13,7 +14,8 @@
     "quote_time_case": "8:30",
     "quote_last": ". Sunshine comes through the windows at right. As the curtain rises, the family has just finished breakfast.",
     "title": "Long Day's Journey Into Night",
-    "author": "Eugene O'Neill"
+    "author": "Eugene O'Neill",
+    "sfw": "yes"
   },
   {
     "time": "08:31",
@@ -21,7 +23,8 @@
     "quote_time_case": "8:30 a.m.",
     "quote_last": " the bitch Novaya dies whelping. At 10 o'clock she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
     "title": "The Terrors of Ice and Darkness",
-    "author": "Christoph Ransmayr"
+    "author": "Christoph Ransmayr",
+    "sfw": "yes"
   },
   {
     "time": "08:31",
@@ -29,7 +32,8 @@
     "quote_time_case": "eight-thirty",
     "quote_last": ".",
     "title": "A Confederacy of Dunces",
-    "author": "John Kennedy Toole"
+    "author": "John Kennedy Toole",
+    "sfw": "yes"
   },
   {
     "time": "08:31",
@@ -37,6 +41,7 @@
     "quote_time_case": "eight-thirty",
     "quote_last": ", he was alone in the bedroom. He put on his dressing gown and put in his hearing aid and went into the living room.",
     "title": "Deaf Sentence",
-    "author": "David Lodge"
+    "author": "David Lodge",
+    "sfw": "yes"
   }
 ]

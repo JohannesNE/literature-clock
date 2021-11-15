@@ -5,7 +5,8 @@
     "quote_time_case": "11.40am",
     "quote_last": ",&rdquo; and waited.",
     "title": "Around the World in Eighty Days",
-    "author": "Jules Verne"
+    "author": "Jules Verne",
+    "sfw": "yes"
   },
   {
     "time": "11:40",
@@ -13,6 +14,7 @@
     "quote_time_case": "twenty minutes before noon",
     "quote_last": ".",
     "title": "The Master of Go",
-    "author": "Yusunari Kawabata"
+    "author": "Yusunari Kawabata",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "Two-twenty",
     "quote_last": "&rsquo; &lsquo;Ah&hellip;Two-twenty!&rsquo; Genevieve repeated, as though there was something urgent to be done.",
     "title": "Southern Mail",
-    "author": "Antoine de Saint Exupery"
+    "author": "Antoine de Saint Exupery",
+    "sfw": "yes"
   },
   {
     "time": "02:20",
@@ -13,6 +14,7 @@
     "quote_time_case": "two twenty",
     "quote_last": ", by the green hands of his alarm, he knew that this time he&rsquo;d actually been waiting for it in his sleep.",
     "title": "The Night People",
-    "author": "Jack Finney"
+    "author": "Jack Finney",
+    "sfw": "yes"
   }
 ]

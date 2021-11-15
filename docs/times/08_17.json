@@ -5,7 +5,8 @@
     "quote_time_case": "8.17 a.m.",
     "quote_last": "; barometer, 297 in.; thermometer, 6° (43° F.). Direction, E.S.E.”\nThis last observation applied to the dark gallery, and was indicated by the compass.",
     "title": "A Journey to the Centre of the Earth",
-    "author": "Jules Verne"
+    "author": "Jules Verne",
+    "sfw": "yes"
   },
   {
     "time": "08:17",
@@ -13,6 +14,7 @@
     "quote_time_case": "eight seventeen",
     "quote_last": ". I can&rsquo;t do this.",
     "title": "The Undomestic Goddess",
-    "author": "Sophie Kinsella"
+    "author": "Sophie Kinsella",
+    "sfw": "yes"
   }
 ]

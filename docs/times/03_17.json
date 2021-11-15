@@ -5,7 +5,8 @@
     "quote_time_case": "3:17",
     "quote_last": " in the morning.",
     "title": "The Goldfinch",
-    "author": "Donna Tartt"
+    "author": "Donna Tartt",
+    "sfw": "yes"
   },
   {
     "time": "03:17",
@@ -13,6 +14,7 @@
     "quote_time_case": "3.17 a.m.",
     "quote_last": " this March night.",
     "title": "What Was Lost",
-    "author": "Catherine O'Flynn"
+    "author": "Catherine O'Flynn",
+    "sfw": "yes"
   }
 ]

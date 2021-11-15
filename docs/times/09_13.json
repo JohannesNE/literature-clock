@@ -5,7 +5,8 @@
     "quote_time_case": "9:13am",
     "quote_last": " lay in bed, staring at wall",
     "title": "A Fraction of the Whole",
-    "author": "Steve Toltz"
+    "author": "Steve Toltz",
+    "sfw": "yes"
   },
   {
     "time": "09:13",
@@ -13,6 +14,7 @@
     "quote_time_case": "9:13 A.M.",
     "quote_last": "",
     "title": "Mistaken Identity",
-    "author": "Lisas Scottoline"
+    "author": "Lisas Scottoline",
+    "sfw": "yes"
   }
 ]

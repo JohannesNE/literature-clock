@@ -1,11 +1,10 @@
 [
   {
     "time": "08:40",
-    "quote_first": "At this moment the clock indicated ",
-    "quote_time_case": "8.40",
-    "quote_last": ". &lsquo;Five minutes more,&rsquo; said Andrew Stuart. The five friends looked at each other. One may surmise that their heart-beats were slightly accelereted, for, even for bold gamblers, the stake was a large one.&lsquo;",
+    "quote_first": "At this moment the clock indicated 8.40. &lsquo;Five minutes more,&rsquo; said Andrew Stuart. The five friends looked at each other. One may surmise that their heart-beats were slightly accelereted, for, even for bold gamblers, the stake was a large one.&lsquo;",
     "title": "Around the world in eighty days",
-    "author": "Jules Verne"
+    "author": "Jules Verne",
+    "sfw": "yes"
   },
   {
     "time": "08:40",
@@ -13,6 +12,7 @@
     "quote_time_case": "twenty minutes to nine",
     "quote_last": ", and that a clock in the room had stopped at twenty minutes to nine.",
     "title": "Great Expectations",
-    "author": "Charles Dickens"
+    "author": "Charles Dickens",
+    "sfw": "yes"
   }
 ]

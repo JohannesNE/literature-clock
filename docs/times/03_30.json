@@ -5,7 +5,8 @@
     "quote_time_case": "Half past Three",
     "quote_last": ", a single Bird Unto a silent Sky Propounded but a single term Of cautious melody.",
     "title": "At Half past Three, a single Bird",
-    "author": "Emily Dickinson"
+    "author": "Emily Dickinson",
+    "sfw": "yes"
   },
   {
     "time": "03:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "half-past three A.M.",
     "quote_last": " he lost one illusion: officers sent to reconnoitre informed him that the enemy was making no movement.",
     "title": "Les Miserables",
-    "author": "Victor Hugo"
+    "author": "Victor Hugo",
+    "sfw": "yes"
   },
   {
     "time": "03:30",
@@ -21,7 +23,8 @@
     "quote_time_case": "3:30 A.M.",
     "quote_last": " in Mrs. Ralph&rsquo;s finally quiet house when Garp decides to clean the kitchen, to kill the time until dawn. Familiar with a housewife&rsquo;s tasks, Garp fills the sink and starts to wash the dishes.",
     "title": "The World According to Garp",
-    "author": "John Irving"
+    "author": "John Irving",
+    "sfw": "yes"
   },
   {
     "time": "03:30",
@@ -29,7 +32,8 @@
     "quote_time_case": "three-thirty",
     "quote_last": ".",
     "title": "Whoever Was Using This Bed",
-    "author": "Raymond Carver"
+    "author": "Raymond Carver",
+    "sfw": "yes"
   },
   {
     "time": "03:30",
@@ -37,6 +41,7 @@
     "quote_time_case": "three thirty",
     "quote_last": " in the morning to ask if it&rsquo;s all right for my son to eat worms. That&rsquo;s flat.",
     "title": "How to Eat Fried Worms",
-    "author": "Thomas Rockwell"
+    "author": "Thomas Rockwell",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "at eleven",
     "quote_last": " exactly, sir.&rsquo; At the bar, naked couples had begun dancing.",
     "title": "Smiley's People",
-    "author": "John le Carre"
+    "author": "John le Carre",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -13,7 +14,8 @@
     "quote_time_case": "eleven o'clock",
     "quote_last": " that night, having secured a bed at one of the hotels and telegraphed his address to his father immediately on his arrival, he walked out into the streets of Sandbourne.",
     "title": "Tess of the d'Urbervilles",
-    "author": "Thomas Hardy"
+    "author": "Thomas Hardy",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -21,7 +23,8 @@
     "quote_time_case": "eleven o'clock",
     "quote_last": ", I rang the bell for Betteredge, and told Mr. Blake that he might at last prepare himself for bed.",
     "title": "The Moonstone",
-    "author": "Wilkie Collins"
+    "author": "Wilkie Collins",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -29,7 +32,8 @@
     "quote_time_case": "eleven o'clock",
     "quote_last": " express.&rdquo; &ldquo;But it doesn&rsquo;t stop here&hellip;.&rdquo; &ldquo;It will. Go to track six. Opposite the freight station. You have three minutes.&rdquo; &ldquo;But&hellip;&rdquo; &ldquo;Move, or I&rsquo;ll have to arrest you.&quot;",
     "title": "If on a winter's night a traveller",
-    "author": "Italo Calvino"
+    "author": "Italo Calvino",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -37,7 +41,8 @@
     "quote_time_case": "eleven",
     "quote_last": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
     "title": "Jane Eyre",
-    "author": "Charlotte Brontë"
+    "author": "Charlotte Brontë",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -45,7 +50,8 @@
     "quote_time_case": "eleven",
     "quote_last": ". I looked at Adele, whose head leant against my shoulder; her eyes were waxing heavy, so I took her up in my arms and carried her off to bed. It was near one before the gentlemen and ladies sought their chambers.",
     "title": "Jane Eyre",
-    "author": "Charlotte Brontë"
+    "author": "Charlotte Brontë",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -53,7 +59,8 @@
     "quote_time_case": "at eleven",
     "quote_last": " that night.",
     "title": "The Recognitions",
-    "author": "William Gaddis"
+    "author": "William Gaddis",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -61,7 +68,8 @@
     "quote_time_case": "2300h",
     "quote_last": ".",
     "title": "Infinite Jest",
-    "author": "David Foster Wallace"
+    "author": "David Foster Wallace",
+    "sfw": "yes"
   },
   {
     "time": "23:01",
@@ -69,6 +77,7 @@
     "quote_time_case": "eleven o'clock",
     "quote_last": ", they found a perfect night for stargazing, cloudless and still.",
     "title": "Harry Potter and the Order of the Phoenix",
-    "author": "JK Rowling"
+    "author": "JK Rowling",
+    "sfw": "yes"
   }
 ]

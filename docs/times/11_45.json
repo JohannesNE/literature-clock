@@ -5,7 +5,8 @@
     "quote_time_case": "quarter to twelve",
     "quote_last": ", and found then that I was in All Souls'. But I wasn&rsquo;t much frightened, for I thought it could be tomorrow as well.&quot;",
     "title": "Far from the madding crowd",
-    "author": "Thomas Hardy"
+    "author": "Thomas Hardy",
+    "sfw": "yes"
   },
   {
     "time": "11:45",
@@ -13,7 +14,8 @@
     "quote_time_case": "quarter to twelve",
     "quote_last": ".",
     "title": "Mrs. Dalloway",
-    "author": "Virginia Woolf"
+    "author": "Virginia Woolf",
+    "sfw": "yes"
   },
   {
     "time": "11:45",
@@ -21,7 +23,8 @@
     "quote_time_case": "quarter to twelve",
     "quote_last": ".",
     "title": "Mrs Dalloway",
-    "author": "Virginia Woolf"
+    "author": "Virginia Woolf",
+    "sfw": "yes"
   },
   {
     "time": "11:45",
@@ -29,7 +32,8 @@
     "quote_time_case": "11.45am",
     "quote_last": " on Thursday, the 16th by an agent de police and an inspector in plain clothes and taken to the Commissariat.",
     "title": "Epitaph for a Spy",
-    "author": "Eric Ambler"
+    "author": "Eric Ambler",
+    "sfw": "yes"
   },
   {
     "time": "11:45",
@@ -37,6 +41,7 @@
     "quote_time_case": "11:45 A.M.",
     "quote_last": "",
     "title": "Mistaken Identity",
-    "author": "Lisa Scottoline"
+    "author": "Lisa Scottoline",
+    "sfw": "yes"
   }
 ]

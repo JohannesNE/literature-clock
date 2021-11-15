@@ -5,7 +5,8 @@
     "quote_time_case": "quarter to three",
     "quote_last": ".",
     "title": "The Diary of a Nobody",
-    "author": "George and Weedon Grossmith"
+    "author": "George and Weedon Grossmith",
+    "sfw": "yes"
   },
   {
     "time": "14:48",
@@ -13,7 +14,8 @@
     "quote_time_case": "two forty-five",
     "quote_last": "'.",
     "title": "The Pregnant Window",
-    "author": "Martin Amis"
+    "author": "Martin Amis",
+    "sfw": "no"
   },
   {
     "time": "14:48",
@@ -21,6 +23,7 @@
     "quote_time_case": "quarter to three",
     "quote_last": "&rsquo;.",
     "title": "The Old Woman",
-    "author": "Daniil Ivanovich Kharms"
+    "author": "Daniil Ivanovich Kharms",
+    "sfw": "yes"
   }
 ]

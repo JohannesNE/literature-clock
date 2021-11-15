@@ -5,7 +5,8 @@
     "quote_time_case": "8:07 pm",
     "quote_last": " and I had been sitting on the bench for approximately 5 hours but it hadn&rsquo;t seemed like approximately 5 hours, except that my bottom hurt and I was hungry and thirsty.",
     "title": "The Curious Incident of the Dog in the Night-Time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "20:09",
@@ -13,6 +14,7 @@
     "quote_time_case": "8:07",
     "quote_last": ", with a positive ID.",
     "title": "Mistaken Identity",
-    "author": "Lisa Scottoline"
+    "author": "Lisa Scottoline",
+    "sfw": "yes"
   }
 ]

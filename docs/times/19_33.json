@@ -5,7 +5,8 @@
     "quote_time_case": "half-past seven",
     "quote_last": "? That&rsquo;s impossible, it must be fast!’",
     "title": "Crime and Punishment",
-    "author": "Fyodor Dostoyevsky"
+    "author": "Fyodor Dostoyevsky",
+    "sfw": "yes"
   },
   {
     "time": "19:33",
@@ -13,7 +14,8 @@
     "quote_time_case": "7:30",
     "quote_last": " that same evening we see our first floes and greet them wishing they were the last.",
     "title": "The Terrors of Ice and Darkness",
-    "author": "Christoph Ransmayr"
+    "author": "Christoph Ransmayr",
+    "sfw": "yes"
   },
   {
     "time": "19:33",
@@ -21,14 +23,14 @@
     "quote_time_case": "half-past seven",
     "quote_last": ". This was the twilight time. He would be there now. I pictured him in his old navy-blue sweater and peaked cap, walking soft-footed up the track towards the wood. He told me he wore the sweater because navy-blue barely showed up in the dark, black was even better, he said. The peaked cap was important too, he explained, because the peak casts a shadow over one&rsquo;s face.",
     "title": "Danny, the Champion of the World",
-    "author": "Roald Dahl"
+    "author": "Roald Dahl",
+    "sfw": "yes"
   },
   {
     "time": "19:33",
-    "quote_first": "The telephone call came at ",
-    "quote_time_case": "7.30",
-    "quote_last": " on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
+    "quote_first": "The telephone call came at 7.30 on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
     "title": "A Simple Story",
-    "author": "Leonardo Sciascia"
+    "author": "Leonardo Sciascia",
+    "sfw": "yes"
   }
 ]

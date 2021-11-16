@@ -10,7 +10,28 @@
 
         function loadFile(timeStamp) {
             return new Promise((resolve, reject) => {
-                $.getJSON("times/" + timeStamp + ".json", json => resolve(json));
+                $.getJSON("times/" + timeStamp + ".json", json => resolve(json)).fail(() => reject());
+            });
+        }
+
+        function getQuote(timeStamp, sfw) {
+            // This part can probably be done better?
+            var lastDigit = parseInt(timeStamp.slice(-1), 10);
+            // None of the cases where this will fail exist in our data set.
+            var oneMinuteAgo = timeStamp.slice(0, -1) + (lastDigit - 1).toString();
+            return loadFile(timeStamp).then(json => {
+                if (sfw) {
+                    json = json.filter(single => single.sfw === 'yes');
+                }
+                if (json.length === 0) {
+                    return getQuote(oneMinuteAgo, sfw);
+                }
+                return new Promise((res, rej) => {
+                    res(json[Math.floor(Math.random() * json.length)]);
+                })
+                .catch(() => {
+                    return getQuote(oneMinuteAgo, sfw);
+                });
             });
         }
 
@@ -35,17 +56,10 @@
 
             //Test longest (20:15)
             //Test shortest (08:51)
-            //timeCode = "20_07";
+            //timeCode = "00_13";
 
-            // Load JSON file
-            loadFile(timeCode).then((lit_json) => {
-
-                // select single random text
-                var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
-                // Probably inefficient (?) check if sfw query parameter is supplied, and reload if quote not sfw
-                if (sfw) {
-                    while (!lit_json_single.sfw === 'yes') lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
-                }
+            // Get quote from JSON
+            getQuote(timeCode, sfw).then(lit_json_single => {
                 // get quote_len
                 var quote_len = (lit_json_single.quote_first + lit_json_single.quote_time_case + lit_json_single.quote_last).length
 
@@ -70,6 +84,7 @@
                 var t = setTimeout(startTime, 1000);
             });
         }
+        
         function checkTime(i) {
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
             return i;

@@ -23,13 +23,8 @@
             }
 
             current_date = today;
-            var h = today.getHours();
-            var m = today.getMinutes();
-            // var s = today.getSeconds();
-            h = checkTime(h);
-            m = checkTime(m);
-            // s = checkTime(s);
-            var timeCode = h + "_" + m;  // fixed for windows compatibility
+
+            var timeCode = dateToTimecode(today);
 
             //Test longest (20:15)
             //Test shortest (08:51)
@@ -65,6 +60,18 @@
                 var t = setTimeout(startTime, 1000);
             });
         }
+
+        function dateToTimecode(date) {
+            var h = date.getHours();
+            var m = date.getMinutes();
+            // var s = date.getSeconds();
+            h = checkTime(h);
+            m = checkTime(m);
+            // s = checkTime(s);
+            return h + "_" + m;  // fixed for windows compatibility
+
+        }
+
         function checkTime(i) {
             if (i < 10) { i = "0" + i };  // add zero in front of numbers < 10
             return i;

@@ -62,8 +62,6 @@
                     console.log(e);
                 }
 
-                // Timeout
-                var t = setTimeout(startTime, 1000);
             });
         }
         function startTime() {
@@ -86,6 +84,9 @@
             //time = new Date('Tue Nov 16 2021 00:05:00'); // Test nsfw time
 
             updateText(time, sfw);
+
+            // Timeout
+            var t = setTimeout(startTime, 1000);
         }
 
         function oneMinuteAgo(time) {

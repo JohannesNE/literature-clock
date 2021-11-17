@@ -5,7 +5,8 @@
     "quote_time_case": "five minutes to twelve",
     "quote_last": " to see if he could catch anyone leaving off for dinner before the proper time.",
     "title": "The Ragged Trousered Philanthropists",
-    "author": "Robert Tressell"
+    "author": "Robert Tressell",
+    "sfw": "yes"
   },
   {
     "time": "11:55",
@@ -13,7 +14,8 @@
     "quote_time_case": "11:55 a.m.",
     "quote_last": " on April 30.",
     "title": "All the President's Men",
-    "author": "Bernstein & Woodward"
+    "author": "Bernstein & Woodward",
+    "sfw": "yes"
   },
   {
     "time": "11:55",
@@ -21,6 +23,7 @@
     "quote_time_case": "11:55",
     "quote_last": ". I remember since I happened to glance at my watch when we got there. We rode our bicycles to the bottom of the hill, as far as we could go, then climbed the rest of the way on foot.",
     "title": "Kafka on the Shore",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   }
 ]

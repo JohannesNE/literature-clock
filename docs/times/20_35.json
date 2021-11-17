@@ -5,7 +5,8 @@
     "quote_time_case": "8:35pm.",
     "quote_last": " Found operating instructions under Hello.",
     "title": "Bridget Jones's Diary",
-    "author": "Helen Fielding"
+    "author": "Helen Fielding",
+    "sfw": "yes"
   },
   {
     "time": "20:35",
@@ -13,7 +14,8 @@
     "quote_time_case": "8.35 p.m.",
     "quote_last": " on 1st May, arriving at Vienna early the next morning",
     "title": "Dracula",
-    "author": "Bram Stoker"
+    "author": "Bram Stoker",
+    "sfw": "yes"
   },
   {
     "time": "20:35",
@@ -21,6 +23,7 @@
     "quote_time_case": "five and twenty to nine",
     "quote_last": ".",
     "title": "The Listerdale mystery",
-    "author": "Agatha Christie"
+    "author": "Agatha Christie",
+    "sfw": "yes"
   }
 ]

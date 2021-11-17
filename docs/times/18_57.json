@@ -5,7 +5,8 @@
     "quote_time_case": "a few minutes before seven",
     "quote_last": ".&rdquo;",
     "title": "Bridging",
-    "author": "Max Apple"
+    "author": "Max Apple",
+    "sfw": "yes"
   },
   {
     "time": "18:57",
@@ -13,6 +14,7 @@
     "quote_time_case": "three minutes to the hour; which was seven",
     "quote_last": ".&lsquo;",
     "title": "Between the Acts",
-    "author": "Virginia Woolf"
+    "author": "Virginia Woolf",
+    "sfw": "yes"
   }
 ]

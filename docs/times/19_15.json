@@ -5,7 +5,8 @@
     "quote_time_case": "7:15",
     "quote_last": ". (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
     "title": "The Voices of Time",
-    "author": "JG Ballard"
+    "author": "JG Ballard",
+    "sfw": "yes"
   },
   {
     "time": "19:15",
@@ -13,7 +14,8 @@
     "quote_time_case": "seven fifteen",
     "quote_last": " screening of Scarface at the Gate.",
     "title": "The Line of Beauty",
-    "author": "Alan Hollinghurst"
+    "author": "Alan Hollinghurst",
+    "sfw": "yes"
   },
   {
     "time": "19:15",
@@ -21,6 +23,7 @@
     "quote_time_case": "seven-fifteen",
     "quote_last": " not another soul could squeeze into the house.",
     "title": "The elderly lady",
-    "author": "Jorge Luis Borges"
+    "author": "Jorge Luis Borges",
+    "sfw": "yes"
   }
 ]

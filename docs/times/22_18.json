@@ -5,7 +5,8 @@
     "quote_time_case": "Ten eighteen",
     "quote_last": " by mine. You see.&rdquo;",
     "title": "The Quiet American",
-    "author": "Graham Greene"
+    "author": "Graham Greene",
+    "sfw": "yes"
   },
   {
     "time": "22:18",
@@ -13,6 +14,7 @@
     "quote_time_case": "10:18pm.",
     "quote_last": " Ah. Thelma and Louise is in there",
     "title": "Bridget Jones's Diary",
-    "author": "Helen Fielding"
+    "author": "Helen Fielding",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "half-past one",
     "quote_last": ", and said we dined at two; he said he &ldquo;would be there.&quot;",
     "title": "The Diary of a Nobody",
-    "author": "George and Weedon Grossmith"
+    "author": "George and Weedon Grossmith",
+    "sfw": "yes"
   },
   {
     "time": "13:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "half past one",
     "quote_last": ".",
     "title": "Brighton Rock",
-    "author": "Graham Greene"
+    "author": "Graham Greene",
+    "sfw": "yes"
   },
   {
     "time": "13:30",
@@ -21,6 +23,7 @@
     "quote_time_case": "half-past one",
     "quote_last": ".",
     "title": "Mrs dalloway",
-    "author": "Virginia Woolf"
+    "author": "Virginia Woolf",
+    "sfw": "yes"
   }
 ]

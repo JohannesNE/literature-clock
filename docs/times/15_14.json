@@ -5,7 +5,8 @@
     "quote_time_case": "3.14",
     "quote_last": " up,&rdquo; said Perks. &ldquo;You lie low till she&rsquo;s through, and then we&rsquo;ll go up along to my place, and see if there&rsquo;s any of them strawberries ripe what I told you about.&rdquo;",
     "title": "The Railway Children",
-    "author": "Edith Nesbit"
+    "author": "Edith Nesbit",
+    "sfw": "yes"
   },
   {
     "time": "15:14",
@@ -13,6 +14,7 @@
     "quote_time_case": "THREE fourteen",
     "quote_last": ", for our hour of revery together, real sweet revery darling",
     "title": "On the Road",
-    "author": "Jack Kerouac"
+    "author": "Jack Kerouac",
+    "sfw": "yes"
   }
 ]

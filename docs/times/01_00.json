@@ -5,7 +5,8 @@
     "quote_time_case": "1.00 am.",
     "quote_last": " I felt the surrounding quietness suffocating me.",
     "title": "Sister",
-    "author": "Rosamund Lupton"
+    "author": "Rosamund Lupton",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "one o’clock",
     "quote_last": ". He swallowed three Xanax. So ended his first night of freedom.",
     "title": "Atomised",
-    "author": "Michel Houellebecq"
+    "author": "Michel Houellebecq",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "nearly one o'clock",
     "quote_last": ". All I could discern distinctly by the moonlight was a colourless, youthful face, meagre and sharp to look at about the cheeks and chin; large, grave, wistfully attentive eyes; nervous, uncertain lips; and light hair of a pale, brownish-yellow hue.",
     "title": "The Woman in White",
-    "author": "Wilkie Collins"
+    "author": "Wilkie Collins",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "one in the morning",
     "quote_last": ".",
     "title": "Tomorrow",
-    "author": "Graham Swift"
+    "author": "Graham Swift",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "One am",
     "quote_last": " on the thirtieth of May 1940. Quite a famous date on which to be lying awake and staring at the ceiling. Already in the creeks and tidal estuaries of England the pleasure-boats and paddle-steamers were casting their moorings for the day trip to Dunkirk. And, over on the other side, Ted stood as a good a chance as anyone else.",
     "title": "London Belongs to Me",
-    "author": "Norman Collins"
+    "author": "Norman Collins",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -45,7 +50,8 @@
     "quote_time_case": "one",
     "quote_last": " -",
     "title": "Hamlet",
-    "author": "William Shakespeare"
+    "author": "William Shakespeare",
+    "sfw": "yes"
   },
   {
     "time": "01:00",
@@ -53,6 +59,7 @@
     "quote_time_case": "one o'clock in the morning",
     "quote_last": ". What in the name of God was he doing on King&rsquo;s Cross station at one o'clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?",
     "title": "The Long Dark Tea-time of the Soul",
-    "author": "Douglas Adams"
+    "author": "Douglas Adams",
+    "sfw": "yes"
   }
 ]

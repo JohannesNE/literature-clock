@@ -5,7 +5,8 @@
     "quote_time_case": "Ten minutes past five",
     "quote_last": ". &quot;You have just gone, after giving me my composing draught. My courage failed me at the sight of you. I thought to myself, &lsquo;If he look at me kindly, I will confess what I have done, and let him save my life.&rsquo; You never looked at me at all. You only looked at the medicine. I let you go without saying a word.",
     "title": "The Law and the Lady",
-    "author": "Wilkie Collins"
+    "author": "Wilkie Collins",
+    "sfw": "yes"
   },
   {
     "time": "05:10",
@@ -13,6 +14,7 @@
     "quote_time_case": "ten after five",
     "quote_last": ".",
     "title": "Bossypants",
-    "author": "Tina Fey"
+    "author": "Tina Fey",
+    "sfw": "yes"
   }
 ]

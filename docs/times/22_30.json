@@ -5,7 +5,8 @@
     "quote_time_case": "ten thirty",
     "quote_last": ". If she could get there quickly on the subway, then she could be at his house in less than an hour, maybe a bit longer if the late trains did not come so often.",
     "title": "Brooklyn",
-    "author": "Colm Toibin"
+    "author": "Colm Toibin",
+    "sfw": "yes"
   },
   {
     "time": "22:30",
@@ -13,6 +14,7 @@
     "quote_time_case": "ten-thirty",
     "quote_last": " but it could have been three in the morning, because along its borders, West Berlin goes to bed with the dark",
     "title": "Smiley's People",
-    "author": "John Le Carre"
+    "author": "John Le Carre",
+    "sfw": "yes"
   }
 ]

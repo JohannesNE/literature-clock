@@ -1,11 +1,10 @@
 [
   {
     "time": "11:30",
-    "quote_first": "&lsquo;It is now ",
-    "quote_time_case": "11.30",
-    "quote_last": ". The door to this room is shut, and will remain shut, barring emergencies, until 12.00. I am authorised to inform you that we are now under battle orders.",
+    "quote_first": "&lsquo;It is now 11.30. The door to this room is shut, and will remain shut, barring emergencies, until 12.00. I am authorised to inform you that we are now under battle orders.",
     "title": "Singularity Sky",
-    "author": "Charles Stross"
+    "author": "Charles Stross",
+    "sfw": "yes"
   },
   {
     "time": "11:30",
@@ -13,7 +12,8 @@
     "quote_time_case": "half-past eleven",
     "quote_last": " to a minute as you said&hellip;&quot;",
     "title": "Far from the madding crowd",
-    "author": "Thomas Hardy"
+    "author": "Thomas Hardy",
+    "sfw": "yes"
   },
   {
     "time": "11:30",
@@ -21,14 +21,14 @@
     "quote_time_case": "half-past eleven",
     "quote_last": ". By about eighteen minutes the Canon had beaten them to it again.&ldquo;",
     "title": "To the Devil a Daughter",
-    "author": "Dennis Wheatley"
+    "author": "Dennis Wheatley",
+    "sfw": "yes"
   },
   {
     "time": "11:30",
-    "quote_first": "This time it was Kumiko. The wall clock said ",
-    "quote_time_case": "11.30",
-    "quote_last": ".",
+    "quote_first": "This time it was Kumiko. The wall clock said 11.30.",
     "title": "The Wind-up Bird Chronicle",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "seven-twenty",
     "quote_last": ", but I felt no hunger. You&rsquo;d think I might have wanted to eat something after the day I&rsquo;d had, but I cringed at the very thought of food. I was short of sleep, my gut was slashed, and my apartment was gutted. There was no room for appetite.",
     "title": "Hard Boiled Wonderland and the End of the World",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   },
   {
     "time": "19:20",
@@ -13,6 +14,7 @@
     "quote_time_case": "7:20",
     "quote_last": ".",
     "title": "Parkinson's Law or the Pursuit of Progress",
-    "author": "C Northcote Parkinson"
+    "author": "C Northcote Parkinson",
+    "sfw": "yes"
   }
 ]

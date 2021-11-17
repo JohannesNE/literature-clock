@@ -5,7 +5,8 @@
     "quote_time_case": "two-forty",
     "quote_last": ".&rsquo;",
     "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger"
+    "author": "J.D. Salinger",
+    "sfw": "yes"
   },
   {
     "time": "14:40",
@@ -13,6 +14,7 @@
     "quote_time_case": "twenty minutes to three",
     "quote_last": ", the members of Big Side would walk with Michael and Alan towards the changing room and encourage them by flattery and genial ragging.",
     "title": "Sinister Street",
-    "author": "Compton Mackenzie"
+    "author": "Compton Mackenzie",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "quarter-past eight",
     "quote_last": ".",
     "title": "Three Men in a Boat",
-    "author": "Jerome K Jerome"
+    "author": "Jerome K Jerome",
+    "sfw": "yes"
   },
   {
     "time": "08:15",
@@ -13,6 +14,7 @@
     "quote_time_case": "eight fifteen",
     "quote_last": ". (And here time forked.) I&rsquo;ll turn it on.&rdquo; The screen In its blank broth evolved a lifelike blur, And music welled.",
     "title": "Pale Fire",
-    "author": "Vladimir Nabokov"
+    "author": "Vladimir Nabokov",
+    "sfw": "yes"
   }
 ]

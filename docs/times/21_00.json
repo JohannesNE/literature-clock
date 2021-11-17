@@ -5,7 +5,8 @@
     "quote_time_case": "9.00 p.m.",
     "quote_last": " Watch television or a video",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "2100",
     "quote_last": " at night it&rsquo;s cold out.",
     "title": "Infinite Jest",
-    "author": "David Foster Wallace"
+    "author": "David Foster Wallace",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "nine o'clock",
     "quote_last": " at night upon the second of August—the most terrible August in the history of the world. One might have thought already that God&rsquo;s curse hung heavy over a degenerate world, for there was an awesome hush and a feeling of vague expectancy in the sultry and stagnant air",
     "title": "His Last Bow An Epilogue of Sherlock Holmes",
-    "author": "Arthur Conan Doyle"
+    "author": "Arthur Conan Doyle",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "nine o'clock",
     "quote_last": ", when there is a lull in the streets - two gentlemen came to his apartment.",
     "title": "The Trial",
-    "author": "Franz Kafka"
+    "author": "Franz Kafka",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "nine o’clock",
     "quote_last": " Mr. and Mrs. De Voted took their places on either side of the drawing-room fire, in attitudes of gracefully combined hospitality and unconcern, Vivian De Voted wearing a black beard and black velvet jacket buttoned over his Bohemian bosom, his lady in a flowing purple gown embroidered in divers appropriate places with pomegranates and their leaves.",
     "title": "A Marriage of Passion",
-    "author": "Katherine Mansfield"
+    "author": "Katherine Mansfield",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -45,7 +50,8 @@
     "quote_time_case": "nine o'clock",
     "quote_last": " that evening, Weyrother drove with his plans to Kutuzov&rsquo;s quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief&rsquo;s and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.",
     "title": "War and Peace",
-    "author": "Leo Tolstoy"
+    "author": "Leo Tolstoy",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -53,7 +59,8 @@
     "quote_time_case": "nine o'clock",
     "quote_last": " on a Friday night, in a snowstorm, he&rsquo;s the loneliest Jew in the Sitka District.",
     "title": "The Yiddish Policemen's Union",
-    "author": "Michael Chabon"
+    "author": "Michael Chabon",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -61,7 +68,8 @@
     "quote_time_case": "at nine",
     "quote_last": " the President addressed the nation.",
     "title": "All the President's Men",
-    "author": "Bernstein & Woodward"
+    "author": "Bernstein & Woodward",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -69,7 +77,8 @@
     "quote_time_case": "nine o'clock",
     "quote_last": ", Pereira maintains.",
     "title": "Pereira Maintains",
-    "author": "Antonio Tabucchi"
+    "author": "Antonio Tabucchi",
+    "sfw": "yes"
   },
   {
     "time": "21:00",
@@ -77,6 +86,7 @@
     "quote_time_case": "nine o'clock",
     "quote_last": " at night with the idea of sallying forth from the castle, down the long drive and then northwards along the acacia avenue, had been enough to send her to her own doorway as though she suspected someone might be there, someone who was listening to her thoughts.",
     "title": "Titus Groan",
-    "author": "Mervyn Peake"
+    "author": "Mervyn Peake",
+    "sfw": "yes"
   }
 ]

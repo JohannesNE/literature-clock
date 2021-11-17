@@ -5,7 +5,8 @@
     "quote_time_case": "half-past five",
     "quote_last": " in the summer morning. Young Chase&rsquo;s narrow bachelor bed has evidently been slept in, for it is rumpled in that barely disturbed way which can never be counterfeited. His jug&rsquo;s empty and there&rsquo;s grey water in the basin, cleanly boy. The window is open, admitting the salubrious sea-breeze. He doesn&rsquo;t smoke anyway. What an innocent room it is.",
     "title": "An Insular Possession",
-    "author": "Timothy Mo"
+    "author": "Timothy Mo",
+    "sfw": "yes"
   },
   {
     "time": "05:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "half-past five",
     "quote_last": ", and the sun was on the point of rising; but I found the kitchen still dark and silent. … The stillness of early morning slumbered everywhere .. the carriage horses stamped from time to time in their closed stables: all else was still.",
     "title": "Jane Eyre",
-    "author": "Charlotte Brontë"
+    "author": "Charlotte Brontë",
+    "sfw": "yes"
   },
   {
     "time": "05:30",
@@ -21,6 +23,7 @@
     "quote_time_case": "five-thirty",
     "quote_last": " in the morning to wait for the boat the bishop was coming on.",
     "title": "Chronicle of a Death Foretold",
-    "author": "Gabriel García Márquez"
+    "author": "Gabriel García Márquez",
+    "sfw": "yes"
   }
 ]

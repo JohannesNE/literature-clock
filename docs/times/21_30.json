@@ -5,7 +5,8 @@
     "quote_time_case": "9.30 p.m.",
     "quote_last": " Go to bed",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "21:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "nine thirty",
     "quote_last": " on a Friday night - this is modern professional life.",
     "title": "Saturday",
-    "author": "Ian McEwan"
+    "author": "Ian McEwan",
+    "sfw": "yes"
   },
   {
     "time": "21:30",
@@ -21,7 +23,8 @@
     "quote_time_case": "9:30 p.m.",
     "quote_last": " already. I&rsquo;ve gotta head uptown for my appointment with Pavel. Pavel is my shrink. He sees patients at night. He&rsquo;s a Czech Jew, a survivor of Terezin and Auswitz. I see him once a week.",
     "title": "Maus",
-    "author": "Art Spiegelman"
+    "author": "Art Spiegelman",
+    "sfw": "yes"
   },
   {
     "time": "21:30",
@@ -29,6 +32,7 @@
     "quote_time_case": "nine-thirty",
     "quote_last": ", followed by the light in his bedroom at his usual ten o'clock. His house was the first on the street to go dark.",
     "title": "A crime in the neighborhood",
-    "author": "Suzanne Berne"
+    "author": "Suzanne Berne",
+    "sfw": "yes"
   }
 ]

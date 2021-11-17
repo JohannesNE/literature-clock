@@ -5,7 +5,8 @@
     "quote_time_case": "five minutes after seven o'clock",
     "quote_last": ", and then he&rsquo;d call in, take the day off, and make every effort in the book to locate someone reliable.",
     "title": "Where I'm Calling From",
-    "author": "Raymond Carver"
+    "author": "Raymond Carver",
+    "sfw": "yes"
   },
   {
     "time": "07:05",
@@ -13,7 +14,8 @@
     "quote_time_case": "five after seven",
     "quote_last": ". I punched the remote control and watched the morning news as I lay in bed.",
     "title": "Dance Dance Dance",
-    "author": "Haruki Murakami"
+    "author": "Haruki Murakami",
+    "sfw": "yes"
   },
   {
     "time": "07:05",
@@ -21,6 +23,7 @@
     "quote_time_case": "7:05 A.M.",
     "quote_last": " The sky was overcast, and when the aircraft burst through the cloud layer into sunlight, Ryan did something he had never done before. For the first time in his life, Jack Ryan fell asleep on an airplane.",
     "title": "The Hunt for Red October",
-    "author": "Tom Clancy"
+    "author": "Tom Clancy",
+    "sfw": "yes"
   }
 ]

@@ -5,7 +5,8 @@
     "quote_time_case": "twenty to seven",
     "quote_last": ".",
     "title": "The Family Reunion",
-    "author": "TS Eliot"
+    "author": "TS Eliot",
+    "sfw": "yes"
   },
   {
     "time": "18:40",
@@ -13,6 +14,7 @@
     "quote_time_case": "twenty minutes to seven",
     "quote_last": ", and Franching, so the servant said, had only just gone up to dress.",
     "title": "Diary of a Nobody",
-    "author": "George and Weedon Grossmith"
+    "author": "George and Weedon Grossmith",
+    "sfw": "yes"
   }
 ]

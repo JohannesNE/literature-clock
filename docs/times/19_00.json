@@ -5,7 +5,8 @@
     "quote_time_case": "seven o'clock",
     "quote_last": " at night.",
     "title": "In Search of Lost Time: Swann's Way",
-    "author": "Marcel Proust"
+    "author": "Marcel Proust",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "seven",
     "quote_last": ". The echoes of the great chime wandered in the unlit halls of the library. An autumn leaf, very crisp, fell somewhere in the dark. But it was only the page of a book, turning.",
     "title": "Something Wicked This Way Comes",
-    "author": "Ray Bradbury"
+    "author": "Ray Bradbury",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "7.00 p.m.",
     "quote_last": " Do maths practice",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "seven o'clock",
     "quote_last": " the orchestra has arrived&ndash;no thin five-piece affair but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos and low and high drums.",
     "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "seven",
     "quote_last": " till nine-thirty pm, always inside the confines of my home and under the supervision of my dad&rsquo;s unfailingly crabby glare.",
     "title": "New Moon",
-    "author": "Stephenie Meyer"
+    "author": "Stephenie Meyer",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -45,7 +50,8 @@
     "quote_time_case": "seven o'clock",
     "quote_last": " and by this time she was not very far from Raveloe, but she was not familiar enough with those monotonous lanes to know how near she was to her journey&rsquo;s end. She needed comfort, and she knew but one comforter - the familiar demon in her bosom; but she hesitated a moment, after drawing out the black remnant, before she raised it to her lips.",
     "title": "Silas Marner",
-    "author": "George Eliot"
+    "author": "George Eliot",
+    "sfw": "yes"
   },
   {
     "time": "19:00",
@@ -53,6 +59,7 @@
     "quote_time_case": "seven o'clock",
     "quote_last": " when we got into the coupé with him and started for Long Island. [&hellip;] So we drove on toward death through the cooling twilight.",
     "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
   }
 ]

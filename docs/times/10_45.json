@@ -5,7 +5,8 @@
     "quote_time_case": "quarter to eleven",
     "quote_last": ", when the sound of the shot brought them down, until quarter past eleven, when they rang for the bell and summoned the servants'.",
     "title": "The Valley of Fear",
-    "author": "Arthur Conan Doyle"
+    "author": "Arthur Conan Doyle",
+    "sfw": "yes"
   },
   {
     "time": "10:45",
@@ -13,6 +14,7 @@
     "quote_time_case": "quarter to eleven",
     "quote_last": ". Mr Weasley dashed across the road to get trolleys for their trunks and they all hurried into the station.",
     "title": "Harry Potter and the Chamber of Secrets",
-    "author": "J.K.Rowling"
+    "author": "J.K.Rowling",
+    "sfw": "yes"
   }
 ]

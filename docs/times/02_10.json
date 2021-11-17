@@ -5,7 +5,8 @@
     "quote_time_case": "Ten minutes past two",
     "quote_last": ", sir,&ldquo; answered the man, looking at the clock and blinking. &quot;Ten minutes past two? How horribly late! ..”",
     "title": "The Picture of Dorian Gray",
-    "author": "Oscar Wilde"
+    "author": "Oscar Wilde",
+    "sfw": "yes"
   },
   {
     "time": "02:10",
@@ -13,6 +14,7 @@
     "quote_time_case": "2:10am",
     "quote_last": "",
     "title": "South: The Endurance Expedition",
-    "author": "Ernest Shackleton"
+    "author": "Ernest Shackleton",
+    "sfw": "yes"
   }
 ]

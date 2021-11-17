@@ -5,7 +5,8 @@
     "quote_time_case": "9:03am",
     "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
-    "author": "Steve Toltz"
+    "author": "Steve Toltz",
+    "sfw": "yes"
   },
   {
     "time": "09:03",
@@ -13,6 +14,7 @@
     "quote_time_case": "three minutes past nine",
     "quote_last": ",&rdquo; Miss Beckworth announced. &ldquo;You&rsquo;re late.&quot;",
     "title": "The Lottie Project",
-    "author": "Jacqueline Wilson"
+    "author": "Jacqueline Wilson",
+    "sfw": "yes"
   }
 ]

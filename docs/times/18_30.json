@@ -5,7 +5,8 @@
     "quote_time_case": "six-thirty",
     "quote_last": " I left the bar and walked outside. It was getting dark and the big Avenida looked cool and graceful. On the other side were homes that once looked out on the beach. Now they looked out on hotels and most of them had retreated behind tall hedges and walls that cut them off from the street.",
     "title": "The Rum Diary",
-    "author": "Hunter S. Thompson"
+    "author": "Hunter S. Thompson",
+    "sfw": "yes"
   },
   {
     "time": "18:30",
@@ -13,7 +14,8 @@
     "quote_time_case": "6.30 p.m.",
     "quote_last": " Watch television or a video",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "18:30",
@@ -21,7 +23,8 @@
     "quote_time_case": "half-past six",
     "quote_last": ", same as usual.&rsquo;",
     "title": "The Go-Between",
-    "author": "L.P. Hartley"
+    "author": "L.P. Hartley",
+    "sfw": "yes"
   },
   {
     "time": "18:30",
@@ -29,7 +32,8 @@
     "quote_time_case": "half past six",
     "quote_last": " Elizabeth was summoned to dinner.",
     "title": "Pride and Prejudice",
-    "author": "Jane Austen"
+    "author": "Jane Austen",
+    "sfw": "yes"
   },
   {
     "time": "18:30",
@@ -37,7 +41,8 @@
     "quote_time_case": "six thirty",
     "quote_last": ". Now the dark night and the deafening racket of the crickets again engulf the garden and the veranda, all around the house",
     "title": "Jealousy",
-    "author": "Alain Robbe-Grillet"
+    "author": "Alain Robbe-Grillet",
+    "sfw": "yes"
   },
   {
     "time": "18:30",
@@ -45,6 +50,7 @@
     "quote_time_case": "half-past six",
     "quote_last": " on a wintry evening of late February were in no danger of falling into this error.",
     "title": "Cotillion",
-    "author": "Georgette Heyer"
+    "author": "Georgette Heyer",
+    "sfw": "yes"
   }
 ]

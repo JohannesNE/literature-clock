@@ -5,7 +5,8 @@
     "quote_time_case": "eight forty-three",
     "quote_last": " in the mornin'.&rdquo; &ldquo;If you say so&quot;",
     "title": "A Time to Kill",
-    "author": "John Grisham"
+    "author": "John Grisham",
+    "sfw": "yes"
   },
   {
     "time": "08:43",
@@ -13,6 +14,7 @@
     "quote_time_case": "8.43 a.m.",
     "quote_last": " Go past tropical fish shop",
     "title": "The Curious Incident Of The Dog In The Night-Time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   }
 ]

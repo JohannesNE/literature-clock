@@ -5,7 +5,8 @@
     "quote_time_case": "About two",
     "quote_last": ". Just past.&rdquo; Daisy noted that he expressed no concern for her safety.",
     "title": "Dead in the water",
-    "author": "Carola Dunn"
+    "author": "Carola Dunn",
+    "sfw": "yes"
   },
   {
     "time": "02:00",
@@ -13,7 +14,8 @@
     "quote_time_case": "two o'clock",
     "quote_last": " pealed from the cathedral bell, Jean Valjean awoke.",
     "title": "Les Miserables",
-    "author": "Victor Hugo"
+    "author": "Victor Hugo",
+    "sfw": "yes"
   },
   {
     "time": "02:00",
@@ -21,7 +23,8 @@
     "quote_time_case": "2 A.M.",
     "quote_last": ", amid bundles, chickens, gypsies, sit opposite pair of plump fortune tellers who groan and (very discreetly) throw up all the way to Tbilisi.",
     "title": "Bech: A Book",
-    "author": "J. Updike"
+    "author": "J. Updike",
+    "sfw": "yes"
   },
   {
     "time": "02:00",
@@ -29,7 +32,8 @@
     "quote_time_case": "two",
     "quote_last": ": why, then, &lsquo;tis time to do&rsquo;t.—Hell is murky!—Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?—Yet who would have thought the old man to have had so much blood in him.",
     "title": "Macbeth",
-    "author": "Shakespeare"
+    "author": "Shakespeare",
+    "sfw": "yes"
   },
   {
     "time": "02:00",
@@ -37,7 +41,8 @@
     "quote_time_case": "It struck two.",
     "quote_last": " I woke up, though I had indeed not been asleep but lying half-conscious.",
     "title": "Notes from the underground",
-    "author": "Fyodor Dostoyevsky"
+    "author": "Fyodor Dostoyevsky",
+    "sfw": "yes"
   },
   {
     "time": "02:00",
@@ -45,6 +50,7 @@
     "quote_time_case": "two o'clock",
     "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.&lsquo;",
     "title": "The Brothers Karamazov",
-    "author": "Fyodor Dostoyevsky"
+    "author": "Fyodor Dostoyevsky",
+    "sfw": "yes"
   }
 ]

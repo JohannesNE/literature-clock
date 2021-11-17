@@ -5,7 +5,8 @@
     "quote_time_case": "just before eight o' clock",
     "quote_last": ", arrayed in what had once ben a &ldquo;party frock&rdquo;.",
     "title": "The Maker of Heavenly Trousers",
-    "author": "Daniel Vare"
+    "author": "Daniel Vare",
+    "sfw": "yes"
   },
   {
     "time": "19:59",
@@ -13,6 +14,7 @@
     "quote_time_case": "A minute to eight.",
     "quote_last": " My hot water bottle was ready, and I filled a glass with water from the tap. Time was of the essence.",
     "title": "The Thirteenth Tale",
-    "author": "Diane Setterfield"
+    "author": "Diane Setterfield",
+    "sfw": "yes"
   }
 ]

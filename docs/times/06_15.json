@@ -5,7 +5,8 @@
     "quote_time_case": "6.15",
     "quote_last": "-6.30",
     "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
   },
   {
     "time": "06:15",
@@ -13,7 +14,8 @@
     "quote_time_case": "quarter past six",
     "quote_last": ". Just seven minutes late, Dorothy took the can upstairs and knocked at her father&rsquo;s door.",
     "title": "A Clergyman's Daughter",
-    "author": "George Orwell"
+    "author": "George Orwell",
+    "sfw": "yes"
   },
   {
     "time": "06:15",
@@ -21,7 +23,8 @@
     "quote_time_case": "6.15 am.",
     "quote_last": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
     "title": "Girl Missing",
-    "author": "Sophie McKenzie"
+    "author": "Sophie McKenzie",
+    "sfw": "yes"
   },
   {
     "time": "06:15",
@@ -29,6 +32,7 @@
     "quote_time_case": "6.15 am.",
     "quote_last": " Just starting to get light. A small knot of older teenagers were leaning against a nearby wall. They looked as though they had been out all night.Two of the guys stared at us. Their eyes hard and threatening.",
     "title": "Girl Missing",
-    "author": "Sophie McKenzie"
+    "author": "Sophie McKenzie",
+    "sfw": "yes"
   }
 ]

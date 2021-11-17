@@ -5,7 +5,8 @@
     "quote_time_case": "8:15 p.m.",
     "quote_last": " Cannot locate operating instructions (for video)",
     "title": "Bridget Jones's Diary",
-    "author": "Helen Fielding"
+    "author": "Helen Fielding",
+    "sfw": "yes"
   },
   {
     "time": "20:15",
@@ -13,7 +14,8 @@
     "quote_time_case": "8.15 p.m.",
     "quote_last": " Get changed into pyjamas",
     "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon"
+    "author": "Mark Haddon",
+    "sfw": "yes"
   },
   {
     "time": "20:15",
@@ -21,6 +23,7 @@
     "quote_time_case": "quarter past eight",
     "quote_last": ". Natasha: And Olga and Irina aren&rsquo;t in yet. The poor things are still at work. Olga at the teachers' council, Irina at the telegraph office&hellip;[sighs] I said to your sister this morning, &ldquo;Irina, darling, you must take care of yourself.&rdquo; But she pays no attention. Did you say it was a quarter past eight?",
     "title": "The Three Sisters",
-    "author": "Anton Chekhov"
+    "author": "Anton Chekhov",
+    "sfw": "yes"
   }
 ]

@@ -6,12 +6,20 @@
     <script>
         var current_date;
 
-        function loadFile(time) {
+        function loadFile(time, sfw) {
             var timeStamp = timeToTimecode(time);
             return fetch("times/" + timeStamp + ".json")
                 .then(response => {
                     if (response.ok) {
-                        return response.json();
+                        var json = response.json();
+                        if (sfw) {
+                            json = json.filter(item => item.sfw === 'yes');
+                        }
+                        if (json.length === 0) {
+                            return loadFile(oneMinuteAgo(time));
+                        } else {
+                            return json;
+                        }
                     } else {
                         return loadFile(oneMinuteAgo(time));
                     }
@@ -20,9 +28,9 @@
 
         }
 
-        function updateText(time) {
+        function updateText(time, sfw) {
             // Load JSON file
-            loadFile(time).then((lit_json) => {
+            loadFile(time, sfw).then((lit_json) => {
 
                 // select single random text
                 var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
@@ -58,6 +66,10 @@
             });
         }
         function startTime() {
+            // Check if sfw query parameter passed
+            var queries = new URLSearchParams(window.location.search);
+            var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
+
             var time = new Date();
             if (current_date !== undefined
                 && current_date.getMinutes() === time.getMinutes()) {
@@ -71,7 +83,7 @@
             //Test shortest (08:51)
             //today = new Date('Tue Nov 16 2021 22:39:00'); // Test specific time
 
-            updateText(time);
+            updateText(time, sfw);
         }
 
         function oneMinuteAgo(time) {

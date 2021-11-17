@@ -6,20 +6,12 @@
     <script>
         var current_date;
 
-        function loadFile(time, sfw) {
+        function loadFile(time) {
             var timeStamp = timeToTimecode(time);
             return fetch("times/" + timeStamp + ".json")
                 .then(response => {
                     if (response.ok) {
-                        var json = response.json();
-                        if (sfw) {
-                            json = json.filter(item => item.sfw === 'yes');
-                        }
-                        if (json.length === 0) {
-                            return loadFile(oneMinuteAgo(time));
-                        } else {
-                            return json;
-                        }
+                        return response.json();
                     } else {
                         return loadFile(oneMinuteAgo(time));
                     }
@@ -30,7 +22,16 @@
 
         function updateText(time, sfw) {
             // Load JSON file
-            loadFile(time, sfw).then((lit_json) => {
+            loadFile(time).then((lit_json) => {
+
+                // Filter SFW if needed
+                if (sfw) {
+                    lit_json = lit_json.filter(item => item.sfw === 'yes');
+                }
+
+                if (lit_json.length === 0) {
+                    return updateText(oneMinuteAgo(time), sfw);
+                }
 
                 // select single random text
                 var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]

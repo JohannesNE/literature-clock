@@ -6,23 +6,23 @@
     <script>
         var current_date;
 
-        function loadFile(date) {
-            var timeStamp = dateToTimecode(date);
+        function loadFile(time) {
+            var timeStamp = timeToTimecode(time);
             return fetch("times/" + timeStamp + ".json")
                 .then(response => {
                     if (response.ok) {
                         return response.json();
                     } else {
-                        return loadFile(oneMinuteAgo(date));
+                        return loadFile(oneMinuteAgo(time));
                     }
                 })
                 .catch(e => console.log("error"));
 
         }
 
-        function updateText(date) {
+        function updateText(time) {
             // Load JSON file
-            loadFile(date).then((lit_json) => {
+            loadFile(time).then((lit_json) => {
 
                 // select single random text
                 var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
@@ -58,30 +58,30 @@
             });
         }
         function startTime() {
-            var today = new Date();
+            var time = new Date();
             if (current_date !== undefined
-                && current_date.getMinutes() === today.getMinutes()) {
+                && current_date.getMinutes() === time.getMinutes()) {
                 var t = setTimeout(startTime, 1000);
                 return;
             }
 
-            current_date = today;
+            current_date = time;
 
             //Test longest (20:15)
             //Test shortest (08:51)
             //today = new Date('Tue Nov 16 2021 22:39:00'); // Test specific time
 
-            updateText(today);
+            updateText(time);
         }
 
-        function oneMinuteAgo(date) {
-            return new Date(date - 60000) // Subtract one minute
+        function oneMinuteAgo(time) {
+            return new Date(time - 60000) // Subtract one minute
         }
 
-        function dateToTimecode(date) {
-            var h = date.getHours();
-            var m = date.getMinutes();
-            // var s = date.getSeconds();
+        function timeToTimecode(time) {
+            var h = time.getHours();
+            var m = time.getMinutes();
+            // var s = time.getSeconds();
             h = checkTime(h);
             m = checkTime(m);
             // s = checkTime(s);

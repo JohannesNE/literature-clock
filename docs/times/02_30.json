@@ -19,7 +19,9 @@
   },
   {
     "time": "02:30",
-    "quote_first": "Inc, I tried to pull her off about 0230, and there was this fucking… sound.",
+    "quote_first": "Inc, I tried to pull her off about ",
+    "quote_time_case": "0230",
+    "quote_last": ", and there was this fucking… sound.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
     "sfw": "no"

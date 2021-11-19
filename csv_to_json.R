@@ -15,7 +15,15 @@ names(litclock) <- c('time',
                      'quote',
                      'title',
                      'author',
-                     'sfw')
+                     'nsfw_overwrite')
+
+# Load profanity patterns
+source("profanity_patterns.R")
+
+litclock <- mutate(litclock, 
+                   auto_nsfw = str_detect(quote, regex(paste0("\\b", profanity_patterns, "\\b", collapse = "|"), ignore_case = TRUE)),
+                   nsfw = nsfw_overwrite == "nsfw" | (auto_nsfw & nsfw_overwrite != "sfw"),
+                   sfw = ifelse(!nsfw, "yes", "no"))                     
 
 # Use markdown::smartypants to convert ASCII punctuation to smart punctuations
 litclock$quote <- purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x))

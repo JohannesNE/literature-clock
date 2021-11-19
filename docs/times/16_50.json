@@ -1,7 +1,9 @@
 [
   {
     "time": "16:50",
-    "quote_first": "&ldquo;The train standing at Platform 3,&rdquo; the Voice told her, &ldquo;is the 4.50 for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.&rdquo; The voice shut itself off with a click,",
+    "quote_first": "&ldquo;The train standing at Platform 3,&rdquo; the Voice told her, &ldquo;is the ",
+    "quote_time_case": "4.50",
+    "quote_last": " for Brackhampton, Milchester, Waverton, Carvil Junction, Roxeter and stations to Chadmouth. Passengers for Brackhampton and Milchester travel at the rear of the train. Passengers for Vanequay change at Roxeter.&rdquo; The voice shut itself off with a click,",
     "title": "4.50 from Paddington",
     "author": "Agatha Christie",
     "sfw": "yes"

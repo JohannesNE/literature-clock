@@ -19,7 +19,9 @@
   },
   {
     "time": "09:20",
-    "quote_first": "The following morning at 9.20 Mr Cribbage straightened his greasy old tie, combed his Hitler moustache and arranged the few strands of his hair across his bald patch.",
+    "quote_first": "The following morning at ",
+    "quote_time_case": "9.20",
+    "quote_last": " Mr Cribbage straightened his greasy old tie, combed his Hitler moustache and arranged the few strands of his hair across his bald patch.",
     "title": "Red Dog",
     "author": "Louis de Bernieres",
     "sfw": "yes"

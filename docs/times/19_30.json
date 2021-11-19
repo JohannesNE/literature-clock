@@ -28,7 +28,9 @@
   },
   {
     "time": "19:30",
-    "quote_first": "The telephone call came at 7.30 on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
+    "quote_first": "The telephone call came at ",
+    "quote_time_case": "7.30",
+    "quote_last": " on the evening of March 18th, a Saturday, the eve of the noisy, colourful festival that the town held in honour of Saint Joseph the carpenter -",
     "title": "A Simple Story",
     "author": "Leonardo Sciascia",
     "sfw": "yes"

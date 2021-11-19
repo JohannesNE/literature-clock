@@ -10,7 +10,9 @@
   },
   {
     "time": "11:20",
-    "quote_first": "Sweeney pointed to the clock above the bar, held in the massive and indifferent jaws of a stuffed alligator head. The time was 11.20.",
+    "quote_first": "Sweeney pointed to the clock above the bar, held in the massive and indifferent jaws of a stuffed alligator head. The time was ",
+    "quote_time_case": "11.20",
+    "quote_last": ".",
     "title": "American Gods",
     "author": "Neil Gaiman",
     "sfw": "yes"

@@ -28,7 +28,9 @@
   },
   {
     "time": "09:30",
-    "quote_first": "Up the welcomingly warm morning hill we trudge, side by each, bound finally for the Hall of Fame. It&rsquo;s 9.30, and time is in fact a-wastin'.",
+    "quote_first": "Up the welcomingly warm morning hill we trudge, side by each, bound finally for the Hall of Fame. It&rsquo;s ",
+    "quote_time_case": "9.30",
+    "quote_last": ", and time is in fact a-wastin'.",
     "title": "Independence Day",
     "author": "Richard Ford",
     "sfw": "yes"

@@ -69,6 +69,14 @@
             var queries = new URLSearchParams(window.location.search);
             var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
 
+            if (sfw) {
+                try {
+                    document.getElementById('sfw_toggle').innerHTML = '<a href="/">Include all quotes</a>';
+                } catch (e) {
+                    console.log(e);
+                }
+            }
+
             var time = new Date();
             if (current_date !== undefined
                 && current_date.getMinutes() === time.getMinutes()) {
@@ -141,6 +149,9 @@
         </span>
         <span id="twitter">
             By <a href="https://twitter.com/JohsEnevoldsen">@JohsEnevoldsen</a>
+        </span>
+        <span id="sfw_toggle">
+            <a href="/?sfw=yes">Attempt to skip NSFW quotes</a>
         </span>
     </div>
 

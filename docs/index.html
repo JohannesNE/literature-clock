@@ -6,6 +6,24 @@
     <script>
         var current_date;
 
+        function init() {
+            // This code runs only at page load
+
+            // Check if sfw query parameter passed
+            var queries = new URLSearchParams(window.location.search);
+            var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
+
+            if (sfw) {
+                try {
+                    document.getElementById('sfw_toggle').innerHTML = '<a href="/">Include all quotes</a>';
+                } catch (e) {
+                    console.log(e);
+                }
+            }
+
+            startTime(sfw);
+        }
+
         function loadFile(time) {
             var timeStamp = timeToTimecode(time);
             return fetch("times/" + timeStamp + ".json")
@@ -21,6 +39,8 @@
         }
 
         function updateText(time, sfw) {
+            // This runs every minute
+
             // Load JSON file
             loadFile(time).then((lit_json) => {
 
@@ -64,19 +84,10 @@
 
             });
         }
-        function startTime() {
-            // Check if sfw query parameter passed
-            var queries = new URLSearchParams(window.location.search);
-            var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
-
-            if (sfw) {
-                try {
-                    document.getElementById('sfw_toggle').innerHTML = '<a href="/">Include all quotes</a>';
-                } catch (e) {
-                    console.log(e);
-                }
-            }
-
+        function startTime(sfw) {
+            // This code runs every second
+            // could be optimized to check time in miliseconds and set timeout to when minute will change next time.
+            
             var time = new Date();
             if (current_date !== undefined
                 && current_date.getMinutes() === time.getMinutes()) {
@@ -124,7 +135,7 @@
 
 </head>
 
-<body onload="startTime()">
+<body onload="init()">
 
     <!-- <div id="time"></div> -->
 

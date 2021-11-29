@@ -58,3 +58,20 @@ cite #book{
     border-left-width: 2px;
     border-left-color: dimgray;
 }
+
+/* dark theme */
+body.dark {
+    background: #181A1B;
+}
+
+body.dark #lit_quote em {
+    color: rgb(220, 217, 212);
+}
+
+body.dark #main_text, body.dark #buttom {
+    color: rgb(166, 158, 146);
+}
+
+body.dark #buttom a, a:visited {
+    color: rgb(190, 185, 176);
+}

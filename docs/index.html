@@ -9,6 +9,13 @@
         function init() {
             // This code runs only at page load
 
+            // Try to guess theme preference
+            if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                dark_theme();
+            } else {
+                light_theme();
+            }
+
             // Check if sfw query parameter passed
             var queries = new URLSearchParams(window.location.search);
             var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
@@ -130,6 +137,7 @@
     </script>
     <link rel="stylesheet" href="styles.css">
     <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet'>
+    <script src="theme.js"></script>
 
     <title>Literature Clock</title>
 
@@ -163,6 +171,9 @@
         </span>
         <span id="sfw_toggle">
             <a href="/?sfw=yes">Skip quotes marked NSFW</a>
+        </span>
+        <span>
+            <a id="toggle-theme" onclick="toggle_theme()" href="#">Dark Theme</a>
         </span>
     </div>
 

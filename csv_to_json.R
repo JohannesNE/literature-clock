@@ -26,12 +26,22 @@ litclock <- mutate(litclock,
                    sfw = ifelse(!nsfw, "yes", "no"))                     
 
 # Use markdown::smartypants to convert ASCII punctuation to smart punctuations
-litclock$quote <- purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x))
+litclock <- mutate(litclock, 
+                    quote = purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x)),
+                    quote_time = purrr::map_chr(litclock$quote_time, ~markdown::smartypants(text = .x))
+)
 
 litclock <- mutate(litclock, split_str = str_split(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE), n = 2),
                    quote_time_case = str_extract(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE)),
                    quote_first = unlist(map(split_str, `[`, 1)),
                    quote_last = unlist(map(split_str, `[`, 2)))
+
+
+quote_errors <- filter(litclock, is.na(quote_time_case) | is.na(quote_first) | is.na(quote_first))
+if(nrow(quote_errors) > 0) {
+  print(quote_errors)
+  stop("The above quotes contain parsing errors!")
+}
 
 # Create list by timestamp and save to individual files
 litclock_list <- litclock %>%

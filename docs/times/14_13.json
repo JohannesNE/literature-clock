@@ -1,7 +1,9 @@
 [
   {
     "time": "14:13",
-    "quote_first": "At the third stroke, it will be two &hellip; thirteen &hellip; and fifty seconds.&lsquo;",
+    "quote_first": "At the third stroke, it will be ",
+    "quote_time_case": "two &hellip; thirteen",
+    "quote_last": " &hellip; and fifty seconds.&lsquo;",
     "title": "So Long, and Thanks for All the Fish",
     "author": "Douglas Adams",
     "sfw": "yes"

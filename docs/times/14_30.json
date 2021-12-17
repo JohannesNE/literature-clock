@@ -46,7 +46,9 @@
   },
   {
     "time": "14:30",
-    "quote_first": "May 14th 1800. Wm and John set off into Yorkshire after dinner at &frac12; past 2 o'clock, cold pork in their pockets. I left them at the turning of the Low-wood bay under the trees. My heart was so full that I could barely speak to W. when I gave him a farewell kiss.",
+    "quote_first": "May 14th 1800. Wm and John set off into Yorkshire after dinner at ",
+    "quote_time_case": "&frac12; past 2 o'clock",
+    "quote_last": ", cold pork in their pockets. I left them at the turning of the Low-wood bay under the trees. My heart was so full that I could barely speak to W. when I gave him a farewell kiss.",
     "title": "The Journals of Dorothy Wordsworth",
     "author": "Dorothy Wordsworth",
     "sfw": "yes"

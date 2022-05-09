@@ -1,6 +1,24 @@
 [
   {
     "time": "21:15",
+    "quote_first": "Not too late to go back down to the Red Apple. Grab a bottle of something. Put all these unpleasant thoughts to bed.<br>No. He was going to read his book. Lucas Davenport was on the case, and he was going to read his book.<br>He closed it at ",
+    "quote_time_case": "quarter past nine",
+    "quote_last": " and got into another rooming-house bed. I won’t sleep, he thought. Not with the wind screaming like that.<br>But he did.",
+    "title": "Doctor Sleep",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:15",
+    "quote_first": "It was a ",
+    "quote_time_case": "quarter-past nine",
+    "quote_last": " when I started from home and made my way across the Park, and so through Oxford Street to Baker Street.",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Sir Arthur Conan Doyle",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:15",
     "quote_first": "",
     "quote_time_case": "9.15",
     "quote_last": ". Did Roberts pay you yet?",

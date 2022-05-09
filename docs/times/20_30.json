@@ -1,9 +1,72 @@
 [
   {
     "time": "20:30",
+    "quote_first": "In the evening, I roll over alone to an empty bottle of malbec by the bed. A sleek table clock says it’s ",
+    "quote_time_case": "half past eight",
+    "quote_last": ". I throw on a tee and cotton shorts and follow the smell of dinner down a winding staircase.",
+    "title": "Bath Haus",
+    "author": "P.J. Vernon",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "By ",
+    "quote_time_case": "eight-thirty",
+    "quote_last": ", with dusk growing too thick to be much different from night, the five searchers had grown to a dozen.",
+    "title": "The Tommyknockers",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "At ",
+    "quote_time_case": "half past eight",
+    "quote_last": " Millicent Hammitt barged in, without a preliminary knock, to say goodbye.",
+    "title": "The Black Tower",
+    "author": "PD James",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "Outside, the wind continued to rise. Every now and then it gave a blood-curdling scream around the eaves that made him look up from his book. Around ",
+    "quote_time_case": "eight thirty",
+    "quote_last": ", the snow began. It was heavy and wet, quickly coating his window and blocking his view of the mountains. In a way, that was worse. The snow had blocked the windows in the Overlook, too.",
+    "title": "Doctor Sleep",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "At ",
+    "quote_time_case": "eight thirty",
+    "quote_last": ", I called and said, “I’ve been thinking I might get a boob job, just take them clean off. What do you think? Could I pull off the flat-chested look?”",
+    "title": "My Year of Rest and Relaxation",
+    "author": "Ottessa Moshfegh",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "",
+    "quote_time_case": "Eight-thirty",
+    "quote_last": " the ward door opens and two technicians trot in, smelling like grape wine; technicians always move at a fast walk or a trot because they’re always leaning so far forward they have to move fast to keep standing.",
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "author": "Ken Kesey",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
+    "quote_first": "“What nonsense!” thought Vronsky, and glanced at his watch.<br>It was ",
+    "quote_time_case": "half-past eight",
+    "quote_last": " already.",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:30",
     "quote_first": "Alix took up a piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. &ldquo;",
     "quote_time_case": "Half-past eight",
-    "quote_last": ". Time to go down to the cellar and start work.&quot;",
+    "quote_last": ". Time to go down to the cellar and start work.&rdquo;",
     "title": "The Listerdale Mystery",
     "author": "Agatha Christie",
     "sfw": "yes"

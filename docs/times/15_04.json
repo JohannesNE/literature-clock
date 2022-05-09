@@ -1,6 +1,15 @@
 [
   {
     "time": "15:04",
+    "quote_first": "He saw the clock in the town-hall tower standing at ",
+    "quote_time_case": "four minutes past three",
+    "quote_last": " on that hot and windless late-July afternoon.",
+    "title": "The Tommyknockers",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:04",
     "quote_first": "Woken at ",
     "quote_time_case": "1504",
     "quote_last": " by Michelangelo hammering away with his chisel.",

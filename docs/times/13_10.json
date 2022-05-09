@@ -1,9 +1,27 @@
 [
   {
     "time": "13:10",
+    "quote_first": "It was at ",
+    "quote_time_case": "ten minutes past one",
+    "quote_last": " by Bond’s watch when, at the high table, the whole pattern of play suddenly altered.",
+    "title": "Casino Royale",
+    "author": "Ian Fleming",
+    "sfw": "yes"
+  },
+  {
+    "time": "13:10",
+    "quote_first": "He says something but I don’t hear it because I am looking at the South Haven Daily. Today is Saturday, October 23, 1993. Our wedding day. The clock above the cigarette rack says ",
+    "quote_time_case": "1:10",
+    "quote_last": ".<br>“Gotta run,” I say to the old man, and I do.",
+    "title": "The Time Traveler’s Wife",
+    "author": "Audrey Niffenegger",
+    "sfw": "yes"
+  },
+  {
+    "time": "13:10",
     "quote_first": "&ldquo;It was ",
     "quote_time_case": "ten minutes past one",
-    "quote_last": ".” “You are sure of that?&rdquo;",
+    "quote_last": ".” “You are sure of that?&quot;",
     "title": "Death on the Nile",
     "author": "Agatha Christie",
     "sfw": "yes"

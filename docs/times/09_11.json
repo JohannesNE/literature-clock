@@ -1,6 +1,15 @@
 [
   {
     "time": "09:11",
+    "quote_first": "“What train can I get?”<br>“There’s one about ",
+    "quote_time_case": "9:11",
+    "quote_last": " if you really must go.”",
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:11",
     "quote_first": "",
     "quote_time_case": "9:11am",
     "quote_last": " lay in bed, staring at wall",

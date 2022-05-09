@@ -1,6 +1,15 @@
 [
   {
     "time": "11:08",
+    "quote_first": "“This is my first pass,” Wilson said. “East to west, at ",
+    "quote_time_case": "11:08",
+    "quote_last": ". We’re looking from the left-wing camera which is running at ninety-six frames per second. As you can see, my altitude is falling rapidly. Straight ahead is the main street of the target …”",
+    "title": "The Andromeda Strain",
+    "author": "Michael Crichton",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:08",
     "quote_first": "The bursar was standing in the hall with his arms folded across his chest and when he caught sight of the fat young man he looked significantly at the clock. It was ",
     "quote_time_case": "eight minutes past eleven",
     "quote_last": ".",

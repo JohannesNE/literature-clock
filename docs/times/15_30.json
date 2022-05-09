@@ -1,6 +1,42 @@
 [
   {
     "time": "15:30",
+    "quote_first": "“",
+    "quote_time_case": "Half past three",
+    "quote_last": ". Tea time,” said Mary Poppins, and she wheeled the perambulator round and shut her mouth tight again as though it were a trap door. She did not say another word all the way home.",
+    "title": "Mary Poppins",
+    "author": "P.L. Travers",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:30",
+    "quote_first": "At first, the change of scene appeared to be working. He managed to digest the roast beef sandwich and asparagus salad he ordered for lunch.  At ",
+    "quote_time_case": "3:30",
+    "quote_last": " he met a friend’s girlfriend in the hotel tearoom, where he sent his stomach a piece of cherry pie and black coffee, which also stayed down.",
+    "title": "Blind Willow, Sleeping Woman",
+    "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:30",
+    "quote_first": "There wasn’t the faintest trace of writing on any of them, not even Auntie Mabel’s Birthday, or dentist, ",
+    "quote_time_case": "half-past three",
+    "quote_last": ".",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:30",
+    "quote_first": "“They found two unlocked bicycles in Holder Court and rode out about ",
+    "quote_time_case": "half-past three",
+    "quote_last": " along the Lawrenceville Road.”",
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:30",
     "quote_first": "&ldquo;Before I am rrroasting the alarm-clock, I am setting it to go off, not at nine o'clock the next morning, but at ",
     "quote_time_case": "half-past thrrree",
     "quote_last": " the next afternoon. Vhich means half-past thrrree this afternoon. And that&rdquo;, she said, glancing at her wrist-watch, &ldquo;is in prrree-cisely seven minutes' time!&quot;",

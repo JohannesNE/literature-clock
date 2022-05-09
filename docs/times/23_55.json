@@ -1,9 +1,45 @@
 [
   {
     "time": "23:55",
+    "quote_first": "It’s ",
+    "quote_time_case": "five to twelve",
+    "quote_last": " Hermione, three turns should suffice. Good luck.<br>Dumbledore stepped out and lifted his wand to magically seal the door",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:55",
+    "quote_first": "The band began playing “Auld Lang Syne.”<br>“",
+    "quote_time_case": "Eleven fifty-five",
+    "quote_last": ",” she said, glancing at the gold watch on her pendant. “I really like ‘Auld Lang Syne.’ How about you?”<br>“I prefer ‘Home on the Range.’ All those deer and antelope.”<br>She smiled. “You must really like animals.”<br>“I do,” I said. And I thought of my friend who likes zoos, and of his funeral suit.<br>“I enjoyed talking to you. Goodbye.”<br>“Goodbye,” I said.",
+    "title": "Blind Willow, Sleeping Woman",
+    "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:55",
+    "quote_first": "“As Ness arrives at Union Station, the giant clock tells us it is ",
+    "quote_time_case": "five minutes to midnight",
+    "quote_last": ". This is significant, because humans consider midnight a time when bad things happen. Midnight is the Ides of March of the hours in the day! ‘Five minutes to midnight’ is therefore excellent foreshadowing. After all, it is almost directly equivalent to ‘Five minutes to very bad things happening’.”",
+    "title": "Set My Heart to Five: A Novel",
+    "author": "Simon Stephenson",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:55",
+    "quote_first": "Mr. Justice Wargrave said:<br>“It is now ",
+    "quote_time_case": "five minutes to eleven",
+    "quote_last": ". I think we should summon Miss Brent to join our<br>conclave.”",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:55",
     "quote_first": "&ldquo;I am going to lock you in. It is-&rdquo; he consulted his watch, &ldquo;",
     "quote_time_case": "five minutes to midnight",
-    "quote_last": ". Miss Granger, three turns should do it. Good luck.&quot;",
+    "quote_last": ". Miss Granger, three turns should do it. Good luck.&rdquo;",
     "title": "Harry Potter and the Prisoner of Azkaban",
     "author": "J. K. Rowling",
     "sfw": "yes"

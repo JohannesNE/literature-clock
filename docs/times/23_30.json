@@ -1,6 +1,33 @@
 [
   {
     "time": "23:30",
+    "quote_first": "He came into their bedroom at just past ",
+    "quote_time_case": "eleven-thirty",
+    "quote_last": ". He’d taken his muddy shoes off downstairs, and was trying to be quiet, but he heard the rustle of bedclothes in the dark and knew she was awake.",
+    "title": "If it Bleeds",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:30",
+    "quote_first": "And so it was that around ",
+    "quote_time_case": "half past eleven",
+    "quote_last": ", I found myself riding down to the Village on the Fifth Avenue bus with the street address of Hobart and Blackwell in my pocket, written on a page from one of the monogrammed notepads Mrs Barbour kept by the telephone.",
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:30",
+    "quote_first": "“I will be a sonofa****h if he ain’t in here at ",
+    "quote_time_case": "eleven-thirty at night",
+    "quote_last": ", fartin’ around in the dark with a pair of scissors and a paper sack.”",
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "author": "Ken Kesey",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:30",
     "quote_first": "He loaded the player and turned on the viewer, his knees popping again as he squatted to set the cue to ",
     "quote_time_case": "2330",
     "quote_last": ".",

@@ -58,10 +58,9 @@
 
                 if (lit_json.length === 0) {
                     return updateText(oneMinuteAgo(time), sfw);
+                } else {
+                    var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
                 }
-
-                // select single random text
-                var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
 
                 // get quote_len
                 var quote_len = (lit_json_single.quote_first +

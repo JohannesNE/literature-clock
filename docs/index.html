@@ -119,7 +119,7 @@
                     lit_json = lit_json.filter(item => item.sfw === 'yes');
                 }
 
-                if (lit_json.length !== 0) {
+                if (lit_json.length === 0) {
                     //return updateText(oneMinuteAgo(time), sfw);
                     var lit_json_single = noTime(time)
                 } else {

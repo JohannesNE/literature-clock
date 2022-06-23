@@ -99,9 +99,14 @@
 
         // Adds a time if it has no time.
         function noTime(time){
+            noun = "They "
+            if(window.location.search){
+                const urlParams = new URLSearchParams(window.location.search);
+                noun = urlParams.get("noun") + " ";
+            }
             lit = {
                 "time": "00:00",
-                "quote_first": "“Joyce glanced at the clock, ",
+                "quote_first": "“" + noun + "glanced at the clock, ",
                 "quote_time_case": "midnight",
                 "quote_last": ", nothing particularly special.”",
                 "title": "Unknown",

@@ -57,7 +57,8 @@
                 }
 
                 if (lit_json.length === 0) {
-                    return updateText(oneMinuteAgo(time), sfw);
+                    //return updateText(oneMinuteAgo(time), sfw);
+                    var lit_json_single = noTime(time)
                 } else {
                     var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
                 }
@@ -77,6 +78,11 @@
                         lit_json_single.quote_last;
                     document.getElementById('book').innerHTML = lit_json_single.title;
                     document.getElementById('author').innerHTML = lit_json_single.author;
+                    if (document.getElementById('author').innerHTML.length > 0){
+                        document.getElementById('author').innerHTML = (lit_json_single.author + ",");
+                    } else {
+                        document.getElementById('author').innerHTML = ""
+                    }
 
                     // set fontsize according to length
                     // Equation to make fontsize match
@@ -90,10 +96,24 @@
 
             });
         }
+
+        // Adds a time if it has no time.
+        function noTime(time){
+            lit = {
+                "time": "00:00",
+                "quote_first": "“Joyce glanced at the clock, ",
+                "quote_time_case": "midnight",
+                "quote_last": ", nothing particularly special.”",
+                "title": "Unknown",
+                "author": "",
+                "sfw": "yes"
+            }
+            return lit
+        }
         function startTime(sfw) {
             // This code runs every second
             // could be optimized to check time in miliseconds and set timeout to when minute will change next time.
-            
+
             var time = new Date();
             if (current_date !== undefined
                 && current_date.getMinutes() === time.getMinutes()) {
@@ -150,7 +170,7 @@
         <blockquote id="lit_quote"></blockquote>
         <cite>
             -
-            <span id="book"></span>,
+            <span id="book"></span>
             <span id="author"></span>
         </cite>
     </div>

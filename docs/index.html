@@ -94,14 +94,15 @@
             startTime(sfw);
         }
 
+        // If a file of timeStamp is found, use that. Otherwise, return an empty file.
         function loadFile(time) {
             var timeStamp = timeToTimecode(time);
-            return fetch("times/" + timeStamp + ".json")
-                .then(response => {
+            return fetch("times/" + timeStamp + ".json") // Load the file
+                .then(response => { // If it exists, return it
                     if (response.ok) {
                         return response.json();
-                    } else {
-                        return fetch("times/empty.json");
+                    } else { // Otherwise, return an empty.json
+                        return fetch("times/empty.json").then(response => response.json());
                     }
                 })
                 .catch(e => console.log("error"));
@@ -118,11 +119,11 @@
                     lit_json = lit_json.filter(item => item.sfw === 'yes');
                 }
 
-                if (lit_json.length == 0) {
-                    //return updateText(oneMinuteAgo(time), sfw);
-                    var lit_json_single = noTime(time)
+                if (lit_json[0].time === "None") {
+                    lit_json_single = noTime(time);
                 } else {
-                    var lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)]
+                    // Otherwise, set lit_json_single to a random quote from the file
+                    lit_json_single = lit_json[Math.floor(Math.random() * lit_json.length)];
                 }
 
                 // get quote_len

@@ -101,7 +101,7 @@
                     if (response.ok) {
                         return response.json();
                     } else {
-                        return loadFile(oneMinuteAgo(time));
+                        return fetch("times/empty.json");
                     }
                 })
                 .catch(e => console.log("error"));
@@ -113,13 +113,12 @@
 
             // Load JSON file
             loadFile(time).then((lit_json) => {
-
                 // Filter SFW if needed
                 if (sfw) {
                     lit_json = lit_json.filter(item => item.sfw === 'yes');
                 }
 
-                if (lit_json.length === 0) {
+                if (lit_json.length == 0) {
                     //return updateText(oneMinuteAgo(time), sfw);
                     var lit_json_single = noTime(time)
                 } else {

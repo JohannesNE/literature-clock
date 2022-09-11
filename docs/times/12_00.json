@@ -1,6 +1,24 @@
 [
   {
     "time": "12:00",
+    "quote_first": "At ",
+    "quote_time_case": "twelve o'clock",
+    "quote_last": " the bus came, and Torvik stood at the post office to meet it. Pastor Bengtsson alighted. He was a short, stocky man, with alert black eyes and rather thick rustic lips.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:00",
+    "quote_first": "At ",
+    "quote_time_case": "twelve o'clock",
+    "quote_last": " the bus would be leaving with the morning mail. It was the last opportunity for the day to post the letter. He really ought not wait any longer with the application. But did he really dare take this step before he was sure of God&rsquo;s will? He prayed afresh.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:00",
     "quote_first": "Holly tries to ignore the headache her mother’s calls — and this call in particular — almost always bring on. She assures her mother that yes, she will be there on Sunday to help, and yes, she will be there by ",
     "quote_time_case": "noon",
     "quote_last": ", so they can eat one more meal as a family.",

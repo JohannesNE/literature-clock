@@ -1,6 +1,15 @@
 [
   {
     "time": "03:00",
+    "quote_first": "Worst of all was that Henrick used such pointed and mercilessly concrete examples. If he was preaching about mercy, he would describe the lot of the poor in such a way that the people could picture someone of the captain&rsquo;s many crofters leaving his home at ",
+    "quote_time_case": "three o'clock in the morning",
+    "quote_last": " with a sack of grain on his back, how he slaved in the fields, how he often must go without the noon meal in order to get to the mill at last after thirteen hours of labor and after picking up his flour, return home through the woods, carrying his heavy load.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "03:00",
     "quote_first": "The scent and smoke and sweat of a casino are nauseating at ",
     "quote_time_case": "three in the morning",
     "quote_last": ".",
@@ -244,15 +253,6 @@
   },
   {
     "time": "03:00",
-    "quote_first": "It was nearly ",
-    "quote_time_case": "one o’clock",
-    "quote_last": " when Sherlock Holmes returned from his excursion. He held in his hand a sheet of blue paper, scrawled over with notes and figures.",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
-  },
-  {
-    "time": "03:00",
     "quote_first": "It did not help, either, that she had been up half the night with Josie, who’d awakened from a nightmare<br>about a boa constrictor and refused to go back to sleep. Alex didn’t know who<br>the other candidates were for this position, but she’d wager that they weren’t single moms who’d had to poke the radiator vents with a yardstick at ",
     "quote_time_case": "3:00 a.m.",
     "quote_last": " to prove that there weren’t any snakes hiding in the dark tunnels.",
@@ -334,8 +334,8 @@
   },
   {
     "time": "03:00",
-    "quote_first": "But ",
-    "quote_time_case": "at three o’clock in the morning",
+    "quote_first": "But at ",
+    "quote_time_case": "three o’clock in the morning",
     "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work &ndash; and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
     "title": "The Crack-Up",
     "author": "F. Scott Fitzgerald",

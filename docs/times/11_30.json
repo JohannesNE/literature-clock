@@ -1,6 +1,15 @@
 [
   {
     "time": "11:30",
+    "quote_first": "There was only one time I was not on the receiving end. It was Tuesday-my half day-and at ",
+    "quote_time_case": "11:30 a.m.",
+    "quote_last": " a call came in. An eversion of the uterus in a cow. This is the tough job in the country practice and I felt the usual chill.",
+    "title": "All Creatures Great and Small",
+    "author": "James Herriot",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:30",
     "quote_first": "Five minutes later another truck pulls up behind the first. On the side of this one is a grinning cartoon boy woofing down a double cheeseburger. At ",
     "quote_time_case": "eleven-thirty",
     "quote_last": ", while people are lined up for burgers and fries and tacos and enchiladas, a hotdog wagon appears.",
@@ -69,6 +78,15 @@
     "quote_last": ".",
     "title": "The Wind-up Bird Chronicle",
     "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:30",
+    "quote_first": "About ",
+    "quote_time_case": "11:30",
+    "quote_last": " this morning I asked her if she was going to fix anything for Thanksgiving, and she looked at me like she didn&rsquo;t even know what I was talking about",
+    "title": "Don't You Dare Read This, Mrs. Dunphrey",
+    "author": "Margaret Peterson Haddix",
     "sfw": "yes"
   }
 ]

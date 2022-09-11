@@ -1,6 +1,15 @@
 [
   {
     "time": "21:00",
+    "quote_first": "They who had to go to bed so punctually, for whom the lights went out at ",
+    "quote_time_case": "nine o'clock",
+    "quote_last": ", could stay at Obermeier Farm until the fireflies and the stars came out-until the Chinese lanterns were lit and they could walk once more about the farm with their jovial host and hostess with these beautiful, swaying, colored lights.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:00",
     "quote_first": "The storm held off until ",
     "quote_time_case": "nine o’clock",
     "quote_last": ", and by then Anderson was pretty sure they were going to have a good one - what Havenites called “a real Jeezer.”",
@@ -109,15 +118,6 @@
   },
   {
     "time": "21:00",
-    "quote_first": "“4:00, wallow in self-pity; 4:30, stare into the abyss; 5:00, solve world hunger, tell no one; 5:30, jazzercize; 6:30, dinner with me—I can’t cancel that again; 7:00, wrestle with my self-loathing… I’m booked. Of course, if I bump the loathing to ",
-    "quote_time_case": "9",
-    "quote_last": ", I could still be done in time to lay in bed, stare at the ceiling and slip slowly into madness.”",
-    "title": "How the Grinch Stole Christmas!",
-    "author": "The Grinch",
-    "sfw": "yes"
-  },
-  {
-    "time": "21:00",
     "quote_first": "“However, at ",
     "quote_time_case": "nine o’clock",
     "quote_last": " the prince, in his velvet coat with a sable collar and cap, went out for his usual walk. &ldquo;",
@@ -150,6 +150,15 @@
     "quote_last": " at night it&rsquo;s cold out.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:00",
+    "quote_first": "I got home from working at Burger Boy tonight about ",
+    "quote_time_case": "nine o'clock",
+    "quote_last": ", and I was kind of suprised because the whole house was dark.",
+    "title": "Don't You Dare Read This, Mrs. Dunphrey",
+    "author": "Margaret Peterson Haddix",
     "sfw": "yes"
   },
   {

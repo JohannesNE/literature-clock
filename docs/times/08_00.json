@@ -1,6 +1,15 @@
 [
   {
     "time": "08:00",
+    "quote_first": "School had started at ",
+    "quote_time_case": "eight o'clock",
+    "quote_last": " and Gunther was late. Mr. Kunze, the teacher, greeted him briefly with &ldquo;Aha, a new bird!&rdquo; and motioned the brother to wheel his chair over by the window nearest to him.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:00",
     "quote_first": "“His landlady’s cook, who always brought him his breakfast at ",
     "quote_time_case": "eight o’clock",
     "quote_last": ", failed to appear on this occasion. That had never happened before.”",

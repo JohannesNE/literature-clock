@@ -28,9 +28,9 @@
   },
   {
     "time": "13:00",
-    "quote_first": "A tub was brought in to melt snow for mortar. They heard somebody saying it was twelve o’clock already. “It’s sure to be twelve,” Shukhov announced. “The sun’s over the top already.” “If it is,” the captain retorted, “it’s ",
+    "quote_first": "A tub was brought in to melt snow for mortar. They heard somebody saying it was twelve o’clock already.<br/>“It’s sure to be twelve,” Shukhov announced. “The sun’s over the top already.”<br/>“If it is,” the captain retorted, “it’s ",
     "quote_time_case": "one o’clock",
-    "quote_last": ", not twelve.” “How do you make that out?” Shukhov asked in surprise. “The old folk say the sun is highest at dinnertime.” “Maybe it was in their day!” the captain snapped back. “Since then it’s been decreed that the sun is highest at one o’clock.” “Who decreed that?” “The Soviet government.”",
+    "quote_last": ", not twelve.”<br/>“How do you make that out?” Shukhov asked in surprise. “The old folk say the sun is highest at dinnertime.”<br/> “Maybe it was in their day!” the captain snapped back. “Since then it’s been decreed that the sun is highest at one o’clock.”<br/>“Who decreed that?”<br/>“The Soviet government.”",
     "title": "One Day in the Life of Ivan Denosovich",
     "author": "Aleksandr Solzhenitsyn",
     "sfw": "yes"
@@ -48,7 +48,7 @@
     "time": "13:00",
     "quote_first": "He bought them day passes, using cash. They rode some rides and then had a late lunch at Rock Lobster, the seafood place down by the concert hall. That was just past ",
     "quote_time_case": "one o’clock",
-    "quote_last": ". As for the time of death, you probably know how they establish it… contents of the stomach and so on…",
+    "quote_last": ". As for the time of death, you probably know how they establish it&hellip; contents of the stomach and so on.",
     "title": "Joyland",
     "author": "Stephen King",
     "sfw": "yes"
@@ -87,7 +87,7 @@
     "quote_last": " came around and we went to moving things, getting the day room ready, the least black boy asked if she wanted him to go down and get McMurphy and Washington for the meeting, but she said no, it was all right, let him stay—besides, some of the men here might like a chance to discuss our Mr. Randle Patrick McMurphy in the absence of his dominating presence.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "13:00",
@@ -100,8 +100,8 @@
   },
   {
     "time": "13:00",
-    "quote_first": "The more he thought about it the more puzzled he was… He didn’t understand this revolver<br>business…<br>Somebody in the house had got that revolver…<br>Downstairs a clock ",
-    "quote_time_case": "struck one",
+    "quote_first": "The more he thought about it the more puzzled he was. He didn’t understand this revolver business. Somebody in the house had got that revolver. Downstairs a clock struck ",
+    "quote_time_case": "one",
     "quote_last": ".",
     "title": "And Then There Were None",
     "author": "Agatha Christie",
@@ -109,27 +109,27 @@
   },
   {
     "time": "13:00",
-    "quote_first": "&ldquo;I think,&rdquo; he said, with a triumphant smile, &ldquo;that I may safely expect to find the person I seek in the dining-room, fair lady.&rdquo; &ldquo;There may be more than one.&rdquo; &ldquo;Whoever is there, as the ",
-    "quote_time_case": "clock strikes one",
-    "quote_last": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the Scarlet Pimpernel.&lsquo;&quot;",
+    "quote_first": "I think, he said, with a triumphant smile, that I may safely expect to find the person I seek in the dining-room, fair lady.<br/>There may be more than ",
+    "quote_time_case": "one",
+    "quote_last": ".<br/>Whoever is there, as the clock strikes one, will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the Scarlet Pimpernel.&lsquo;",
     "title": "The Scarlet Pimpernel",
     "author": "Baroness Orczy",
     "sfw": "yes"
   },
   {
     "time": "13:00",
-    "quote_first": "&ldquo;",
+    "quote_first": "",
     "quote_time_case": "One o'clock",
-    "quote_last": " pee em! Hello, Insert Name Here!&rdquo; Said by the Disorganizer",
+    "quote_last": " pee em! Hello, Insert Name Here!",
     "title": "Jingo",
     "author": "Terry Pratchett",
     "sfw": "yes"
   },
   {
     "time": "13:00",
-    "quote_first": "“Czarina Catherine reported entering Galatz at ",
+    "quote_first": "Czarina Catherine reported entering Galatz at ",
     "quote_time_case": "one o'clock",
-    "quote_last": " today.”",
+    "quote_last": " today.",
     "title": "Dracula",
     "author": "Bram Stoker",
     "sfw": "yes"
@@ -156,7 +156,7 @@
     "time": "13:00",
     "quote_first": "Gottfried Rembke arrived at ",
     "quote_time_case": "1pm",
-    "quote_last": " precisely. The moment he walked into the restaurant, handed his coat to the waiter, they knew it was him. The solid, stocky body, the gleaming pate, the open expression, the vigorous handshake: everything about him radiated ease and enthusiasm",
+    "quote_last": " precisely. The moment he walked into the restaurant, handed his coat to the waiter, they knew it was him. The solid, stocky body, the gleaming pate, the open expression, the vigorous handshake: everything about him radiated ease and enthusiasm.",
     "title": "Platform",
     "author": "Michel Houellebecq",
     "sfw": "yes"
@@ -165,7 +165,7 @@
     "time": "13:00",
     "quote_first": "I got to Schmidt&rsquo;s early, feeling horribly nervous. At ",
     "quote_time_case": "one o'clock",
-    "quote_last": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. &lsquo;Traitor.&rsquo; Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her. Toni addressed the air. &lsquo;If he does not leave at once I shall tell the waiter that I am not sharing my table with this gentleman.&rsquo; Jamie heard, said her name again, turned to go, I rose to go with him. Toni - with that concentration of will - said, &lsquo;YOU are lunching with me.'",
+    "quote_last": " sharp: Toni. She was looking at the menu she knew well - Schmorbraten? Schnitzel? - when he loomed over her. I had seen him come in. She looked up, through him, at me. &ldquo;Traitor.&rdquo; Jamie, hovering, looking very big, said her pet name, a German diminutive chosen by her.",
     "title": "Jigsaw",
     "author": "Sybille Bedford",
     "sfw": "yes"

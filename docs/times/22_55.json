@@ -1,11 +1,20 @@
 [
   {
     "time": "22:55",
-    "quote_first": "&ldquo;It is eleven o'clock! ",
+    "quote_first": "It is eleven o'clock! ",
     "quote_time_case": "Eleven o'clock, all but five minutes!",
-    "quote_last": "&rdquo; &ldquo;But which eleven o'clock?&rdquo; &ldquo;The eleven o'clock that is to decide life or death!&hellip;He told me so just before he went&hellip;.He is terrible&hellip;.He is quite mad: he tore off his mask and his yellow eyes shot flames!&hellip;&quot;",
+    "quote_last": "<br/>But which eleven o'clock?<br/>The eleven o'clock that is to decide life or death!&hellip;He told me so just before he went&hellip;.He is terrible&hellip;.He is quite mad: he tore off his mask and his yellow eyes shot flames!&hellip;",
     "title": "The Phantom of the Opera",
     "author": "Gaston Leroux",
+    "sfw": "yes"
+  },
+  {
+    "time": "22:55",
+    "quote_first": "Mr. Justice Wargrave said:<br>“It is now ",
+    "quote_time_case": "five minutes to eleven",
+    "quote_last": ". I think we should summon Miss Brent to join our conclave.”",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
     "sfw": "yes"
   }
 ]

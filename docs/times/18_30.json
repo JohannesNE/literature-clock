@@ -1,15 +1,6 @@
 [
   {
     "time": "18:30",
-    "quote_first": "Two whores on their way down from Portland to take us deep sea fishing in a boat! it made it tough to stay in bed until the dorm lights came on at ",
-    "quote_time_case": "six-thirty",
-    "quote_last": ".",
-    "title": "One Flew Over the Cuckoo’s Nest",
-    "author": "Ken Kesey",
-    "sfw": "no"
-  },
-  {
-    "time": "18:30",
     "quote_first": "",
     "quote_time_case": "SIX-THIRTY",
     "quote_last": " ON REACHER’S watch, the motion inside the truck changed. Six hours and four minutes they’d cruised steadily, maybe fifty-five or sixty miles an hour, while the heat peaked and fell away. He’d sat, hot and rocking and bouncing in the dark with the wheel well between him and Holly Johnson, ticking off the distance against a map inside his head.",
@@ -46,15 +37,6 @@
   },
   {
     "time": "18:30",
-    "quote_first": "“At five o’clock the two ladies retired to dress, and at ",
-    "quote_time_case": "half-past six",
-    "quote_last": "<br>Elizabeth was summoned to dinner.”",
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "sfw": "yes"
-  },
-  {
-    "time": "18:30",
     "quote_first": "At ",
     "quote_time_case": "six-thirty",
     "quote_last": " I left the bar and walked outside. It was getting dark and the big Avenida looked cool and graceful. On the other side were homes that once looked out on the beach. Now they looked out on hotels and most of them had retreated behind tall hedges and walls that cut them off from the street.",
@@ -73,9 +55,9 @@
   },
   {
     "time": "18:30",
-    "quote_first": "As I was turning away, grieved to be parting from him, a thought started up in me and I turned back. &lsquo;Shall I take one more message for you?&rsquo; &lsquo;That&rsquo;s good of you&rsquo; he said, &lsquo;but do you want to?&rsquo; &lsquo;Yes, just this once.&rsquo; It could do no harm, I thought; and I should be far away when the message takes effect, and I wanted to say something to show we were friends. &lsquo;Well,&rsquo; he said, once more across the gap, &lsquo;say tomorrow&rsquo;s no good, I&rsquo;m going to Norwich, but Friday at ",
+    "quote_first": "As I was turning away, grieved to be parting from him, a thought started up in me and I turned back. &ldquo;Shall I take one more message for you?&rdquo;<br/>&ldquo;That&rsquo;s good of you&rdquo; he said, &ldquo;but do you want to?&rdquo;<br/>&ldquo;Yes, just this once.&rdquo; It could do no harm, I thought; and I should be far away when the message takes effect, and I wanted to say something to show we were friends. &ldquo;Well,&rdquo; he said, once more across the gap, &ldquo;say tomorrow&rsquo;s no good, I&rsquo;m going to Norwich, but Friday at ",
     "quote_time_case": "half-past six",
-    "quote_last": ", same as usual.&rsquo;",
+    "quote_last": ", same as usual.&quot;",
     "title": "The Go-Between",
     "author": "L.P. Hartley",
     "sfw": "yes"
@@ -100,7 +82,7 @@
   },
   {
     "time": "18:30",
-    "quote_first": "To a casual visitor it might have seemed that Mr Penicuik, who owned the house, had fallen upon evil days; but two of the three gentlemen assembled in the Saloon at ",
+    "quote_first": "To a casual visitor it might have seemed that Mr. Penicuik, who owned the house, had fallen upon evil days; but two of the three gentlemen assembled in the Saloon at ",
     "quote_time_case": "half-past six",
     "quote_last": " on a wintry evening of late February were in no danger of falling into this error.",
     "title": "Cotillion",

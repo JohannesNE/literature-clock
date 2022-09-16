@@ -1,6 +1,159 @@
 [
   {
     "time": "19:00",
+    "quote_first": "“It was about ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " and so still I felt that, if someone had spoken a mile away, I could have answered him.”",
+    "title": "A Month in the Country",
+    "author": "J.L. Carr",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "By ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " the candles were lit.",
+    "title": "A Discovery of Witches",
+    "author": "Deborah Harkness",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "At ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " Holly is still in her office, going over invoices that don’t really need her attention.",
+    "title": "If It Bleeds",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "Anne made her way across the dooryard, trailing a steadying hand along the side of Bobbi’s truck. When she had passed the truck, she reached at once for the porch railing. She looked up, and in the slanting light of ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ", Gardener thought the woman looked both aged and ageless.",
+    "title": "The Tommyknockers",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "On se réunit le matin au breakfast, et puis on se sépare. Everyone does as he pleases till dinnertime. Dinner at ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ".",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "By ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ", all the guests had arrived, led into the house by Fred and George, who had waited for them at the end of the lane.",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "JK Rowling",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "Be at the third pillar from the left outside the Lyceum Theatre to-night at ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ". If you are distrustful bring two friends. You are a wronged woman and shall have justice. Do not bring the police. If you do, all will be in vain. <br>-Your unknown friend.",
+    "title": "A Study in Scarlet",
+    "author": "Sir Arthur Conan Doyle",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "The clocks were chiming ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ". &ldquo;Ah Mr. Lipwig,&rdquo; said Lord Vetinari, looking up. &ldquo;Thank you so much for dropping in. It has been such a busy day, has it not? Drumknott, do help Mr. Lipwig to a chair. Prophecy can be very exhausting, I believe.&quot;",
+    "title": "Going Postal",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "Billy closes his eyes and goes to sleep.<br>At ",
+    "quote_time_case": "seven",
+    "quote_last": " that evening, he’s eating a room service dinner and watching The Asphalt Jungle on his laptop. It’s a jinxed one last job picture, for sure. The phone rings. It’s Ken Hoff. He tells Billy where they’ll meet tomorrow afternoon. Billy doesn’t have to write it down. Writing things down can be dangerous, and he’s got a good memory.",
+    "title": "Billy Summers",
+    "author": "Stephen King",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "“And what of Irene Adler?” I asked.<br>“Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at ",
+    "quote_time_case": "seven sharp",
+    "quote_last": " for dinner.”",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Sir Arthur Conan Doyle",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "In his hotel room at the Bon Voyage, Dr. Rufus Sixsmith reads a sheaf of letters written to him nearly half a century ago by his friend Robert Frobisher. Sixsmith knows them by heart, but their texture, rustle, and his friend’s faded handwriting calm his nerves. These letters are what he would save from a burning building. At ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " precisely, he washes, changes his shirt, and sandwiches the nine read letters in the Gideon’s Bible—this he replaces in the bedside cabinet. Sixsmith slips the unread letters into his jacket pocket for the restaurant.",
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "“Very glad to see you. I dine at ",
+    "quote_time_case": "seven",
+    "quote_last": ". There is a woodcock, I believe. By the way, in view of recent occurrences, perhaps I ought to ask Mrs. Hudson to examine its crop.”",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Sir Arthur Conan Doyle",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "By ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " the orchestra has arrived, no thin five-piece affair, but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos, and low and high drums.",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "“Yes, ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": ". I will bring dessert.” Smiling in her sad-happy way, she hobbled back into her unit while I continued to mine.",
+    "title": "The Catacombs",
+    "author": "Jeremy Bates",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "“What? No. I mean, yeah, that’s when we have to be in the lot, but there’s a bunch of stuff before, you know, costumes, makeup, all that. I usually get there at ",
+    "quote_time_case": "seven",
+    "quote_last": ". I can’t believe nobody told you any of this.”",
+    "title": "Reprieve",
+    "author": "James Han Mattson",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "After that first night, Kendra quickly fell into a rhythm: She’d drive in with Sarah, arrive by ",
+    "quote_time_case": "seven P.M.",
+    "quote_last": ", punch in immediately, sift through the costumes, splatter herself with blood, go through makeup if needed, and walk with Christy and Sarah down to the lot.",
+    "title": "Reprieve",
+    "author": "James Han Mattson",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
+    "quote_first": "“It contains your new Nimbus Two Thousand, but I don’t want everybody knowing you’ve got a broomstick or they’ll all want one. Oliver Wood will meet you tonight on the Quidditch field at ",
+    "quote_time_case": "seven o’clock",
+    "quote_last": " for your first training session.&ldquo;",
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "author": "J.K. Rowling",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:00",
     "quote_first": "At ",
     "quote_time_case": "seven o’clock",
     "quote_last": " precisely, a tiny Italian man entered James’s office. He was wearing a very ancient tuxedo and a white bow tie, which was almost exactly the same size and shape as the mustache on his upper lip.",

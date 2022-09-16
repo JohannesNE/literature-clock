@@ -37,9 +37,9 @@
   },
   {
     "time": "14:00",
-    "quote_first": "“It’s a delusional painter who finishes a canvas at ",
+    "quote_first": "It’s a delusional painter who finishes a canvas at ",
     "quote_time_case": "two o’clock",
-    "quote_last": " and expects radical societal transformation by four. Even when artists write manifestos, they are (hopefully) aware that their exigent tone is, finally, borrowed, only echoing and mimicking the urgency of the guerrilla’s demands, or the activist’s protests, rather than truly enacting it. The people sometimes demand change. They almost never demand art.”",
+    "quote_last": " and expects radical societal transformation by four. Even when artists write manifestos, they are (hopefully) aware that their exigent tone is, finally, borrowed, only echoing and mimicking the urgency of the guerrilla’s demands, or the activist’s protests, rather than truly enacting it. The people sometimes demand change. They almost never demand art.",
     "title": "Intimations",
     "author": "Zadie Smith",
     "sfw": "yes"
@@ -48,7 +48,7 @@
     "time": "14:00",
     "quote_first": "Things started to break up around ",
     "quote_time_case": "two in the afternoon",
-    "quote_last": ". We could have stayed for supper, could have stayed - if Mr Corcoran’s drunken invitations held true (Mrs Corcoran’s frosty smile behind his back informed us that they did not) indefinitely…",
+    "quote_last": ". We could have stayed for supper, could have stayed - if Mr Corcoran’s drunken invitations held true (Mrs Corcoran’s frosty smile behind his back informed us that they did not) indefinitely.",
     "title": "The Secret History",
     "author": "Donna Tartt",
     "sfw": "yes"
@@ -123,7 +123,7 @@
     "quote_last": " sun while one of the black boys used the phone to call his bookmaker, and Billy’s mother took the opportunity to leave her work and come out from behind her desk and take her boy by the hand and lead him outside to sit near where I was on the grass.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "14:00",
@@ -136,9 +136,9 @@
   },
   {
     "time": "14:00",
-    "quote_first": "“At ",
+    "quote_first": "At ",
     "quote_time_case": "two o’clock",
-    "quote_last": " back at the Weatherbys’ Sally asked her if she and Amory had had a “time” in the den. Isabelle turned to her quietly. In her eyes was the light of the idealist, the inviolate dreamer of Joan-like dreams.”",
+    "quote_last": " back at the Weatherbys’ Sally asked her if she and Amory had had a “time” in the den. Isabelle turned to her quietly. In her eyes was the light of the idealist, the inviolate dreamer of Joan-like dreams.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -154,20 +154,11 @@
   },
   {
     "time": "14:00",
-    "quote_first": "&lsquo;She could have fired the jig, and he could have kept on picking up his packages at the old time, ",
+    "quote_first": "She could have fired the jig, and he could have kept on picking up his packages at the old time, ",
     "quote_time_case": "two o'clock",
-    "quote_last": ". As it was, he had almost been arrested.'",
+    "quote_last": ". As it was, he had almost been arrested.",
     "title": "A Confederacy of Dunces",
     "author": "John Kennedy Toole",
-    "sfw": "yes"
-  },
-  {
-    "time": "14:00",
-    "quote_first": "&ldquo;The old people&rsquo;s home is at Marengo, fifty miles from Algiers. I&rsquo;ll catch the ",
-    "quote_time_case": "two o'clock",
-    "quote_last": " bus and get there in the afternoon.&rdquo;&hellip;. &ldquo;I caught the two o'clock bus. It was very hot.&quot;",
-    "title": "The Outsider",
-    "author": "Albert Camus",
     "sfw": "yes"
   },
   {
@@ -201,7 +192,7 @@
     "time": "14:00",
     "quote_first": "I caught the ",
     "quote_time_case": "two o'clock",
-    "quote_last": " bus. It was very hot. I ate at Céleste&rsquo;s restaurant as usual. They all felt very sorry for me and Céleste told me, &lsquo;There&rsquo;s no one like a mother&rsquo;.",
+    "quote_last": " bus. It was very hot. I ate at Céleste&rsquo;s restaurant as usual. They all felt very sorry for me and Céleste told me, &ldquo;There&rsquo;s no one like a mother.&quot;",
     "title": "The Outsider",
     "author": "Albert Camus",
     "sfw": "yes"

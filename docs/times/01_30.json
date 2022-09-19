@@ -30,7 +30,7 @@
     "time": "01:30",
     "quote_first": "&ldquo;",
     "quote_time_case": "Half-past one",
-    "quote_last": "”, The street lamp sputtered, The street lamp muttered, The street lamp said, &quot;Regard that woman &hellip;&rdquo;",
+    "quote_last": "&rdquo;, The street lamp sputtered, The street lamp muttered, The street lamp said, &ldquo;Regard that woman &hellip;&quot;",
     "title": "Rhapsody on a Windy Night",
     "author": "TS Eliot",
     "sfw": "yes"

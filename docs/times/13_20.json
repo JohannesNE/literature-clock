@@ -10,9 +10,9 @@
   },
   {
     "time": "13:20",
-    "quote_first": "Kamarov, signal to Purga: &lsquo;Diving at—,&rsquo;&ldquo; he checked his watch, &rdquo;&lsquo;—",
+    "quote_first": "&ldquo;Kamarov, signal to Purga: &quot;Diving at—,&rdquo; he checked his watch, &ldquo;—",
     "quote_time_case": "1320 hours",
-    "quote_last": ". Exercise OCTOBER FROST begins as scheduled. You are released to other assigned duties. We will return as scheduled.&ldquo; Kamarov worked the trigger on the blinker light to transmit the message. The Purga responded at once, and Ramius read the flashing signal unaided: &quot;IF THE WHALES DON&rsquo;T EAT YOU. GOOD LUCK TO RED OCTOBER!&quot;",
+    "quote_last": ". Exercise OCTOBER FROST begins as scheduled. You are released to other assigned duties. We will return as scheduled.&rdquo; Kamarov worked the trigger on the blinker light to transmit the message. The Purga responded at once, and Ramius read the flashing signal unaided: &ldquo;IF THE WHALES DON&rsquo;T EAT YOU. GOOD LUCK TO RED OCTOBER!&rdquo;",
     "title": "The Hunt for Red October",
     "author": "Tom Clancy",
     "sfw": "yes"
@@ -20,15 +20,6 @@
   {
     "time": "13:20",
     "quote_first": "The time is coming for action. Today this Vampire is limit to the powers of man, and till sunset he may not change. It will take him time to arrive here, see it is ",
-    "quote_time_case": "twenty minutes past one",
-    "quote_last": ", and there are yet some times before he can hither come, be he never so quick.",
-    "title": "Dracula",
-    "author": "Bram Stoker",
-    "sfw": "yes"
-  },
-  {
-    "time": "13:20",
-    "quote_first": "Today this Vampire is limit to the powers of man, and till sunset he may not change. It will take him time to arrive here, see it is ",
     "quote_time_case": "twenty minutes past one",
     "quote_last": ", and there are yet some times before he can hither come, be he never so quick.",
     "title": "Dracula",

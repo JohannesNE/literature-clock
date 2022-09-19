@@ -10,9 +10,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>‘",
+    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>&ldquo;",
     "quote_time_case": "Eight o’clock",
-    "quote_last": ",’ Dilsey said.",
+    "quote_last": ",&rdquo; Dilsey said.",
     "title": "The Sound and the Fury",
     "author": "William Faulkner",
     "sfw": "yes"
@@ -100,9 +100,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“Then the grandfather’s clock in the hall outside struck ",
+    "quote_first": "Then the grandfather’s clock in the hall outside struck ",
     "quote_time_case": "eight",
-    "quote_last": ", and the memory of the night before came to him.”",
+    "quote_last": ", and the memory of the night before came to him.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -129,16 +129,16 @@
     "time": "20:00",
     "quote_first": "&lsquo;TIS ",
     "quote_time_case": "eight o'clock",
-    "quote_last": ",&ndash;a clear March night, The moon is up,&ndash;the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
+    "quote_last": ", a clear March night, The moon is up, the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
     "title": "The Idiot Boy",
     "author": "William Wordsworth",
     "sfw": "yes"
   },
   {
     "time": "20:00",
-    "quote_first": "&ldquo;I trace the words, I&rsquo;ll arrive to collect you for drinks ",
+    "quote_first": "I trace the words, &lsquo;I&rsquo;ll arrive to collect you for drinks ",
     "quote_time_case": "at eight",
-    "quote_last": " on Saturday.&quot;",
+    "quote_last": " on Saturday.'",
     "title": "Tell-All",
     "author": "Chuck Palahniuk",
     "sfw": "yes"
@@ -181,15 +181,6 @@
   },
   {
     "time": "20:00",
-    "quote_first": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it. although until after ",
-    "quote_time_case": "eight o'clock",
-    "quote_last": " the apartment was full of cheerful sun.",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
-  },
-  {
-    "time": "20:00",
     "quote_first": "It&rsquo;s the twenty-third of June nineteen seventy-five, and it is ",
     "quote_time_case": "eight o'clock",
     "quote_last": " in the evening, seated at his jigsaw puzzle, Bartlebooth has just died.",
@@ -210,7 +201,7 @@
     "time": "20:00",
     "quote_first": "That day he forgot to go to dinner; he noticed the fact ",
     "quote_time_case": "at eight",
-    "quote_last": " in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread.",
+    "quote_last": " in the evening, and as it was too late to go to the Rue St. Jaques, he ate a lump of bread.",
     "title": "Les Miserables",
     "author": "Victor Hugo",
     "sfw": "yes"

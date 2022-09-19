@@ -12,7 +12,7 @@
     "time": "19:30",
     "quote_first": "At ",
     "quote_time_case": "seven-thirty",
-    "quote_last": ", Chetta Reynolds blew into the examining room where the Stones and their ceaselessly screaming baby daughter had been stashed. The poet rumored to be on the short list for  Presidential Medal of Freedom was dressed in straight-leg jeans and a BU sweatshirt with a hole in one elbow.",
+    "quote_last": ", Chetta Reynolds blew into the examining room where the Stones and their ceaselessly screaming baby daughter had been stashed. The poet rumored to be on the short list for Presidential Medal of Freedom was dressed in straight-leg jeans and a BU sweatshirt with a hole in one elbow.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
     "sfw": "yes"
@@ -46,9 +46,9 @@
   },
   {
     "time": "19:30",
-    "quote_first": "But now he was close - here was the house, here were the gates. Somewhere a clock beat a single chime. &lsquo;What, is it really ",
+    "quote_first": "But now he was close - here was the house, here were the gates. Somewhere a clock beat a single chime. &ldquo;What, is it really ",
     "quote_time_case": "half-past seven",
-    "quote_last": "? That&rsquo;s impossible, it must be fast!’",
+    "quote_last": "? That&rsquo;s impossible, it must be fast!&quot;",
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoyevsky",
     "sfw": "yes"
@@ -60,7 +60,7 @@
     "quote_last": " that same evening we see our first floes and greet them wishing they were the last.",
     "title": "The Terrors of Ice and Darkness",
     "author": "Christoph Ransmayr",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "19:30",

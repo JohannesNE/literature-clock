@@ -1,6 +1,24 @@
 [
   {
     "time": "12:00",
+    "quote_first": "At ",
+    "quote_time_case": "twelve o'clock",
+    "quote_last": " the bus came, and Torvik stood at the post office to meet it. Pastor Bengtsson alighted. He was a short, stocky man, with alert black eyes and rather thick rustic lips.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:00",
+    "quote_first": "At ",
+    "quote_time_case": "twelve o'clock",
+    "quote_last": " the bus would be leaving with the morning mail. It was the last opportunity for the day to post the letter. He really ought not wait any longer with the application. But did he really dare take this step before he was sure of God&rsquo;s will? He prayed afresh.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:00",
     "quote_first": "Holly tries to ignore the headache her mother’s calls — and this call in particular — almost always bring on. She assures her mother that yes, she will be there on Sunday to help, and yes, she will be there by ",
     "quote_time_case": "noon",
     "quote_last": ", so they can eat one more meal as a family.",
@@ -38,7 +56,7 @@
     "time": "12:00",
     "quote_first": "A tub was brought in to melt snow for mortar. They heard somebody saying it was ",
     "quote_time_case": "twelve o’clock",
-    "quote_last": " already. “It’s sure to be twelve,” Shukhov announced. “The sun’s over the top already.” “If it is,” the captain retorted, “it’s one o’clock, not twelve.” “How do you make that out?” Shukhov asked in surprise. “The old folk say the sun is highest at dinnertime.” “Maybe it was in their day!” the captain snapped back. “Since then it’s been decreed that the sun is highest at one o’clock.” “Who decreed that?” “The Soviet government.”",
+    "quote_last": " already.<br/>“It’s sure to be twelve,” Shukhov announced. “The sun’s over the top already.”<br/>“If it is,” the captain retorted, “it’s one o’clock, not twelve.”<br/>“How do you make that out?” Shukhov asked in surprise. “The old folk say the sun is highest at dinnertime.”<br/> “Maybe it was in their day!” the captain snapped back. “Since then it’s been decreed that the sun is highest at one o’clock.”<br/>“Who decreed that?”<br/>“The Soviet government.”",
     "title": "One Day in the Life of Ivan Denosovich",
     "author": "Aleksandr Solzhenitsyn",
     "sfw": "yes"
@@ -99,11 +117,11 @@
   },
   {
     "time": "12:00",
-    "quote_first": "Mercutio. Good ye good den, fair gentlewoman.<br>Nurse. Is it good den?<br>Mercutio. &ldquo;T is no less, I tell you, for the hand of<br>the dial is now upon the prick of ",
+    "quote_first": "Mercutio: &ldquo;&lsquo;Tis is no less, I tell you, for the bawdy hand of the dial is now upon the prick of ",
     "quote_time_case": "noon",
-    "quote_last": ".<br>Nurse. Out upon you! what a man are you!",
+    "quote_last": ".&rdquo;",
     "title": "Romeo and Juliet",
-    "author": "Shakespeare",
+    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
@@ -126,7 +144,7 @@
   },
   {
     "time": "12:00",
-    "quote_first": "&lsquo;There&rsquo;s nobody here!&rsquo; I insisted. &lsquo;It was yourself, Mrs. Linton: you knew it a while since.&rsquo; &lsquo;Myself!&rsquo; she gasped, &lsquo;and the clock is striking ",
+    "quote_first": "There&rsquo;s nobody here! I insisted. It was yourself, Mrs. Linton: you knew it a while since.<br/>Myself! she gasped, and the clock is striking ",
     "quote_time_case": "twelve",
     "quote_last": "!",
     "title": "Wuthering Heights",
@@ -154,36 +172,9 @@
   {
     "time": "12:00",
     "quote_first": "It was precisely ",
-    "quote_time_case": "twelve o'clock",
-    "quote_last": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls, twelve o'clock struck as Clarissa Dalloway laid her green dress on her bed and the Warren Smiths walked down Harley Street. Twelve was the hour of their appointment.",
-    "title": "Mrs Dalloway",
-    "author": "Virginia Woolf",
-    "sfw": "yes"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "It was precisely ",
-    "quote_time_case": "twelve o'clock",
-    "quote_last": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way wth the clouds and wisps of smoke and died up there among the seagulls - twelve o'clock struck as Clarissa Dalloway laid her green dress on the bed, and the Warren Smiths walked down Harley Street.",
-    "title": "Mrs Dalloway",
-    "author": "Virginia Woolf",
-    "sfw": "yes"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "It was precisely ",
-    "quote_time_case": "twelve o’clock",
-    "quote_last": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke and died up there among the seagulls—twelve o’clock struck as Clarissa Dalloway laid her green dress on her bed, and the Warren Smiths walked down Harley Street",
-    "title": "Mrs Dalloway",
-    "author": "Virginia Woolf",
-    "sfw": "yes"
-  },
-  {
-    "time": "12:00",
-    "quote_first": "It was precisely ",
     "quote_time_case": "twelve o’clock",
     "quote_last": "; twelve by Big Ben; whose stroke was wafted over the northern part of London; blent with that of other clocks, mixed in a thin ethereal way with the clouds and wisps of smoke, and died up there among the seagulls.",
-    "title": "Mrs Dalloway",
+    "title": "Mrs. Dalloway",
     "author": "Virginia Woolf",
     "sfw": "yes"
   },
@@ -192,7 +183,7 @@
     "quote_first": "",
     "quote_time_case": "Noon",
     "quote_last": " found him momentarily alone, while the family prepared lunch in the kitchen. The cracks in the ceiling widened into gaps. The locked wheels of his bed sank into new fault lines opening in the oak floor beneath the rug. At any moment the floor was going to give.",
-    "title": "tinkers",
+    "title": "Tinkers",
     "author": "Paul Harding",
     "sfw": "yes"
   },
@@ -216,18 +207,18 @@
   },
   {
     "time": "12:00",
-    "quote_first": "The Birds begun at Four o'clock — Their period for Dawn — A Music numerous as space — But neighboring as ",
+    "quote_first": "The Birds begun at Four o'clock<br/>Their period for Dawn<br/>A Music numerous as space<br/>But neighboring as ",
     "quote_time_case": "Noon",
-    "quote_last": " —",
-    "title": "The Birds begun at Four o'clock",
+    "quote_last": "",
+    "title": "The Birds Begun at Four o'clock",
     "author": "Emily Dickinson",
     "sfw": "yes"
   },
   {
     "time": "12:00",
-    "quote_first": "The Oxen Christmas Eve, and ",
+    "quote_first": "Christmas Eve, and ",
     "quote_time_case": "twelve",
-    "quote_last": " of the clock. &ldquo;Now they are all on their knees,&rdquo; An elder said as we sat in a flock By the embers in hearthside ease. We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then. So fair a fancy few would weave In these years! Yet, I feel, If someone said on Christmas Eve, &ldquo;Come; see the oxen kneel &quot;In the lonely barton by yonder coomb Our childhood used to know,&rdquo; I should go with him in the gloom, Hoping it might be so.",
+    "quote_last": " of the clock.<br/>&ldquo;Now they are all on their knees,&rdquo;<br/>An elder said as we sat in a flock<br/>By the embers in hearthside ease.<br/>We pictured the meek mild creatures where<br/>They dwelt in their strawy pen,<br/>Nor did it occur to one of us there<br/>To doubt they were kneeling then.<br/>So fair a fancy few would weave<br/>In these years! Yet, I feel,<br/>If someone said on Christmas Eve,<br/>“Come; see the oxen kneel,<br/>“In the lonely barton by yonder coomb<br/Our childhood used to know,”<br/>I should go with him in the gloom,<br/>Hoping it might be so.",
     "title": "The Oxen",
     "author": "Thomas Hardy",
     "sfw": "yes"

@@ -14,7 +14,16 @@
     "quote_time_case": "five minutes to eleven",
     "quote_last": " when Pooh and Piglet set out on their way half an hour later.",
     "title": "The House at Pooh Corner",
-    "author": "AA Milne",
+    "author": "A.A. Milne",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:55",
+    "quote_first": "Mr. Justice Wargrave said:<br>“It is now ",
+    "quote_time_case": "five minutes to eleven",
+    "quote_last": ". I think we should summon Miss Brent to join our conclave.”",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
     "sfw": "yes"
   }
 ]

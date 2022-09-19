@@ -1,6 +1,15 @@
 [
   {
     "time": "11:30",
+    "quote_first": "There was only one time I was not on the receiving end. It was Tuesday-my half day-and at ",
+    "quote_time_case": "11:30 a.m.",
+    "quote_last": " a call came in. An eversion of the uterus in a cow. This is the tough job in the country practice and I felt the usual chill.",
+    "title": "All Creatures Great and Small",
+    "author": "James Herriot",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:30",
     "quote_first": "Five minutes later another truck pulls up behind the first. On the side of this one is a grinning cartoon boy woofing down a double cheeseburger. At ",
     "quote_time_case": "eleven-thirty",
     "quote_last": ", while people are lined up for burgers and fries and tacos and enchiladas, a hotdog wagon appears.",
@@ -37,7 +46,7 @@
   },
   {
     "time": "11:30",
-    "quote_first": "&lsquo;It is now ",
+    "quote_first": "It is now ",
     "quote_time_case": "11.30",
     "quote_last": ". The door to this room is shut, and will remain shut, barring emergencies, until 12.00. I am authorised to inform you that we are now under battle orders.",
     "title": "Singularity Sky",
@@ -46,10 +55,10 @@
   },
   {
     "time": "11:30",
-    "quote_first": "&ldquo;O, Frank - I made a mistake! - I thought that church with the spire was All Saints', and I was at the door at ",
+    "quote_first": "O, Frank - I made a mistake! - I thought that church with the spire was All Saints', and I was at the door at ",
     "quote_time_case": "half-past eleven",
-    "quote_last": " to a minute as you said&hellip;&quot;",
-    "title": "Far from the madding crowd",
+    "quote_last": " to a minute as you said.",
+    "title": "Far from the Madding Crowd",
     "author": "Thomas Hardy",
     "sfw": "yes"
   },
@@ -57,7 +66,7 @@
     "time": "11:30",
     "quote_first": "&ldquo;Thank-you,&rdquo; said C.B. quietly; but as he hung up his face was grim. In a few minutes he would have to break it to John that, although they had braved such dredful perils dring the earlier part of the night they had, after all, failed to save Christina. Beddows had abjured Satan at a little after ",
     "quote_time_case": "half-past eleven",
-    "quote_last": ". By about eighteen minutes the Canon had beaten them to it again.&ldquo;",
+    "quote_last": ". By about eighteen minutes the Canon had beaten them to it again.",
     "title": "To the Devil a Daughter",
     "author": "Dennis Wheatley",
     "sfw": "yes"
@@ -69,6 +78,15 @@
     "quote_last": ".",
     "title": "The Wind-up Bird Chronicle",
     "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:30",
+    "quote_first": "About ",
+    "quote_time_case": "11:30",
+    "quote_last": " this morning I asked her if she was going to fix anything for Thanksgiving, and she looked at me like she didn&rsquo;t even know what I was talking about",
+    "title": "Don't You Dare Read This, Mrs. Dunphrey",
+    "author": "Margaret Peterson Haddix",
     "sfw": "yes"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "time": "12:55",
-    "quote_first": "“At home, the kitchen clock was ticking loudly. She unpacked the globe and checked the time. The house felt so quiet and empty without Benny. The clock said ",
+    "quote_first": "At home, the kitchen clock was ticking loudly. She unpacked the globe and checked the time. The house felt so quiet and empty without Benny. The clock said ",
     "quote_time_case": "five minutes to one",
     "quote_last": ". She had an hour before the tech crew arrived. She carried the snow globe into the living room. She would put it next to her computer as a talisman to keep her calm and focused.",
     "title": "The Book of Form and Emptiness",
@@ -24,6 +24,15 @@
     "quote_last": ". A busy morning.",
     "title": "A Man Lay Dead",
     "author": "Ngaio Marsh",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:55",
+    "quote_first": "But when Curry rose at ",
+    "quote_time_case": "five minutes to one",
+    "quote_last": " to introduce item Three, there was a sharp revival of interest. It was called, &ldquo;Rectification of an Anomaly of the Stipends of Junior Fellows.&quot;",
+    "title": "That Hideous Strength",
+    "author": "C.S.Lewis",
     "sfw": "yes"
   }
 ]

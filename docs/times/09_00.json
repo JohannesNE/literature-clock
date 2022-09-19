@@ -1,6 +1,15 @@
 [
   {
     "time": "09:00",
+    "quote_first": "At ",
+    "quote_time_case": "nine o'clock",
+    "quote_last": " the parsonage buggy carried them south on the highway toward Ravelunda. Fridfeldt felt more at home north of the church hamlet. There the revival had been more evident. Down here at Vänneberga it had one of its last outposts. Beyond it lay Sörbygden where the spiritual life was of another type. There one could both smoke and confess the Savior; there the doctrine of total sinful depravity was preached, and it was said whisky might be found also among the awakened.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:00",
     "quote_first": "Promptly at ",
     "quote_time_case": "nine o’clock",
     "quote_last": " the next morning the green-whiskered soldier came to them, and four minutes later they all went into the Throne Room of the Great Oz.",
@@ -24,15 +33,6 @@
     "quote_last": ", and by then Anderson was pretty sure they were going to have a good one - what Havenites called “a real Jeezer.”",
     "title": "The Tommyknockers",
     "author": "Stephen King",
-    "sfw": "yes"
-  },
-  {
-    "time": "09:00",
-    "quote_first": "The clock struck ",
-    "quote_time_case": "nine",
-    "quote_last": " when I did send the Nurse.<br>In half an hour she promised to return.",
-    "title": "Romeo and Juliet",
-    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "time": "09:00",
-    "quote_first": "Today it is lovely again, and along the Champs-Élysées at twilight it is like an outdoor seraglio choked with dark-eyed houris. The trees are in full foliage and of a verdure so pure, so rich, that it seems as though they were still wet and glistening with dew. From the Palais du Louvre to the Etoile it is like a piece of music for the pianoforte. For five days I have not touched the typewriter nor looked at a book; nor have I had a single idea in my head except to go to the American Express. At ",
+    "quote_first": "From the Palais du Louvre to the Etoile it is like a piece of music for the pianoforte. For five days I have not touched the typewriter nor looked at a book; nor have I had a single idea in my head except to go to the American Express. At ",
     "quote_time_case": "nine",
     "quote_last": " this morning I was there, just as the doors were being opened, and again at one o’clock.",
     "title": "Tropic of Cancer",
@@ -120,7 +120,7 @@
     "time": "09:00",
     "quote_first": "“Don’t give it another thought, old sport.” The familiar expression held no more familiarity than the hand which reassuringly brushed my shoulder. “And don’t forget we’re going up in the hydroplane tomorrow morning, at ",
     "quote_time_case": "nine",
-    "quote_last": " ”",
+    "quote_last": ".”",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -145,9 +145,9 @@
   },
   {
     "time": "09:00",
-    "quote_first": "“The Earth was created on Sunday the 21st of October, 4004 B.C., at exactly ",
+    "quote_first": "The Earth was created on Sunday the 21st of October, 4004 B.C., at exactly ",
     "quote_time_case": "9:00 A.M.",
-    "quote_last": ", because God liked to get work done early in the morning while he was feeling fresh.”",
+    "quote_last": ", because God liked to get work done early in the morning while he was feeling fresh.",
     "title": "Good Omens",
     "author": "Terry Pratchett and Neil Gaiman",
     "sfw": "yes"
@@ -172,54 +172,45 @@
   },
   {
     "time": "09:00",
-    "quote_first": "“However, at ",
+    "quote_first": "However, at ",
     "quote_time_case": "nine o’clock",
-    "quote_last": " the prince, in his velvet coat with a sable collar and cap, went out for his usual walk. &ldquo;",
+    "quote_last": " the prince, in his velvet coat with a sable collar and cap, went out for his usual walk.",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "sfw": "yes"
   },
   {
     "time": "09:00",
-    "quote_first": "“It was ",
+    "quote_first": "It was ",
     "quote_time_case": "nine o’clock",
-    "quote_last": " in the morning. The fog lay unbroken like a sea down below, but higher up at the village of Schlappanitz where Napoleon stood with his marshals around him, it was quite light. Above him was a clear blue sky, and the sun’s vast orb quivered like a huge hollow, crimson float on the surface of that milky sea of mist. &ldquo;",
+    "quote_last": " in the morning. The fog lay unbroken like a sea down below, but higher up at the village of Schlappanitz where Napoleon stood with his marshals around him, it was quite light. Above him was a clear blue sky, and the sun’s vast orb quivered like a huge hollow, crimson float on the surface of that milky sea of mist.",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "sfw": "yes"
   },
   {
     "time": "09:00",
-    "quote_first": "“When the gong sounded for breakfast at ",
+    "quote_first": "When the gong sounded for breakfast at ",
     "quote_time_case": "nine o’clock",
-    "quote_last": " it found every one up and awaiting the summons.”",
+    "quote_last": " it found every one up and awaiting the summons.",
     "title": "And Then There Were None",
     "author": "Agatha Christie",
     "sfw": "yes"
   },
   {
     "time": "09:00",
-    "quote_first": "At ",
-    "quote_time_case": "nine o’clock",
-    "quote_last": ", Emily Brent rose to her feet.<br>She said:<br>“I’m going to bed.”",
-    "title": "And Then There Were None",
-    "author": "Agatha Christie",
-    "sfw": "yes"
-  },
-  {
-    "time": "09:00",
-    "quote_first": "&lsquo;I could never get all the way down there before ",
+    "quote_first": "I could never get all the way down there before ",
     "quote_time_case": "nine o'clock",
-    "quote_last": ".'",
+    "quote_last": ".",
     "title": "A Confederacy of Dunces",
     "author": "John Kennedy Toole",
     "sfw": "yes"
   },
   {
     "time": "09:00",
-    "quote_first": "&lsquo;Look. Ignatius. I&rsquo;m beat. I&rsquo;ve been on the road since ",
+    "quote_first": "Look. Ignatius. I&rsquo;m beat. I&rsquo;ve been on the road since ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " yesterday morning.'",
+    "quote_last": " yesterday morning.",
     "title": "A Confederacy of Dunces",
     "author": "John Kennedy Toole",
     "sfw": "yes"
@@ -235,15 +226,6 @@
   },
   {
     "time": "09:00",
-    "quote_first": "14 June ",
-    "quote_time_case": "9:00 am",
-    "quote_last": " woke up",
-    "title": "A Fraction of the Whole",
-    "author": "Steve Toltz",
-    "sfw": "yes"
-  },
-  {
-    "time": "09:00",
     "quote_first": "",
     "quote_time_case": "9.00 a.m.",
     "quote_last": " School assembly",
@@ -255,7 +237,7 @@
     "time": "09:00",
     "quote_first": "A fly buzzed, the wall clock began to strike. After the ",
     "quote_time_case": "nine",
-    "quote_last": " golden strokes faded, the district captain began. &ldquo;How is Herr Colonel Marek?&rdquo; &ldquo;Thank you, Papá, he&rsquo;s fine.&rdquo; &ldquo;Still weak in geometry?&rdquo; &ldquo;Thank you, Papá, a little better.&rdquo; &ldquo;Read any books?&rdquo; &ldquo;Yessir, Papá.&rdquo;",
+    "quote_last": " golden strokes faded, the district captain began. &ldquo;How is Herr Colonel Marek?&rdquo;<br/> &ldquo;Thank you, Papá, he&rsquo;s fine.&rdquo;<br/> &ldquo;Still weak in geometry?&rdquo;<br/> &ldquo;Thank you, Papá, a little better.&rdquo;<br/> &ldquo;Read any books?&rdquo;<br/> &ldquo;Yessir, Papá.&quot;",
     "title": "The Radetzky March",
     "author": "Joseph Roth",
     "sfw": "yes"
@@ -280,9 +262,9 @@
   },
   {
     "time": "09:00",
-    "quote_first": "He was at breakfast ",
-    "quote_time_case": "at nine",
-    "quote_last": ", and for the twentieth time consulted his &ldquo;Bradshaw,&rdquo; to see at what earliest hour Dr. Grantly could arrive from Barchester.",
+    "quote_first": "He was at breakfast at ",
+    "quote_time_case": "nine",
+    "quote_last": ", and for the twentieth time consulted his &ldquo;Bradshaw&rdquo;, to see at what earliest hour Dr. Grantly could arrive from Barchester.",
     "title": "The Warden",
     "author": "Anthony Trollope",
     "sfw": "yes"
@@ -327,23 +309,14 @@
     "time": "09:00",
     "quote_first": "The clock struck ",
     "quote_time_case": "nine",
-    "quote_last": " when I did send the nurse; In half an hour she promised to return. Perchance she cannot meet him: that&rsquo;s not so.",
+    "quote_last": " when I did send the nurse; In half an hour she promised to return.",
     "title": "Romeo and Juliet",
-    "author": "Shakespeare",
+    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
     "time": "09:00",
-    "quote_first": "To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
-    "quote_time_case": "nine",
-    "quote_last": ".",
-    "title": "The Waste Land",
-    "author": "T S Eliot",
-    "sfw": "yes"
-  },
-  {
-    "time": "09:00",
-    "quote_first": "Unreal City, Under the brown fog of a winter dawn, A crowd flowed over London Bridge, so many, I had not thought death had undone so many. Sighs, short and infrequent, were exhaled, And each man fixed his eyes before his feet. Flowed up the hill and down King William Street, To where Saint Mary Woolnoth kept the hours With a dead sound on the final stroke of ",
+    "quote_first": "To where Saint Mary Woolnoth kept the hours<br/>With a dead sound on the final stroke of ",
     "quote_time_case": "nine",
     "quote_last": ".",
     "title": "The Waste Land",

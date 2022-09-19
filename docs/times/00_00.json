@@ -10,7 +10,7 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Wins Sibby damn it!” Mr Hubert said. “Wins Sibby! What the hell else are we setting up till ",
+    "quote_first": "“Wins Sibby damn it!” Mr. Hubert said. “Wins Sibby! What the hell else are we setting up till ",
     "quote_time_case": "midnight",
     "quote_last": " arguing about?”",
     "title": "Go Down Moses",
@@ -60,7 +60,7 @@
     "quote_last": ", and during our athletics, my door was barged. Farcical horror! Thank God J. had locked it on her way in. The doorknob rattled, insistent knocking began. Fear can clear the mind as well as cloud it, and remembering my 𝘋𝘰𝘯 𝘑𝘶𝘢𝘯, I hid J. in a nest of coverlets and sheets in my sagging bed and left the curtain half open to show I had nothing to hide.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "00:00",
@@ -82,15 +82,6 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Excellent. You are not averse to this trip, Watson?”<br>“By no means.”<br>“Then we shall both come. What are you going to do yourself?”<br>“I have one or two things which I would wish to do now that I am in town. But I shall return by the ",
-    "quote_time_case": "twelve o’clock",
-    "quote_last": " train, so as to be there in time for your coming.”",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
     "quote_first": "It was near ",
     "quote_time_case": "midnight",
     "quote_last": " when she left the Palace in a clothes-hamper borne by two porters, covered with her own soiled smocks and petticoats which were supposedly being carried to the laundress.",
@@ -100,18 +91,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“She looked at the digital display of her watch.<br>00:00:00<br>",
+    "quote_first": "She looked at the digital display of her watch.<br>00:00:00<br>",
     "quote_time_case": "Midnight",
-    "quote_last": ", as the clock had told her.<br>She waited for the next second to arrive, but it didn’t.”",
-    "title": "The Midnight Library",
-    "author": "Matt Haig",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
-    "quote_first": "“She looked at the digital display of her watch.<br>",
-    "quote_time_case": "00:00:00",
-    "quote_last": "<br>Midnight, as the clock had told her.<br>She waited for the next second to arrive, but it didn’t.”",
+    "quote_last": ", as the clock had told her.<br>She waited for the next second to arrive, but it didn’t.",
     "title": "The Midnight Library",
     "author": "Matt Haig",
     "sfw": "yes"
@@ -121,8 +103,8 @@
     "quote_first": "Farewell, sweet playfellow: pray thou for us;<br>And good luck grant thee thy Demetrius!-<br>Keep word, Lysander: we must starve our sight<br>From lovers’ food till morrow deep ",
     "quote_time_case": "midnight",
     "quote_last": ".",
-    "title": "A Midsummer",
-    "author": "night’s Dream",
+    "title": "A Midsummer Night’s Dream",
+    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
@@ -172,9 +154,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Sometimes there is no darker place than our own thoughts; the moonless ",
+    "quote_first": "Sometimes there is no darker place than our own thoughts; the moonless ",
     "quote_time_case": "midnight",
-    "quote_last": " of the mind.”",
+    "quote_last": " of the mind.",
     "title": "Fear Nothing: A Novel",
     "author": "Dean Koontz",
     "sfw": "yes"
@@ -190,9 +172,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“Dawn seemed to follow ",
+    "quote_first": "Dawn seemed to follow ",
     "quote_time_case": "midnight",
-    "quote_last": " with indecent haste.”",
+    "quote_last": " with indecent haste.",
     "title": "Harry Potter and the Deathly Hallows",
     "author": "J.K. Rowling",
     "sfw": "yes"
@@ -208,9 +190,9 @@
   },
   {
     "time": "00:00",
-    "quote_first": "“On the night after his ride to Lawrenceville a crowd sallied to New York in quest of adventure, and started back to Princeton about ",
+    "quote_first": "On the night after his ride to Lawrenceville a crowd sallied to New York in quest of adventure, and started back to Princeton about ",
     "quote_time_case": "twelve o’clock",
-    "quote_last": " in two machines. It had been a gay party and different stages of sobriety were represented.”",
+    "quote_last": " in two machines. It had been a gay party and different stages of sobriety were represented.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -226,18 +208,18 @@
   },
   {
     "time": "00:00",
-    "quote_first": "&ldquo;But wait till I tell you,&rdquo; he said. &ldquo;We had a ",
+    "quote_first": "But wait till I tell you, he said. We had a ",
     "quote_time_case": "midnight",
-    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before&rdquo;",
+    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before",
     "title": "Ulysses",
     "author": "James Joyce",
     "sfw": "yes"
   },
   {
     "time": "00:00",
-    "quote_first": "&ldquo;",
+    "quote_first": "",
     "quote_time_case": "Midnight",
-    "quote_last": ",&rdquo; you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ", you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire",
     "author": "Vladimir Nabokov",
     "sfw": "yes"
@@ -245,8 +227,8 @@
   {
     "time": "00:00",
     "quote_first": "That a man who could hardly see anything more than two feet away from him could be employed as a security guard suggested to me that our job was not to secure anything but to report for work every night, fill the bulky ledger with cryptic remarks like &lsquo;Patrolled perimeter ",
-    "quote_time_case": "12.00 pm",
-    "quote_last": ", No Incident&rsquo; and go to the office every fortnight for our wages and listen to the talkative Ms Elgassier.",
+    "quote_time_case": "12.00",
+    "quote_last": " pm, No Incident&rsquo; and go to the office every fortnight for our wages and listen to the talkative Ms Elgassier.",
     "title": "A Squatter's Tale",
     "author": "Ike Oguine",
     "sfw": "yes"
@@ -275,12 +257,12 @@
     "quote_time_case": "twelve",
     "quote_last": "; get thee to bed, Francisco.",
     "title": "Hamlet",
-    "author": "Shakespeare",
+    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
     "time": "00:00",
-    "quote_first": "Big Ben concluded the run-up, struck and went on striking. (&hellip;) But, odder still - Big Ben had once again struck ",
+    "quote_first": "But, odder still - Big Ben had once again struck ",
     "quote_time_case": "midnight",
     "quote_last": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H&rsquo;m.",
     "title": "Nights At The Circus",
@@ -303,15 +285,6 @@
     "quote_last": ", to encourage sleep.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
-    "quote_first": "Francisco. You come most carefully upon your hour. Bernardo. &lsquo;Tis now struck ",
-    "quote_time_case": "twelve",
-    "quote_last": ". Get thee to bed, Francisco.",
-    "title": "Hamlet",
-    "author": "William Shakespeare",
     "sfw": "yes"
   },
   {
@@ -372,7 +345,7 @@
     "time": "00:00",
     "quote_first": "It is ",
     "quote_time_case": "midnight",
-    "quote_last": ". The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can&rsquo;t sleep. &hellip;",
+    "quote_last": ". The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can&rsquo;t sleep.",
     "title": "Molloy",
     "author": "Samuel Beckett",
     "sfw": "yes"
@@ -408,7 +381,7 @@
     "time": "00:00",
     "quote_first": "Once upon a ",
     "quote_time_case": "midnight",
-    "quote_last": " dreary, while I pondered weak and weary, Over many a quaint and curious volume of forgotten lore, While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. &lsquo;Tis some visitor,&rsquo; I muttered, tapping at my chamber door - Only this, and nothing more.&lsquo;",
+    "quote_last": " dreary,<br/>while I pondered weak and weary,<br/>Over many a quaint and curious volume of forgotten lore,<br/>While I nodded, nearly napping, suddenly there came a tapping,<br/>As of some one gently rapping, rapping at my chamber door.<br/>&ldquo;Tis some visitor,&rdquo; I muttered, &ldquo;tapping at my chamber door - Only this, and nothing more.&rdquo;",
     "title": "The Raven",
     "author": "Edgar Allan Poe",
     "sfw": "yes"
@@ -418,7 +391,7 @@
     "quote_first": "The clock striketh ",
     "quote_time_case": "twelve",
     "quote_last": " O it strikes, it strikes! Now body, turn to air, Or Lucifer will bear thee quick to hell. O soul, be changed into little water drops, And fall into the ocean, ne'er to be found. My God, my God, look not so fierce on me!",
-    "title": "Dr Faustus",
+    "title": "Dr. Faustus",
     "author": "Christopher Marlowe",
     "sfw": "yes"
   },
@@ -426,7 +399,7 @@
     "time": "00:00",
     "quote_first": "The first night, as soon as the corporal had conducted my uncle Toby up stairs, which was about 10 - Mrs. Wadman threw herself into her arm chair, and crossing her left knee with her right, which formed a resting-place for her elbow, she reclin&rsquo;d her cheek upon the palm of her hand, and leaning forwards, ruminated until ",
     "quote_time_case": "midnight",
-    "quote_last": " upon both sides of the question.&lsquo;",
+    "quote_last": " upon both sides of the question.",
     "title": "The Life and Opinions of Tristram Shandy, Gentleman",
     "author": "Laurence Sterne",
     "sfw": "yes"
@@ -447,6 +420,33 @@
     "quote_last": ".",
     "title": "Henry IV",
     "author": "William Shakespeare",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "It was surely ",
+    "quote_time_case": "midnight",
+    "quote_last": " by now. A lone bird called, and the individual trees melted together in one forbidding and unfriendly mass. To Savonius they seemed to incarnate this dismal adventure which had been thrust on him against his will. Somewhere in this deep forest lay this demented man he was supposed to try to comfort and calm.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "There was the ",
+    "quote_time_case": "midnight",
+    "quote_last": " hike with the boys to the end of the promenade and the big argument about the election of a housemaster. What had become of responsibility and service? And brotherly love?",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "It was near ",
+    "quote_time_case": "midnight",
+    "quote_last": ". <br/> Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
     "sfw": "yes"
   }
 ]

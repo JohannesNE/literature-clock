@@ -19,7 +19,8 @@ names(litclock) <- c('time',
                      'nsfw_overwrite')
 
 if(n_csv_rows != nrow(litclock)) {
-  warning("There is not one quote per row in the csv!")
+  warning("There is not one quote per row in the csv!\nThese rows may be problematic:")
+  filter(litclock, str_detect(quote, "\\|")) 
 }
 
 # Load profanity patterns

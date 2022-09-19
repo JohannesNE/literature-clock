@@ -1,6 +1,33 @@
 [
   {
     "time": "00:00",
+    "quote_first": "You take a black cat&mdash;isn&rsquo;t that it?&mdash;that does not have even one white hair (you know this), and you bind his four paws, and then you take him at ",
+    "quote_time_case": "midnight",
+    "quote_last": " to a crossroads and you cry out in a loud voice:",
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "And I was the lion you do not remember who pushed the boat in which you lay, a child near death, so that it came to the shore where a man sat, wakeful at ",
+    "quote_time_case": "midnight",
+    "quote_last": ", to receive you.",
+    "title": "The Horse and His Boy",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "If Jill had been more used to adventures, she might have doubted the Owl’s word, but this never occurred to her; and in the exciting idea of a ",
+    "quote_time_case": "midnight",
+    "quote_last": " escape she forgot her sleepiness.",
+    "title": "The Silver Chair",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
     "quote_first": "“And almost exactly at ",
     "quote_time_case": "midnight",
     "quote_last": ", the Count’s patience was rewarded. For in accordance with the instructions he’d written to Richard, every telephone on the first floor of the Metropol began to ring.”",
@@ -208,18 +235,18 @@
   },
   {
     "time": "00:00",
-    "quote_first": "But wait till I tell you, he said. We had a ",
+    "quote_first": "&ldquo;But wait till I tell you,&rdquo; he said. &ldquo;We had a ",
     "quote_time_case": "midnight",
-    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before",
+    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before&quot;",
     "title": "Ulysses",
     "author": "James Joyce",
     "sfw": "yes"
   },
   {
     "time": "00:00",
-    "quote_first": "",
+    "quote_first": "&ldquo;",
     "quote_time_case": "Midnight",
-    "quote_last": ", you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
+    "quote_last": ",&rdquo; you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!",
     "title": "Pale Fire",
     "author": "Vladimir Nabokov",
     "sfw": "yes"
@@ -444,7 +471,7 @@
     "time": "00:00",
     "quote_first": "It was near ",
     "quote_time_case": "midnight",
-    "quote_last": ". <br/> Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
+    "quote_last": ". <br/>Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
     "title": "The Hammer of God",
     "author": "Bo Giertz",
     "sfw": "yes"

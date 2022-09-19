@@ -1,6 +1,15 @@
 [
   {
     "time": "10:00",
+    "quote_first": "At about ",
+    "quote_time_case": "ten o’clock",
+    "quote_last": " the first tiny snowflakes came loitering down and settled on Jill’s arm. Ten minutes later they were falling quite thickly. In twenty minutes the ground was noticeably white.",
+    "title": "The Silver Chair",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:00",
     "quote_first": "Shanghai’s clocks were set an hour ahead so the city could &ldquo;save daylight&rdquo;, but the Bai family said: “We go by the old clock.” ",
     "quote_time_case": "Ten o’clock",
     "quote_last": " to them was eleven to everyone else. Their singing was behind the beat; they couldn’t keep up with the huqin [Chinese string instrument] producing bleak and desolate sounds of life.",

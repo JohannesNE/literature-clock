@@ -46,9 +46,9 @@
   },
   {
     "time": "04:30",
-    "quote_first": "“What time is it? Do you have time here?” “Of course we do.” She pulled up her sleeve, revealing a yellow Timex wristwatch. “It is ",
+    "quote_first": "“What time is it? Do you have time here?” <br /> “Of course we do.” She pulled up her sleeve, revealing a yellow Timex wristwatch. “It is ",
     "quote_time_case": "four thirty in the morning",
-    "quote_last": ".” “That’s a nice watch.” “My father gave it to me,” she said happily.",
+    "quote_last": ".”<br /> “That’s a nice watch.”<br /> “My father gave it to me,” she said happily.",
     "title": "The Catacombs",
     "author": "Jeremy Bates",
     "sfw": "yes"
@@ -65,15 +65,6 @@
   {
     "time": "04:30",
     "quote_first": "Hester Thrale undulates in in a false fox jacket at 2330 as usual even though she has to be up at like ",
-    "quote_time_case": "0430",
-    "quote_last": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
-    "title": "Infinite Jest",
-    "author": "David Foster Wallace",
-    "sfw": "yes"
-  },
-  {
-    "time": "04:30",
-    "quote_first": "Tonight Clenette H. and the deeply whacked out Yolanda W. come back in from Footprints around 2315 in purple skirts and purple lipstick and ironed hair, tottering on heels and telling each other what a wicked time they just had. Hester Thrale undulates in in a false fox jacket at 2330 as usual even though she has to be up at like ",
     "quote_time_case": "0430",
     "quote_last": " for the breakfast shift at the Provident Nursing Home and sometimes eats breakfast with Gately, both their faces nodding perilously close to their Frosted Flakes.",
     "title": "Infinite Jest",

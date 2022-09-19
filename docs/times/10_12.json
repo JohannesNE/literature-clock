@@ -1,6 +1,15 @@
 [
   {
     "time": "10:12",
+    "quote_first": "Still unable to sleep, Tengo was sitting on the floor, listening to the Duke Ellington record at low volume, when the phone rang again. The hands on the wall clock were pointing to ",
+    "quote_time_case": "10:12",
+    "quote_last": ".",
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:12",
     "quote_first": "“I&rsquo;ll take the coffee tray out,” I suggest humbly. As I pick it up I glance again at my watch. ",
     "quote_time_case": "Ten twelve",
     "quote_last": ". I wonder if they&rsquo;ve started the meeting.",
@@ -15,6 +24,15 @@
     "quote_last": ", and the sun beating on his office windows was a different sun from the one he&rsquo;d always known.",
     "title": "Freedom",
     "author": "Jonathan Franzen",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:12",
+    "quote_first": "Still unable to sleep, Tengo was sitting on the floor, listening to the Duke Ellington record at low volume, when the phone rang again. The hands on the wall clock were pointing to ",
+    "quote_time_case": "10:12",
+    "quote_last": ".",
+    "title": "1Q84",
+    "author": "Haruki Murakami",
     "sfw": "yes"
   }
 ]

@@ -1,6 +1,15 @@
 [
   {
     "time": "01:00",
+    "quote_first": "If you want to get out of a house without being seen, the middle of the afternoon is in some ways a better time to try than the middle of the night. Doors and windows are more likely to be open; and if you are caught, you can always pretend you weren’t meaning to go far and had no particular plans. (It is very hard to make either giants or grown-ups believe this if you’re found climbing out of a bedroom window at ",
+    "quote_time_case": "one o’clock in the morning",
+    "quote_last": ".)",
+    "title": "The Silver Chair",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "01:00",
     "quote_first": "He shut down at ",
     "quote_time_case": "one o’clock",
     "quote_last": ". He had written two pages, and the feeling that he was reverting to the nervous and neurotic man who’d almost burned down his house three years ago was getting harder to dismiss.",

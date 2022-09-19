@@ -1,6 +1,24 @@
 [
   {
     "time": "14:00",
+    "quote_first": "An awful silence followed this remark, which was broken by Peter saying, “Giant Wimbleweather and the Bear and Centaur Glenstorm shall be our marshals. The combat will be at ",
+    "quote_time_case": "two hours after noon",
+    "quote_last": ". Dinner at noon precisely.”",
+    "title": "Prince Caspian",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:00",
+    "quote_first": "There was a most friendly parting, and when she sailed, ",
+    "quote_time_case": "two hours after noon",
+    "quote_last": ", all the Dufflepuds paddled out with her to the harbor mouth, and cheered until she was out of the sound of their cheering.",
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:00",
     "quote_first": "Mrs. Karlsson&rsquo;s eyes were big with surprise when at ",
     "quote_time_case": "two o'clock",
     "quote_last": " she saw the pastor coming to dinner in this civilian elegance, which besides the suit and red tie, included colored socks and tan shoes. He offered no word of explanation. As usual, he carried under his arm a book with some unintelligible title, and from which he read the entire meal.",
@@ -181,8 +199,8 @@
   },
   {
     "time": "14:00",
-    "quote_first": "",
-    "quote_time_case": "At two",
+    "quote_first": "At ",
+    "quote_time_case": "two",
     "quote_last": ", the snowplows were in action in Lillestrom.",
     "title": "The Snowman",
     "author": "Jo Nesbo",

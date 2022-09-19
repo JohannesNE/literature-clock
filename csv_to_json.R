@@ -4,11 +4,12 @@ library(tidyverse)
 library(stringr)
 library(jsonlite)
 
+n_csv_rows <- read_lines("litclock_annotated.csv") |> length()
+
 litclock <- read_delim("litclock_annotated.csv",
 "|", escape_double = TRUE, col_names = FALSE,
 col_types = cols(X1 = col_character()),
 trim_ws = TRUE)
-
 
 names(litclock) <- c('time',
                      'quote_time',
@@ -16,6 +17,10 @@ names(litclock) <- c('time',
                      'title',
                      'author',
                      'nsfw_overwrite')
+
+if(n_csv_rows != nrow(litclock)) {
+  warning("There is not one quote per row in the csv!")
+}
 
 # Load profanity patterns
 source("profanity_patterns.R")
@@ -56,5 +61,7 @@ save_json <- function(df) {
   cat(toJSON(df, pretty = TRUE), file = paste0(lit_times_path, sub(':', '_', df$time[1]), ".json"))
 }
 
+unlink(lit_times_path, recursive = TRUE)
+dir.create(lit_times_path)
 lapply(litclock_list, save_json)
 

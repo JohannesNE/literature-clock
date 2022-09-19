@@ -46,9 +46,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "When is his tea-time? I inquired.<br>Oh, at ",
+    "quote_first": "&ldquo;When is his tea-time?&rdquo; I inquired.<br>&ldquo;Oh, at ",
     "quote_time_case": "six o’clock",
-    "quote_last": ". He keeps early hours in the country. You had better change your frock now: I will go with you and fasten it. Here is a candle.",
+    "quote_last": ". He keeps early hours in the country. You had better change your frock now: I will go with you and fasten it. Here is a candle.&quot;",
     "title": "Jane Eyre",
     "author": "Charlotte Brontë",
     "sfw": "yes"
@@ -190,9 +190,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "And ever since that, the Hatter went on in a mournful tone, he won’t do a thing I ask! It’s always ",
+    "quote_first": "&ldquo;And ever since that,&rdquo; the Hatter went on in a mournful tone, &ldquo;he won’t do a thing I ask! It’s always ",
     "quote_time_case": "six o’clock",
-    "quote_last": " now.",
+    "quote_last": " now.&quot;",
     "title": "Alice in Wonderland",
     "author": "Lewis Carroll",
     "sfw": "yes"
@@ -217,9 +217,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "Did you go down to the farm while I was away?<br/>No, I said but I saw Ted.<br/>Did he have a message for me? she asked. He said today was no good as he was going to Norwich. But Friday at ",
+    "quote_first": "&ldquo;Did you go down to the farm while I was away?&rdquo;<br/>&ldquo;No,&rdquo; I said &ldquo;but I saw Ted.&rdquo;<br/>&ldquo;Did he have a message for me?&rdquo; she asked. &ldquo;He said today was no good as he was going to Norwich. But Friday at ",
     "quote_time_case": "six o'clock",
-    "quote_last": ", same as usual.<br/>Are you sure he said six o'clock? she asked, puzzled.<br/>Quite sure.",
+    "quote_last": ", same as usual.&rdquo;<br/>&ldquo;Are you sure he said six o'clock?&rdquo; she asked, puzzled.<br/>&ldquo;Quite sure.&quot;",
     "title": "The Go-Between",
     "author": "L.P. Hartley",
     "sfw": "yes"

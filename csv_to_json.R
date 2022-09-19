@@ -7,7 +7,8 @@ library(jsonlite)
 n_csv_rows <- read_lines("litclock_annotated.csv") |> length()
 
 litclock <- read_delim("litclock_annotated.csv",
-"|", escape_double = TRUE, col_names = FALSE,
+"|", col_names = FALSE,
+quote = "",
 col_types = cols(X1 = col_character()),
 trim_ws = TRUE)
 

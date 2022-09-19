@@ -145,9 +145,9 @@
   },
   {
     "time": "16:00",
-    "quote_first": "That’s enough to begin with, Humpty Dumpty interrupted: there are plenty of hard words there. &lsquo;Brillig&rsquo; means ",
+    "quote_first": "&ldquo;That’s enough to begin with,&rdquo; Humpty Dumpty interrupted: &ldquo;there are plenty of hard words there. &lsquo;Brillig&rsquo; means ",
     "quote_time_case": "four o’clock in the afternoon",
-    "quote_last": " — the time when you begin broiling things for dinner.",
+    "quote_last": " — the time when you begin broiling things for dinner.&rdquo;",
     "title": "Through the Looking Glass",
     "author": "Lewis Carroll",
     "sfw": "yes"

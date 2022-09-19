@@ -226,18 +226,18 @@
   },
   {
     "time": "15:00",
-    "quote_first": "I gotta get uptown by ",
+    "quote_first": "&ldquo;I gotta get uptown by ",
     "quote_time_case": "three o'clock",
-    "quote_last": ".",
+    "quote_last": ".&quot;",
     "title": "A Confederacy of Dunces",
     "author": "John Kennedy Toole",
     "sfw": "yes"
   },
   {
     "time": "15:00",
-    "quote_first": "Remember, they shouted, battle at ",
+    "quote_first": "&ldquo;Remember,&rdquo; they shouted, &ldquo;battle at ",
     "quote_time_case": "three o'clock",
-    "quote_last": " sharp. There&rsquo;s no time to lose.",
+    "quote_last": " sharp. There&rsquo;s no time to lose.&quot;",
     "title": "Swallows and Amazons",
     "author": "Arthur Ransome",
     "sfw": "yes"

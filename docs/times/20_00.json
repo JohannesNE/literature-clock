@@ -145,9 +145,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "I trace the words, &lsquo;I&rsquo;ll arrive to collect you for drinks ",
+    "quote_first": "&ldquo;I trace the words, &lsquo;I&rsquo;ll arrive to collect you for drinks ",
     "quote_time_case": "at eight",
-    "quote_last": " on Saturday.'",
+    "quote_last": " on Saturday.&rsquo;&quot;",
     "title": "Tell-All",
     "author": "Chuck Palahniuk",
     "sfw": "yes"

@@ -298,9 +298,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "She died this morning, very early, about ",
+    "quote_first": "&ldquo;She died this morning, very early, about ",
     "quote_time_case": "three o'clock",
-    "quote_last": ".",
+    "quote_last": ".&quot;",
     "title": "The Voyage Out",
     "author": "Virginia Woolf",
     "sfw": "yes"
@@ -424,9 +424,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "What&rsquo;s the time? said the man, eyeing George up and down with evident suspicion, why, if you listen you will hear it strike. <br /> George listened, and a neighbouring clock immediately obliged. But it&rsquo;s only gone ",
+    "quote_first": "&ldquo;What&rsquo;s the time?&rdquo; said the man, eyeing George up and down with evident suspicion, &ldquo;why, if you listen you will hear it strike.&rdquo; <br /> George listened, and a neighbouring clock immediately obliged. &ldquo;But it&rsquo;s only gone ",
     "quote_time_case": "three",
-    "quote_last": "! said George in an injured tone, when it had finished.",
+    "quote_last": "!&rdquo; said George in an injured tone, when it had finished.",
     "title": "Three Men in a Boat",
     "author": "Jerome K Jerome",
     "sfw": "yes"

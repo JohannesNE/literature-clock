@@ -37,9 +37,9 @@
   },
   {
     "time": "03:30",
-    "quote_first": "Let&rsquo;s go to sleep, I say. &ldquo;Look at what time it is.&rdquo; The clock radio is right there beside the bed. Anyone can see it says ",
+    "quote_first": "&ldquo;Let&rsquo;s go to sleep, I say. &quot;Look at what time it is.&rdquo; The clock radio is right there beside the bed. Anyone can see it says ",
     "quote_time_case": "three-thirty",
-    "quote_last": ".",
+    "quote_last": ".&ldquo;",
     "title": "Whoever Was Using This Bed",
     "author": "Raymond Carver",
     "sfw": "yes"

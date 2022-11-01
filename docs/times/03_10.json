@@ -1,6 +1,15 @@
 [
   {
     "time": "03:10",
+    "quote_first": "It was ",
+    "quote_time_case": "3:10",
+    "quote_last": " in the morning when Pastor Grant finally got back to the parsonage.",
+    "title": "Warrior Monk",
+    "author": "Ray Keating",
+    "sfw": "yes"
+  },
+  {
+    "time": "03:10",
     "quote_first": "I think my credit card was in there too. I wrote down the words credit card and said that if they wouldn&rsquo;t let me cancel them I&rsquo;d demand that they registered the loss so you couldn&rsquo;t be charge for anything beyond the time of my calling them up. I looked at the clock. It was ",
     "quote_time_case": "ten-past three",
     "quote_last": ".",
@@ -15,6 +24,6 @@
     "quote_last": "",
     "title": "Love Again",
     "author": "Philip Larkin",
-    "sfw": "yes"
+    "sfw": "no"
   }
 ]

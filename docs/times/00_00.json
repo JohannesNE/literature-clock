@@ -42,7 +42,7 @@
     "quote_last": " arguing about?”",
     "title": "Go Down Moses",
     "author": "William Faulkner",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "00:00",
@@ -60,7 +60,7 @@
     "quote_last": " there came every night the woman with the busted umbrella and the crazy veil. Every night she slept there on a bench under her torn umbrella, the ribs hanging down, her dress turning green, her bony fingers and the odor of decay oozing from her body; and in the morning I’d be sitting there myself, taking a quiet snooze in the sunshine, cursing the god-damned pigeons gathering up the crumbs everywhere.",
     "title": "Tropic of Cancer",
     "author": "Henry Miller",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "00:00",
@@ -105,15 +105,6 @@
     "quote_last": " in July, at the tail end of a massive block party. <br>It wasn’t his truck, and the street was closed to traffic, so the vehicle’s emergence out of darkness and slow rumble up Oak Drive scattered neighbors and guests alike into confused groups on candlelit lawns.",
     "title": "Behind the Lie",
     "author": "Emilya Naymark",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
-    "quote_first": "It was near ",
-    "quote_time_case": "midnight",
-    "quote_last": " when she left the Palace in a clothes-hamper borne by two porters, covered with her own soiled smocks and petticoats which were supposedly being carried to the laundress.",
-    "title": "Forever Amber",
-    "author": "Kathleen Windsor",
     "sfw": "yes"
   },
   {
@@ -237,7 +228,7 @@
     "time": "00:00",
     "quote_first": "&ldquo;But wait till I tell you,&rdquo; he said. &ldquo;We had a ",
     "quote_time_case": "midnight",
-    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before&quot;",
+    "quote_last": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before.&quot;",
     "title": "Ulysses",
     "author": "James Joyce",
     "sfw": "yes"
@@ -316,7 +307,7 @@
   },
   {
     "time": "00:00",
-    "quote_first": "Gately can hear the horns and raised voices and u-turn squeals way down below on Wash. That indicate it&rsquo;s around ",
+    "quote_first": "Gately can hear the horns and raised voices and u-turn squeals way down below on Wash. That indicates it&rsquo;s around ",
     "quote_time_case": "0000h",
     "quote_last": "., the switching hour.",
     "title": "Infinite Jest",
@@ -379,29 +370,11 @@
   },
   {
     "time": "00:00",
-    "quote_first": "It was nearing ",
-    "quote_time_case": "midnight",
-    "quote_last": " and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind.",
-    "title": "Harry Potter and the Half-Blood Prince",
-    "author": "JK Rowling",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
     "quote_first": "",
     "quote_time_case": "Midnight",
     "quote_last": " had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - midnight was upon them all.",
     "title": "Oliver Twist",
     "author": "Charles Dickens",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
-    "quote_first": "",
-    "quote_time_case": "Midnight",
-    "quote_last": " is approaching, and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city&rsquo;s moan, a monotonous sound that neither rises or falls but is pregnant with foreboding.",
-    "title": "After Dark",
-    "author": "Murakami",
     "sfw": "yes"
   },
   {
@@ -463,15 +436,6 @@
     "quote_first": "There was the ",
     "quote_time_case": "midnight",
     "quote_last": " hike with the boys to the end of the promenade and the big argument about the election of a housemaster. What had become of responsibility and service? And brotherly love?",
-    "title": "The Hammer of God",
-    "author": "Bo Giertz",
-    "sfw": "yes"
-  },
-  {
-    "time": "00:00",
-    "quote_first": "It was near ",
-    "quote_time_case": "midnight",
-    "quote_last": ". <br/>Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
     "title": "The Hammer of God",
     "author": "Bo Giertz",
     "sfw": "yes"

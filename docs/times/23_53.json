@@ -2,10 +2,37 @@
   {
     "time": "23:53",
     "quote_first": "It was ",
-    "quote_time_case": "seven minutes to midnight",
-    "quote_last": ". The dog was lying on the grass in the middle of the lawn in front of Mrs. Shears' house.",
-    "title": "The Curious Incident of the Dog in the Night-time",
-    "author": "Mark Haddon",
+    "quote_time_case": "near midnight",
+    "quote_last": ". <br/>Torvik took the doll which had been left on the couch in the study, after first having mended its broken foot.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:53",
+    "quote_first": "It was ",
+    "quote_time_case": "near midnight",
+    "quote_last": " when she left the Palace in a clothes-hamper borne by two porters, covered with her own soiled smocks and petticoats which were supposedly being carried to the laundress.",
+    "title": "Forever Amber",
+    "author": "Kathleen Windsor",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:53",
+    "quote_first": "It was ",
+    "quote_time_case": "nearing midnight",
+    "quote_last": " and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind.",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:53",
+    "quote_first": "",
+    "quote_time_case": "Midnight is approaching",
+    "quote_last": ", and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city&rsquo;s moan, a monotonous sound that neither rises or falls but is pregnant with foreboding.",
+    "title": "After Dark",
+    "author": "Haruki Murakami",
     "sfw": "yes"
   }
 ]

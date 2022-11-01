@@ -1,6 +1,15 @@
 [
   {
     "time": "18:00",
+    "quote_first": "&ldquo;I haven&rsquo;t been to church in over a year.&rdquo;<br/>&ldquo;Finally worried about your soul?&rdquo;<br/>&ldquo;Please,&rdquo; Cork said<br/>&ldquo;Of course we can talk. When?&rdquo;<br/>&ldquo;Tomorrow. Late afternoon maybe. Say five o'clock?&rdquo;<br/>&ldquo;Make it ",
+    "quote_time_case": "six",
+    "quote_last": ",&rdquo; the priest suggested. &ldquo;My office.&rdquo;<br/>&ldquo;I&rsquo;ll be there,&rdquo; Cork promised.",
+    "title": "Iron Lake",
+    "author": "William Kent Krueger",
+    "sfw": "yes"
+  },
+  {
+    "time": "18:00",
     "quote_first": "Would a minute have mattered? No, probably not, although his young son appeared to have a very accurate internal clock. Possibly even two minutes would be okay. Three minutes, even. You could go to five minutes, perhaps. But that was just it. If you could go for five minutes, then you’d go to ten, then half an hour, a couple of hours…and not see your son all evening. So that was that. ",
     "quote_time_case": "Six o’clock",
     "quote_last": ", prompt. Every day. Read to young Sam. No excuses. He’d promised himself that. No excuses. No excuses at all. Once you had a good excuse, you opened the door to bad excuses.",
@@ -24,7 +33,7 @@
     "quote_last": " He asked Bill to grab his papers and a bit of weed.",
     "title": "Ohio",
     "author": "Stephen Markley",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "18:00",
@@ -66,7 +75,7 @@
     "time": "18:00",
     "quote_first": "Dan lay awake until ",
     "quote_time_case": "six",
-    "quote_last": ". Then he dressed and once more made the trek to the Red Apple. This time he did not hesitate, only instead of extracting two bottles of Bird from the cooler, he took three. What was it they used to say? Good big or go home.",
+    "quote_last": ". Then he dressed and once more made the trek to the Red Apple. This time he did not hesitate, only instead of extracting two bottles of Bird from the cooler, he took three. What was it they used to say? Go big or go home.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
     "sfw": "yes"
@@ -136,15 +145,6 @@
   },
   {
     "time": "18:00",
-    "quote_first": "The next morning, Sister Veronica is still at prayer in the chapel. At ",
-    "quote_time_case": "six",
-    "quote_last": ", when the other sisters file in for Vigils, she is there, prostrate before the cross, her arms outstretched, her forehead touching the cold stone tile. It is only when they lean forward to touch her arm gently that the women see that the blood has settled in her face. She has been dead for many hours.",
-    "title": "The Power",
-    "author": "Naomi Alderman",
-    "sfw": "yes"
-  },
-  {
-    "time": "18:00",
     "quote_first": "Lucinda Quant breaks the story of the big leak on the ",
     "quote_time_case": "six o’clock",
     "quote_last": " news. She’s straightforward, she’s believable, and, best of all, she has extensive document trails and video footage. She tells the story about how she came by her treasure trove of dirt, though she doesn’t name names",
@@ -202,7 +202,7 @@
     "quote_first": "",
     "quote_time_case": "6.00 p.m.",
     "quote_last": " Have tea",
-    "title": "The Curious Incident of the Dog in the Night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   },

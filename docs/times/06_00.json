@@ -1,6 +1,15 @@
 [
   {
     "time": "06:00",
+    "quote_first": "The next morning, Sister Veronica is still at prayer in the chapel. At ",
+    "quote_time_case": "six",
+    "quote_last": ", when the other sisters file in for Vigils, she is there, prostrate before the cross, her arms outstretched, her forehead touching the cold stone tile. It is only when they lean forward to touch her arm gently that the women see that the blood has settled in her face. She has been dead for many hours.",
+    "title": "The Power",
+    "author": "Naomi Alderman",
+    "sfw": "yes"
+  },
+  {
+    "time": "06:00",
     "quote_first": "Sammy was bright awake at ",
     "quote_time_case": "six",
     "quote_last": ", giddy with excitement, Daddy was coming, and no settling him to anything. By late morning he was climbing the walls; I suggested we go for a walk, take a little picnic. He didn’t want to leave in case Daddy came while we were gone.<br>“How ’bout we head up the hill? We can look out for him from there. Like pirates.”<br>And that did the trick.",
@@ -21,7 +30,7 @@
     "time": "06:00",
     "quote_first": "Dan lay awake until ",
     "quote_time_case": "six",
-    "quote_last": ". Then he dressed and once more made the trek to the Red Apple. This time he did not hesitate, only instead of extracting two bottles of Bird from the cooler, he took three. What was it they used to say? Good big or go home.",
+    "quote_last": ". Then he dressed and once more made the trek to the Red Apple. This time he did not hesitate, only instead of extracting two bottles of Bird from the cooler, he took three. What was it they used to say? Go big or go home.",
     "title": "Doctor Sleep",
     "author": "Stephen King",
     "sfw": "yes"
@@ -86,7 +95,7 @@
     "quote_time_case": "six A.M.",
     "quote_last": " by the telephone. It was Major Heathcote, and he got straight to the point. “What do you know about this mob at the cathedral?”",
     "title": "The Wedding Officer",
-    "author": "by Anthony Capella",
+    "author": "Anthony Capella",
     "sfw": "yes"
   },
   {

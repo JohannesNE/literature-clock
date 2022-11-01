@@ -1,6 +1,15 @@
 [
   {
     "time": "11:00",
+    "quote_first": "&ldquo;The Population Police require your attendance at a meeting at ",
+    "quote_time_case": "eleven o'clock",
+    "quote_last": " in the town square. You will be issued a new identity card. No other cards or papers will be valid after these cards are issued,&rdquo; Luke said in a rush.",
+    "title": "Among the Free",
+    "author": "Margaret Peterson Haddix",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:00",
     "quote_first": "Shanghai’s clocks were set an hour ahead so the city could &ldquo;save daylight&rdquo;, but the Bai family said: “We go by the old clock.” Ten o’clock to them was ",
     "quote_time_case": "eleven",
     "quote_last": " to everyone else. Their singing was behind the beat; they couldn’t keep up with the huqin [Chinese string instrument] producing bleak and desolate sounds of life.",
@@ -95,7 +104,7 @@
     "quote_time_case": "eleven o’clock",
     "quote_last": ". Harry, Ron, Hermione and Ginny were feeling quite resentful towards Fleur’s family by this time, and it was with an ill grace that Ron stumped back upstairs to put on matching socks, and Harry attempted to flatten his hair.",
     "title": "Harry Potter and the Deathly Hallows",
-    "author": "JK Rowling",
+    "author": "J.K. Rowling",
     "sfw": "yes"
   },
   {

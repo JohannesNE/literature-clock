@@ -1,6 +1,15 @@
 [
   {
     "time": "08:10",
+    "quote_first": "She said, &ldquo;Hey sleepy head, time to get up. A Navy SEAL made breakfast, and I don&rsquo;t think you&rsquo;re supposed to be late.&rdquo;<br/>&ldquo;Aye, aye. What time is it?&rdquo;<br/>She glanced at the digital clock on her nightstand. &ldquo;",
+    "quote_time_case": "8:10",
+    "quote_last": ".&rdquo;",
+    "title": "Lionhearts",
+    "author": "Ray Keating",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:10",
     "quote_first": "Sloane, with his shoulder punctured, was on another lounge. He was half delirious, and kept calling something about a chemistry lecture at ",
     "quote_time_case": "8:10.",
     "quote_last": "",
@@ -13,7 +22,7 @@
     "quote_first": "",
     "quote_time_case": "8.10 a.m.",
     "quote_last": " Read book or watch video",
-    "title": "The Curious Incident of the Dog in the Night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   },

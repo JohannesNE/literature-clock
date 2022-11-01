@@ -46,9 +46,9 @@
   },
   {
     "time": "05:00",
-    "quote_first": "‘According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
+    "quote_first": "&ldquo;According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
     "quote_time_case": "five o’clock in the morning",
-    "quote_last": "’ His face was still in shadow.",
+    "quote_last": ".&rdquo; His face was still in shadow.",
     "title": "A Trail Through Time",
     "author": "Jodi Taylor",
     "sfw": "yes"
@@ -114,7 +114,7 @@
     "quote_last": " this morning with V.A.‘s Luger. But I saw you, my dear, dear fellow! How touched I am that you care so much! On the belfry’s lookout, yesterday, at sunset. Sheerest fluke you didn’t see me first.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "05:00",

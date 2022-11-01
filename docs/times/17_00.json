@@ -220,7 +220,7 @@
     "quote_first": "",
     "quote_time_case": "5.00 p.m.",
     "quote_last": " Read a book",
-    "title": "The Curious Incident of the Dog in the Night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   },
@@ -284,7 +284,7 @@
     "quote_time_case": "five o'clock",
     "quote_last": ", he was still so worried that he walked straight into someone just outside the door.",
     "title": "Harry Potter and the Philosopher's Stone",
-    "author": "JK Rowling",
+    "author": "J.K. Rowling",
     "sfw": "yes"
   },
   {
@@ -312,6 +312,15 @@
     "quote_last": ", in time for tea. I can see myself now, unsuitably dressed as usual, although a bride of seven weeks, in a tan-coloured stockinette frock, a small fur known as a stone marten round my neck, and over all a shapeless mackintosh, far too big for me and dragging to my ankles.",
     "title": "Rebecca",
     "author": "Daphne du Maurier",
+    "sfw": "yes"
+  },
+  {
+    "time": "17:00",
+    "quote_first": "&ldquo;I haven&rsquo;t been to church in over a year.&rdquo;<br/>&ldquo;Finally worried about your soul?&rdquo;<br/>&ldquo;Please,&rdquo; Cork said<br/>&ldquo;Of course we can talk. When?&rdquo;<br/>&ldquo;Tomorrow. Late afternoon maybe. Say ",
+    "quote_time_case": "five o'clock",
+    "quote_last": "?&rdquo;<br/>&ldquo;Make it six,&rdquo; the priest suggested. &ldquo;My office.&rdquo;<br/>&ldquo;I&rsquo;ll be there,&rdquo; Cork promised.",
+    "title": "Iron Lake",
+    "author": "William Kent Krueger",
     "sfw": "yes"
   }
 ]

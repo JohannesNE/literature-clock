@@ -208,11 +208,11 @@
   },
   {
     "time": "23:00",
-    "quote_first": "&ldquo;When they reached the top of the Astronomy Tower at ",
+    "quote_first": "When they reached the top of the Astronomy Tower at ",
     "quote_time_case": "eleven o'clock",
-    "quote_last": ", they found a perfect night for stargazing, cloudless and still.&quot;",
+    "quote_last": ", they found a perfect night for stargazing, cloudless and still.",
     "title": "Harry Potter and the Order of the Phoenix",
-    "author": "JK Rowling",
+    "author": "J.K. Rowling",
     "sfw": "yes"
   }
 ]

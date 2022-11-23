@@ -154,7 +154,7 @@
   },
   {
     "time": "02:00",
-    "quote_first": "“I’ve been waiting here all night,” Shawn said. “Tell me everything.”<br>“Shawn,” she said. “It’s all amazing. Where do I even begin &hellip;”<br>They talked until ",
+    "quote_first": "“I’ve been waiting here all night,” Shawn said. “Tell me everything.”<br>“Shawn,” she said. “It’s all amazing. Where do I even begin . . .”<br>They talked until ",
     "quote_time_case": "two A.M.",
     "quote_last": "",
     "title": "Reprieve",
@@ -182,7 +182,7 @@
   {
     "time": "02:00",
     "quote_first": "As ",
-    "quote_time_case": "two o'clock",
+    "quote_time_case": "two o’clock",
     "quote_last": " pealed from the cathedral bell, Jean Valjean awoke.",
     "title": "Les Miserables",
     "author": "Victor Hugo",
@@ -218,7 +218,7 @@
   {
     "time": "02:00",
     "quote_first": "When all had grown quiet and Fyodor Pavlovich went to bed at around ",
-    "quote_time_case": "two o'clock",
+    "quote_time_case": "two o’clock",
     "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",

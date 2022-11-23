@@ -1,9 +1,9 @@
 [
   {
     "time": "18:00",
-    "quote_first": "&ldquo;I haven&rsquo;t been to church in over a year.&rdquo;<br/>&ldquo;Finally worried about your soul?&rdquo;<br/>&ldquo;Please,&rdquo; Cork said<br/>&ldquo;Of course we can talk. When?&rdquo;<br/>&ldquo;Tomorrow. Late afternoon maybe. Say five o'clock?&rdquo;<br/>&ldquo;Make it ",
+    "quote_first": "“I haven’t been to church in over a year.”<br/>“Finally worried about your soul?”<br/>“Please,” Cork said<br/>“Of course we can talk. When?”<br/>“Tomorrow. Late afternoon maybe. Say five o’clock?”<br/>“Make it ",
     "quote_time_case": "six",
-    "quote_last": ",&rdquo; the priest suggested. &ldquo;My office.&rdquo;<br/>&ldquo;I&rsquo;ll be there,&rdquo; Cork promised.",
+    "quote_last": ",” the priest suggested. “My office.”<br/>“I’ll be there,” Cork promised.",
     "title": "Iron Lake",
     "author": "William Kent Krueger",
     "sfw": "yes"
@@ -55,9 +55,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "&ldquo;When is his tea-time?&rdquo; I inquired.<br>&ldquo;Oh, at ",
+    "quote_first": "“When is his tea-time?” I inquired.<br>“Oh, at ",
     "quote_time_case": "six o’clock",
-    "quote_last": ". He keeps early hours in the country. You had better change your frock now: I will go with you and fasten it. Here is a candle.&quot;",
+    "quote_last": ". He keeps early hours in the country. You had better change your frock now: I will go with you and fasten it. Here is a candle.”",
     "title": "Jane Eyre",
     "author": "Charlotte Brontë",
     "sfw": "yes"
@@ -100,7 +100,7 @@
   },
   {
     "time": "18:00",
-    "quote_first": "Ursula invites me into the wardrobe. “You haven’t aged a day, Timbo, and neither has 𝘵𝘩𝘪𝘴 snaky fellow!” Her furry fawn rubs up against my Narnian-sized lamppost and mothballs &hellip; but then, as ever, I awoke, my swollen appendage as welcome as a swollen appendix, and as useful. ",
+    "quote_first": "Ursula invites me into the wardrobe. “You haven’t aged a day, Timbo, and neither has 𝘵𝘩𝘪𝘴 snaky fellow!” Her furry fawn rubs up against my Narnian-sized lamppost and mothballs . . . but then, as ever, I awoke, my swollen appendage as welcome as a swollen appendix, and as useful. ",
     "quote_time_case": "Six o’clock",
     "quote_last": ". The heating systems composed works in the style of John Cage. Chillblains burned my toe knuckles. I thought about Christmases gone, so many more gone than lay ahead.",
     "title": "Cloud Atlas",
@@ -190,9 +190,9 @@
   },
   {
     "time": "18:00",
-    "quote_first": "&ldquo;And ever since that,&rdquo; the Hatter went on in a mournful tone, &ldquo;he won’t do a thing I ask! It’s always ",
+    "quote_first": "“And ever since that,” the Hatter went on in a mournful tone, “he won’t do a thing I ask! It’s always ",
     "quote_time_case": "six o’clock",
-    "quote_last": " now.&quot;",
+    "quote_last": " now.”",
     "title": "Alice in Wonderland",
     "author": "Lewis Carroll",
     "sfw": "yes"
@@ -209,7 +209,7 @@
   {
     "time": "18:00",
     "quote_first": "Although it was only ",
-    "quote_time_case": "six o'clock",
+    "quote_time_case": "six o’clock",
     "quote_last": ", the night was already dark. The fog, made thicker by its proximity to the Seine, blurred every detail with its ragged veils, punctured at various distances by the reddish glow of lanterns and bars of light escaping from illuminated windows.",
     "title": "Le Club des Hachichins",
     "author": "Théophile Gautier",
@@ -217,17 +217,17 @@
   },
   {
     "time": "18:00",
-    "quote_first": "&ldquo;Did you go down to the farm while I was away?&rdquo;<br/>&ldquo;No,&rdquo; I said &ldquo;but I saw Ted.&rdquo;<br/>&ldquo;Did he have a message for me?&rdquo; she asked. &ldquo;He said today was no good as he was going to Norwich. But Friday at ",
-    "quote_time_case": "six o'clock",
-    "quote_last": ", same as usual.&rdquo;<br/>&ldquo;Are you sure he said six o'clock?&rdquo; she asked, puzzled.<br/>&ldquo;Quite sure.&quot;",
+    "quote_first": "“Did you go down to the farm while I was away?”<br/>“No,” I said “but I saw Ted.”<br/>“Did he have a message for me?” she asked. “He said today was no good as he was going to Norwich. But Friday at ",
+    "quote_time_case": "six o’clock",
+    "quote_last": ", same as usual.”<br/>“Are you sure he said six o’clock?” she asked, puzzled.<br/>“Quite sure.”",
     "title": "The Go-Between",
     "author": "L.P. Hartley",
     "sfw": "yes"
   },
   {
     "time": "18:00",
-    "quote_first": "King Richard: What is o'clock?<br/>Catesby: It is ",
-    "quote_time_case": "six o'clock",
+    "quote_first": "King Richard: What is o’clock?<br/>Catesby: It is ",
+    "quote_time_case": "six o’clock",
     "quote_last": ", full supper time.<br/>King Richard: I will not sup tonight. Give me some ink and paper.",
     "title": "Richard III",
     "author": "William Shakespeare",
@@ -236,7 +236,7 @@
   {
     "time": "18:00",
     "quote_first": "Leon waited all day for ",
-    "quote_time_case": "six o'clock",
+    "quote_time_case": "six o’clock",
     "quote_last": " to arrive; when he got to the inn, he found no one there but Monsieur Binet, already at the table.",
     "title": "Madame Bovary",
     "author": "Gustave Flaubert",
@@ -245,7 +245,7 @@
   {
     "time": "18:00",
     "quote_first": "Oh oh oh. ",
-    "quote_time_case": "Six o'clock",
+    "quote_time_case": "Six o’clock",
     "quote_last": " and the master not home yet.",
     "title": "The Skin of our Teeth",
     "author": "Thornton Wilder",
@@ -254,7 +254,7 @@
   {
     "time": "18:00",
     "quote_first": "The newspaper snaked through the door and there was suddenly a ",
-    "quote_time_case": "six o'clock",
+    "quote_time_case": "six o’clock",
     "quote_last": " feeling in the house",
     "title": "The Prime of Miss Jean Brodie",
     "author": "Muriel Spark",
@@ -263,7 +263,7 @@
   {
     "time": "18:00",
     "quote_first": "The winter evening settles down With smell of steaks in passageways. ",
-    "quote_time_case": "Six o'clock",
+    "quote_time_case": "Six o’clock",
     "quote_last": ".",
     "title": "Preludes",
     "author": "T S Eliot",

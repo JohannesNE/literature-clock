@@ -1,7 +1,7 @@
 [
   {
     "time": "02:59",
-    "quote_first": "&ldquo;I wish it left sooner,&rdquo; Sophie said, &ldquo;but Lyon will have to do.&rdquo; <br /> Sooner? Langdon checked his watch ",
+    "quote_first": "“I wish it left sooner,” Sophie said, “but Lyon will have to do.” <br /> Sooner? Langdon checked his watch ",
     "quote_time_case": "2:59 A. M.",
     "quote_last": " The train left in seven minutes and they didn’t even have tickets yet.",
     "title": "The DaVinci Code",
@@ -10,9 +10,9 @@
   },
   {
     "time": "02:59",
-    "quote_first": "&ldquo;I remembered arriving in this room at ",
+    "quote_first": "“I remembered arriving in this room at ",
     "quote_time_case": "2.59",
-    "quote_last": " one night. I remembered the sergeant who called me names: mostly Anglo-Saxon monosyllabic four-letter ones with an odd &quot;Commie&rdquo; thrown in for syntax.&ldquo;",
+    "quote_last": " one night. I remembered the sergeant who called me names: mostly Anglo-Saxon monosyllabic four-letter ones with an odd “Commie” thrown in for syntax.”",
     "title": "The Ipcress File",
     "author": "Len Deighton",
     "sfw": "yes"

@@ -19,9 +19,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>&ldquo;",
+    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>“",
     "quote_time_case": "Eight o’clock",
-    "quote_last": ",&rdquo; Dilsey said.",
+    "quote_last": ",” Dilsey said.",
     "title": "The Sound and the Fury",
     "author": "William Faulkner",
     "sfw": "yes"
@@ -136,8 +136,8 @@
   },
   {
     "time": "20:00",
-    "quote_first": "&lsquo;TIS ",
-    "quote_time_case": "eight o'clock",
+    "quote_first": "‘TIS ",
+    "quote_time_case": "eight o’clock",
     "quote_last": ", a clear March night, The moon is up, the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
     "title": "The Idiot Boy",
     "author": "William Wordsworth",
@@ -145,9 +145,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "&ldquo;I trace the words, &lsquo;I&rsquo;ll arrive to collect you for drinks ",
+    "quote_first": "“I trace the words, ‘I’ll arrive to collect you for drinks ",
     "quote_time_case": "at eight",
-    "quote_last": " on Saturday.&rsquo;&quot;",
+    "quote_last": " on Saturday.’”",
     "title": "Tell-All",
     "author": "Chuck Palahniuk",
     "sfw": "yes"
@@ -164,7 +164,7 @@
   {
     "time": "20:00",
     "quote_first": "Arthur thought he could even bear to listen to the album of bagpipe music he had won. It was ",
-    "quote_time_case": "eight o'clock",
+    "quote_time_case": "eight o’clock",
     "quote_last": " and he decided he would make himself, force himself, to listen to the whole record before he phoned her.",
     "title": "So Long, and Thanks for All the Fish",
     "author": "Douglas Adams",
@@ -173,7 +173,7 @@
   {
     "time": "20:00",
     "quote_first": "At ",
-    "quote_time_case": "eight o'clock",
+    "quote_time_case": "eight o’clock",
     "quote_last": " that evening, a Saturday, Pamela Chamcha stood with Jumpy Joshi - who had refused to let her go unaccompanied - next to the Photo-Me machine in a corner of the main concourse of Euston station, feeling ridiculously conspiratorial.",
     "title": "Satanic Verses",
     "author": "Salman Rushdie",
@@ -181,17 +181,17 @@
   },
   {
     "time": "20:00",
-    "quote_first": "Freud had me knock on Jung&rsquo;s door, to no avail. They waited until ",
+    "quote_first": "Freud had me knock on Jung’s door, to no avail. They waited until ",
     "quote_time_case": "eight",
-    "quote_last": ", then set off for Brill&rsquo;s without him.",
+    "quote_last": ", then set off for Brill’s without him.",
     "title": "The Interpretation Of Murder",
     "author": "Jed Rubenfeld",
     "sfw": "yes"
   },
   {
     "time": "20:00",
-    "quote_first": "It&rsquo;s the twenty-third of June nineteen seventy-five, and it is ",
-    "quote_time_case": "eight o'clock",
+    "quote_first": "It’s the twenty-third of June nineteen seventy-five, and it is ",
+    "quote_time_case": "eight o’clock",
     "quote_last": " in the evening, seated at his jigsaw puzzle, Bartlebooth has just died.",
     "title": "Life: A User's Manual",
     "author": "Georges Perec",
@@ -200,7 +200,7 @@
   {
     "time": "20:00",
     "quote_first": "She looked at her watch- it was ",
-    "quote_time_case": "eight o'clock",
+    "quote_time_case": "eight o’clock",
     "quote_last": "",
     "title": "The Beautiful and Damned",
     "author": "F. Scott Fitzgerald",

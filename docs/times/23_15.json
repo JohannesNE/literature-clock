@@ -31,8 +31,17 @@
     "quote_first": "On arriving home at a ",
     "quote_time_case": "quarter-past eleven",
     "quote_last": ", we found a hansom cab, which had been waiting for me for two hours with a letter. Sarah said she did not know what to do, as we had not left the address where we had gone.",
-    "title": "Dairy of a Nobody",
+    "title": "Diary of a Nobody",
     "author": "George and Weedon Grossmith",
     "sfw": "yes"
+  },
+  {
+    "time": "23:15",
+    "quote_first": "The impulse seized me to look again. The minute-hand stood half way ",
+    "quote_time_case": "between fifteen and sixteen minutes past eleven",
+    "quote_last": ". The watch must have stopped; I held it to my ear; no, it was still going.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

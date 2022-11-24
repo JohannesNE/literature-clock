@@ -1,6 +1,7 @@
 # literature CSV to JSON
 library(readr)
-library(tidyverse)
+library(dplyr)
+library(purrr)
 library(stringr)
 library(jsonlite)
 

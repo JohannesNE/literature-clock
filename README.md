@@ -8,6 +8,10 @@ The working site is in the docs/ folder, and can be visited at http://literature
 > To filter out (most) NSFW quotes, use the `sfw` query parameter. E.g. https://literature-clock.jenevoldsen.com?sfw=true
 > 
 
+# Convert .csv quotes to .json quotes
+
+Quotes are kept in `litclock_annotated.csv`. These are converted into a `.json` file for each minute with `csv_to_json.R`. To run the R script, install R and use the package manager, {packrat}, to install the correct version of the packages: `packrat::restore()`.
+
 ## Other related projects
 
 - **[litime](https://github.com/ikornaselur/litime)** - A command line tool that shows a timely quote when it is executed.

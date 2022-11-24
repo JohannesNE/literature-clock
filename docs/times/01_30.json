@@ -28,9 +28,9 @@
   },
   {
     "time": "01:30",
-    "quote_first": "&ldquo;",
+    "quote_first": "“",
     "quote_time_case": "Half-past one",
-    "quote_last": "&rdquo;, The street lamp sputtered, The street lamp muttered, The street lamp said, &ldquo;Regard that woman &hellip;&quot;",
+    "quote_last": "”, The street lamp sputtered, The street lamp muttered, The street lamp said, “Regard that woman …”",
     "title": "Rhapsody on a Windy Night",
     "author": "TS Eliot",
     "sfw": "yes"

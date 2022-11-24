@@ -32,14 +32,16 @@ litclock <- mutate(litclock,
                    nsfw = nsfw_overwrite == "nsfw" | (auto_nsfw & nsfw_overwrite != "sfw"),
                    sfw = ifelse(!nsfw, "yes", "no"))                     
 
-# Use markdown::smartypants to convert ASCII punctuation to smart punctuations
+# Use markdown::mark to convert ASCII punctuation to smart punctuations
+# TODO: Find better way to remove trailing newline
 litclock <- mutate(litclock, 
-                    quote = purrr::map_chr(litclock$quote, ~markdown::smartypants(text = .x)),
-                    quote_time = purrr::map_chr(litclock$quote_time, ~markdown::smartypants(text = .x))
+                    quote = purrr::map_chr(litclock$quote, ~markdown::mark(text = .x, options = "smartypants") |> str_sub(start = 4, end = -6) ),
+                    quote_time = purrr::map_chr(litclock$quote_time, ~markdown::mark(text = .x, options = "smartypants") |> str_sub(start = 4, end = -6) )
 )
 
-litclock <- mutate(litclock, split_str = str_split(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE), n = 2),
-                   quote_time_case = str_extract(quote, regex(paste0('(?<!\\w)', quote_time, '(?!\\w)'), ignore_case = TRUE)),
+# \\Q and \\E make the text in between literal
+litclock <- mutate(litclock, split_str = str_split(quote, regex(paste0('(?<!\\w)\\Q', quote_time, '\\E(?!\\w)'), ignore_case = TRUE), n = 2),
+                   quote_time_case = str_extract(quote, regex(paste0('(?<!\\w)\\Q', quote_time, '\\E(?!\\w)'), ignore_case = TRUE)),
                    quote_first = unlist(map(split_str, `[`, 1)),
                    quote_last = unlist(map(split_str, `[`, 2)))
 

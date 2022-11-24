@@ -46,9 +46,9 @@
   },
   {
     "time": "05:00",
-    "quote_first": "&ldquo;According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
+    "quote_first": "“According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
     "quote_time_case": "five o’clock in the morning",
-    "quote_last": ".&rdquo; His face was still in shadow.",
+    "quote_last": ".” His face was still in shadow.",
     "title": "A Trail Through Time",
     "author": "Jodi Taylor",
     "sfw": "yes"
@@ -155,17 +155,17 @@
   {
     "time": "05:00",
     "quote_first": "Just after ",
-    "quote_time_case": "five o'clock",
-    "quote_last": " on this chill September morning, the fishmonger&rsquo;s cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
+    "quote_time_case": "five o’clock",
+    "quote_last": " on this chill September morning, the fishmonger’s cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
     "title": "Music and Silence",
     "author": "Rose Tremain",
     "sfw": "yes"
   },
   {
     "time": "05:00",
-    "quote_first": "The cold eye of the Duke was dazzled by the gleaming of a thousand jewels that sparkled on the table. His ears were filled with chiming as the clocks began to strike. &ldquo;One!&rdquo; said Hark. &ldquo;Two!&rdquo; cried Zorn of Zorna. &ldquo;Three!&rdquo; the Duke&rsquo;s voice almost whispered. &ldquo;Four!&rdquo; sighed Saralinda. &ldquo;",
+    "quote_first": "The cold eye of the Duke was dazzled by the gleaming of a thousand jewels that sparkled on the table. His ears were filled with chiming as the clocks began to strike. “One!” said Hark. “Two!” cried Zorn of Zorna. “Three!” the Duke’s voice almost whispered. “Four!” sighed Saralinda. “",
     "quote_time_case": "Five",
-    "quote_last": "!&rdquo; the Golux crowed, and pointed at the table. &ldquo;The task is done, the terms are met,&rdquo; he said.&ldquo;",
+    "quote_last": "!” the Golux crowed, and pointed at the table. “The task is done, the terms are met,” he said.”",
     "title": "The 13 Clocks",
     "author": "James Thurber",
     "sfw": "yes"
@@ -173,7 +173,7 @@
   {
     "time": "05:00",
     "quote_first": "The day came slow, till ",
-    "quote_time_case": "five o'clock",
+    "quote_time_case": "five o’clock",
     "quote_last": ". Then sprang before the hills. Like hindered rubies, or the light. A sudden musket spills",
     "title": "The Day Came Slow, Till Five O' Clock",
     "author": "Emily Dickinson",
@@ -190,8 +190,8 @@
   },
   {
     "time": "05:00",
-    "quote_first": "What causes young people to &ldquo;come out,&rdquo; but the noble ambition of matrimony? What sends them trooping to watering-places? What keeps them dancing till ",
-    "quote_time_case": "five o'clock",
+    "quote_first": "What causes young people to “come out,” but the noble ambition of matrimony? What sends them trooping to watering-places? What keeps them dancing till ",
+    "quote_time_case": "five o’clock",
     "quote_last": " in the morning through a whole mortal season?",
     "title": "Vanity Fair",
     "author": "William Makepeace Thackeray",

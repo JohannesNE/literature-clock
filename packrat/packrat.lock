@@ -1,0 +1,211 @@
+PackratFormat: 1.4
+PackratVersion: 0.6.0
+RVersion: 4.1.0
+Repos: CRAN=https://cloud.r-project.org
+
+Package: R6
+Source: CRAN
+Version: 2.5.1
+Hash: 54378e523d0281f8d38c379484a3b7b5
+
+Package: bit
+Source: CRAN
+Version: 4.0.4
+Hash: 75dd3abfa313c948b007aef6dedd3c87
+
+Package: bit64
+Source: CRAN
+Version: 4.0.5
+Hash: f82a5f545b6ed024639c3b9358c5e19f
+Requires: bit
+
+Package: cli
+Source: CRAN
+Version: 3.3.0
+Hash: ea370f88dddadbefeecd6cc4adbc6495
+Requires: glue
+
+Package: clipr
+Source: CRAN
+Version: 0.8.0
+Hash: f8ae5e8ad6b3e416249379deec7e9c6f
+
+Package: commonmark
+Source: CRAN
+Version: 1.8.0
+Hash: 53fe90d17c46c6919b0f37e2e882975b
+
+Package: cpp11
+Source: CRAN
+Version: 0.4.2
+Hash: fb849cc15463edbe2435b0ef5d110294
+
+Package: crayon
+Source: CRAN
+Version: 1.5.1
+Hash: e4ec1fd3175c5d12561f59885cfe5acb
+
+Package: dplyr
+Source: CRAN
+Version: 1.0.9
+Hash: b6405c4458dabead1cde470877bddbb7
+Requires: R6, glue, generics, lifecycle, magrittr, pillar, rlang,
+    tibble, tidyselect, vctrs
+
+Package: ellipsis
+Source: CRAN
+Version: 0.3.2
+Hash: b21bfc48556c0c6a93fc9ede6c00cfaf
+Requires: rlang
+
+Package: fansi
+Source: CRAN
+Version: 1.0.3
+Hash: cfa9c28454eeca1e082fe045a8fe6440
+
+Package: generics
+Source: CRAN
+Version: 0.1.2
+Hash: 96be9b5a7c595867ef4424d605adf60e
+
+Package: glue
+Source: CRAN
+Version: 1.6.2
+Hash: 830d10f9f46e05aadfe458d2d31849e7
+
+Package: hms
+Source: CRAN
+Version: 1.1.1
+Hash: 788cba0290407b815f3c15e6967079cd
+Requires: ellipsis, lifecycle, pkgconfig, rlang, vctrs
+
+Package: jsonlite
+Source: CRAN
+Version: 1.8.0
+Hash: 96d93923e6415b426b7ed4390aa02b8e
+
+Package: lifecycle
+Source: CRAN
+Version: 1.0.1
+Hash: 30efedcf3d4478fe2e755b3b256f809a
+Requires: glue, rlang
+
+Package: magrittr
+Source: CRAN
+Version: 2.0.3
+Hash: b323532bfd2fe948d0eb19afa866cb12
+
+Package: markdown
+Source: CRAN
+Version: 1.4
+Hash: 7c8e41068b4d55fa9470742395d1f018
+Requires: commonmark, mime, xfun
+
+Package: mime
+Source: CRAN
+Version: 0.12
+Hash: 98a37137be334916af8af26354bb37e9
+
+Package: packrat
+Source: CRAN
+Version: 0.6.0
+Hash: 62fd532b7524f498caa3cf4cc5f15490
+
+Package: pillar
+Source: CRAN
+Version: 1.7.0
+Hash: 3cbdcac6157b4b365571c42c172fb37e
+Requires: cli, crayon, glue, lifecycle, rlang, ellipsis, fansi, utf8,
+    vctrs
+
+Package: pkgconfig
+Source: CRAN
+Version: 2.0.3
+Hash: 5ff5f2361851a49534c96caa2a8071c7
+
+Package: prettyunits
+Source: CRAN
+Version: 1.1.1
+Hash: 20669cd8bb8b3207f6371edf8cf510af
+
+Package: progress
+Source: CRAN
+Version: 1.2.2
+Hash: 209280eb751acf5899f7c69366e14bd3
+Requires: R6, crayon, hms, prettyunits
+
+Package: purrr
+Source: CRAN
+Version: 0.3.4
+Hash: fb4c0edca61826ca0b5b33c828a7b276
+Requires: magrittr, rlang
+
+Package: readr
+Source: CRAN
+Version: 2.1.2
+Hash: 674c8c793230e2c1935e7408e9643df5
+Requires: R6, cli, clipr, cpp11, crayon, hms, lifecycle, rlang, tibble,
+    tzdb, vroom
+
+Package: rlang
+Source: CRAN
+Version: 1.0.3
+Hash: bc93520201d7b94012a1143d80e91e95
+
+Package: stringi
+Source: CRAN
+Version: 1.7.6
+Hash: 81acb1046bfde93c2f07f71fb7dc2360
+
+Package: stringr
+Source: CRAN
+Version: 1.4.0
+Hash: 67da32dbb2a7a16f2ef124336358e54a
+Requires: glue, magrittr, stringi
+
+Package: tibble
+Source: CRAN
+Version: 3.1.7
+Hash: 6c6a9d56f7328c0b17abb769484f76d1
+Requires: ellipsis, fansi, lifecycle, magrittr, pillar, rlang, vctrs,
+    pkgconfig
+
+Package: tidyselect
+Source: CRAN
+Version: 1.1.2
+Hash: a768f645cc7af6a67089c666e143b7ac
+Requires: ellipsis, glue, rlang, vctrs, purrr
+
+Package: tzdb
+Source: CRAN
+Version: 0.3.0
+Hash: d2a435d88d7342fed9565f1b0ec26d91
+Requires: cpp11
+
+Package: utf8
+Source: CRAN
+Version: 1.2.2
+Hash: ae77ea6ebb503eaa6ee3b7ca80ea4f1b
+
+Package: vctrs
+Source: CRAN
+Version: 0.4.1
+Hash: 3c180c5b05bf27b28b1bce7a0068ee8b
+Requires: cli, glue, rlang
+
+Package: vroom
+Source: CRAN
+Version: 1.5.7
+Hash: 2ba5f573c0375c6e512c13ea90788e68
+Requires: bit64, cli, cpp11, crayon, glue, hms, lifecycle, progress,
+    rlang, tibble, tidyselect, tzdb, vctrs, withr
+
+Package: withr
+Source: CRAN
+Version: 2.5.0
+Hash: 29582655324ddde71118021f0b1b93aa
+
+Package: xfun
+Source: CRAN
+Version: 0.31
+Hash: 6b64834032fd23354eacb742e2db0d06

@@ -232,5 +232,14 @@
     "title": "The Tea Rose",
     "author": "Jennifer Donnelly",
     "sfw": "yes"
+  },
+  {
+    "time": "04:00",
+    "quote_first": "It was now ",
+    "quote_time_case": "four o’clock",
+    "quote_last": " of a midsummer morning, and the western hills, that I could see through a hall window, began to be impurpled by reflection from the opposite horizon of the dawn.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

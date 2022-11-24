@@ -223,5 +223,23 @@
     "title": "Sense and Sensibility",
     "author": "Jane Austen",
     "sfw": "yes"
+  },
+  {
+    "time": "20:00",
+    "quote_first": "Upon one of the largest and most beautiful of the steamers which ever glided down the shining pathway of the river upon a moonlight night of summer, I stepped, at ",
+    "quote_time_case": "eight o’clock",
+    "quote_last": " in the evening, accompanied by several of my friends, and carrying in my pocket a box of boluses. The gangplank was drawn in, and we were on our way.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
+  },
+  {
+    "time": "20:00",
+    "quote_first": "But to return from my digression. It was perhaps ",
+    "quote_time_case": "eight o’clock",
+    "quote_last": " in the evening when I took the dose of fifty grains.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

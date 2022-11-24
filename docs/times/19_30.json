@@ -79,5 +79,14 @@
     "title": "A Simple Story",
     "author": "Leonardo Sciascia",
     "sfw": "yes"
+  },
+  {
+    "time": "19:30",
+    "quote_first": "At ",
+    "quote_time_case": "half past seven",
+    "quote_last": " in the evening, and consequently after supping instead of before, as I should have preferred, he took twenty-five grains of the drug.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

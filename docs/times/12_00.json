@@ -259,5 +259,14 @@
     "title": "The Tanners",
     "author": "Robert Walser",
     "sfw": "yes"
+  },
+  {
+    "time": "12:00",
+    "quote_first": "One day, about the hour of ",
+    "quote_time_case": "noon",
+    "quote_last": ", a little more than a week after my first experiment, I rolled twenty grains of hashish into a pill and swallowed it, saying as I did so, “Here is the final test for the sake of science.”",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

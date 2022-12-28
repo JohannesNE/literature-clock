@@ -1,6 +1,15 @@
 [
   {
     "time": "09:05",
+    "quote_first": "Hadn’t Father Presteign said that the post came at nine or shortly after? “Shortly after” could mean anything. They could be waiting for half an hour. ",
+    "quote_time_case": "Five past nine",
+    "quote_last": ". Seven minutes past. And then it came.",
+    "title": "A Certain Justice",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:05",
     "quote_first": "",
     "quote_time_case": "9:05am",
     "quote_last": " lay in bed, staring at ceiling",
@@ -14,7 +23,7 @@
     "quote_time_case": "9:05",
     "quote_last": ". To sleep 6:36.",
     "title": "The Voices of Time",
-    "author": "JG Ballard",
+    "author": "J.G. Ballard",
     "sfw": "yes"
   },
   {

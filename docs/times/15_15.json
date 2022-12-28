@@ -1,6 +1,15 @@
 [
   {
     "time": "15:15",
+    "quote_first": "A ",
+    "quote_time_case": "quarter after three",
+    "quote_last": ". There was time to check with the local morgues to see if they had turned up any likely John Does - who knew, my search might be over before the day’s end - and then get bank to deposit my money and fire off a check to my landlord.",
+    "title": "Storm Front",
+    "author": "Jim Butcher",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:15",
     "quote_first": "The boss had had something rather more spectacular than a bowel movement; at ",
     "quote_time_case": "three-fifteen",
     "quote_last": " that day he had done something in his pants that was the equivalent of a shit A-bomb.",
@@ -41,7 +50,7 @@
     "quote_time_case": "3:15",
     "quote_last": ".",
     "title": "The Voices of Time",
-    "author": "JG Ballard",
+    "author": "J.G. Ballard",
     "sfw": "yes"
   }
 ]

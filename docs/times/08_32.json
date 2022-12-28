@@ -1,6 +1,15 @@
 [
   {
     "time": "08:32",
+    "quote_first": "He woke again with a start when the hardback of The Last Chronicle of Barset thudded to the ground. Fumbling for his watch, he saw with dismay that it was ",
+    "quote_time_case": "eight thirty-two",
+    "quote_last": ", a late start to the day.",
+    "title": "The Lighthouse",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:32",
     "quote_first": "It’s ",
     "quote_time_case": "8:32 a.m.",
     "quote_last": " on the twenty-fourth of December and Henry and I are on our way to Meadowlark House for Christmas. It’s a beautiful clear day, no snow here in Chicago, but six inches on the ground in South Haven.",
@@ -22,7 +31,7 @@
     "quote_first": "",
     "quote_time_case": "8.32 a.m.",
     "quote_last": " Catch bus to school",
-    "title": "The Curious Incident Of The Dog In The Night-Time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   }

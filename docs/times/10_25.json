@@ -1,6 +1,15 @@
 [
   {
     "time": "10:25",
+    "quote_first": "Dalgliesh reflected that Etienne could hardly have devised a more effective deterrent to visitors and for a moment he wondered whether to walk the half-mile rather than risk his suspension. Glancing at his watch, he saw that it was ",
+    "quote_time_case": "10:25",
+    "quote_last": ". He would arrive precisely on time.",
+    "title": "Original Sin",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:25",
     "quote_first": "As four armed and armored FBI teams surrounded the warehouse at ",
     "quote_time_case": "10:25 AM",
     "quote_last": ", the only person missing was Ned Jennings.",
@@ -23,7 +32,7 @@
     "quote_time_case": "10:25",
     "quote_last": ". To sleep 3:45.",
     "title": "The Voices of Time",
-    "author": "JG Ballard",
+    "author": "J.G. Ballard",
     "sfw": "yes"
   }
 ]

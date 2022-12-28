@@ -1,6 +1,15 @@
 [
   {
     "time": "22:20",
+    "quote_first": "The clock on the wall in the institute’s bullpen ticked past ",
+    "quote_time_case": "10:20 PM",
+    "quote_last": ". Helen Pomeroy and Pastor Eric Meyer looked across her desk at each other. They had just discussed the bizarre events that had unfolded on this day.",
+    "title": "Cathedral",
+    "author": "Ray Keating",
+    "sfw": "yes"
+  },
+  {
+    "time": "22:20",
     "quote_first": "A May wind, swelling up like a piece of fruit, with a rough outer skin, slimy flesh, dozens of seeds. The flesh split open in midair, spraying seeds like gentle buckshot into the bare skin of my arms, leaving behind a faint trace of pain.<br>“What time is it?” my cousin asked me. About eight inches shorter than me, he had to look up when he talked.<br>I glanced at my watch. “",
     "quote_time_case": "Ten twenty",
     "quote_last": ".”",
@@ -23,7 +32,7 @@
     "quote_time_case": "In twenty minutes",
     "quote_last": " the ground was noticeably white.",
     "title": "The Silver Chair",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   }
 ]

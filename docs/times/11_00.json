@@ -46,15 +46,6 @@
   },
   {
     "time": "11:00",
-    "quote_first": "An ending, then. November 11, 1991, at eleven o’clock in the morning, ",
-    "quote_time_case": "the eleventh hour",
-    "quote_last": " of the eleventh month. It’s a Monday.",
-    "title": "The Robber Bride",
-    "author": "Margaret Atwood",
-    "sfw": "yes"
-  },
-  {
-    "time": "11:00",
     "quote_first": "An ending, then. November 11, 1991, at ",
     "quote_time_case": "eleven o’clock in the morning",
     "quote_last": ", the eleventh hour of the eleventh month. It’s a Monday.",
@@ -109,7 +100,7 @@
   },
   {
     "time": "11:00",
-    "quote_first": "It happened the Wednesday morning of my second week, when I was in the library making some Xeroxes for Dr Roland before my ",
+    "quote_first": "It happened the Wednesday morning of my second week, when I was in the library making some Xeroxes for Dr. Roland before my ",
     "quote_time_case": "eleven o’clock",
     "quote_last": " class.",
     "title": "The Secret History",
@@ -365,7 +356,7 @@
     "quote_time_case": "eleven",
     "quote_last": ", and asked where the eleven-five started from. Of course nobody knew; nobody at Waterloo ever does know where a train is going to start from, or where a train when it does start is going to, or anything about it.",
     "title": "Three Men in a Boat",
-    "author": "Jerome K Jerome",
+    "author": "Jerome K. Jerome",
     "sfw": "yes"
   },
   {

@@ -1,6 +1,15 @@
 [
   {
     "time": "09:15",
+    "quote_first": "It was only ",
+    "quote_time_case": "9:15",
+    "quote_last": " in the morning but already an early mist had cleared and the sky, almost cloudless, was brightening to an opaque whiteness with glimpses of soft clear blue.",
+    "title": "Original Sin",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:15",
     "quote_first": "The breakfast crowd at the Sunspot is clearing out. Soon the woman in charge, no longer sleepy-eyed, will take in the signboard with the breakfast specials and replace it with the one for the lunch specials.<br>",
     "quote_time_case": "Quarter past nine",
     "quote_last": " and the smoke billowing above the courthouse seems to be thinning. Billy is starting to wonder if there’s been a glitch.",

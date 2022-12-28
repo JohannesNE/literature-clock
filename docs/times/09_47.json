@@ -19,10 +19,10 @@
   },
   {
     "time": "09:47",
-    "quote_first": "Monday February 6th. ",
-    "quote_time_case": "9.47am.",
+    "quote_first": "",
+    "quote_time_case": "9:47 a.m.",
     "quote_last": " Or gone to Las Vegas and got married.",
-    "title": "Bridget Jones Diary",
+    "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
     "sfw": "yes"
   },
@@ -37,9 +37,9 @@
   },
   {
     "time": "09:47",
-    "quote_first": "“",
+    "quote_first": "",
     "quote_time_case": "9:47 a.m.",
-    "quote_last": " (35 minutes captive)<br/>1 lighter, 3 bottles of vodka, 1 pair of scissors, no plan.”",
+    "quote_last": " (35 minutes captive)<br/>1 lighter, 3 bottles of vodka, 1 pair of scissors, no plan.",
     "title": "The Girls I've Been",
     "author": "Tess Sharpe",
     "sfw": "yes"
@@ -51,6 +51,15 @@
     "quote_last": " the next morning, the Tamarack County Sheriff’s Department received a call. Cork and McDougal were the first to arrive on the scene.",
     "title": "Corpus Delicti",
     "author": "William Kent Krueger",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:47",
+    "quote_first": "For Hunter, who was trained to note times exactly, the final emergency started at ",
+    "quote_time_case": "thirteen minutes to ten",
+    "quote_last": ".",
+    "title": "Elegy for a Revolutionary",
+    "author": "C.J. Driver",
     "sfw": "yes"
   }
 ]

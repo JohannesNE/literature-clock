@@ -1,6 +1,15 @@
 [
   {
     "time": "12:59",
+    "quote_first": "We need the Holy Spirit. It’s almost Advent. We await. Please help. Amen. <br/> Stephen checked the time. It was ",
+    "quote_time_case": "12:59 PM",
+    "quote_last": ".",
+    "title": "An Advent for Religious Liberty",
+    "author": "Ray Keating",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:59",
     "quote_first": "",
     "quote_time_case": "12:59 P.M.",
     "quote_last": "<br>After missing both her morning workout and her first lunch, Braque felt her blood sugar falling off a goddamn cliff, and she could smell the turkey grilling even half a block from the Stucco Palace.",
@@ -11,7 +20,7 @@
   {
     "time": "12:59",
     "quote_first": "And I had been looking at my watch since the train had started at ",
-    "quote_time_case": "12.59pm",
+    "quote_time_case": "12.59 p.m.",
     "quote_last": "",
     "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",

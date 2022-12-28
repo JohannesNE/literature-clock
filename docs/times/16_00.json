@@ -1,6 +1,15 @@
 [
   {
     "time": "16:00",
+    "quote_first": "At ",
+    "quote_time_case": "four",
+    "quote_last": " you can go into the greenhouse and get two dozen daffodils to remind us of spring, that there is a spring.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "16:00",
     "quote_first": "It was ",
     "quote_time_case": "four o’clock",
     "quote_last": ", and they had another hour of daylight left before it would be time to quit. Charlie wanted to shoot his father’s gun as promised, though not at a duck, but he didn’t know if he dared ask.",
@@ -338,7 +347,7 @@
     "quote_time_case": "struck four",
     "quote_last": ". Discarnate voices called from the trumpet mouths.",
     "title": "Brave New World",
-    "author": "Aldous Huxley",
+    "author": "Aldous Leonard Huxley",
     "sfw": "yes"
   },
   {

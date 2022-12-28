@@ -1,6 +1,15 @@
 [
   {
     "time": "07:45",
+    "quote_first": "“This morning I took the launch out for forty minutes or so to test the engine. She’s been giving a bit of trouble. That took from ",
+    "quote_time_case": "seven-forty-five",
+    "quote_last": " until twenty past eight, near enough.”",
+    "title": "The Lighthouse",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "07:45",
     "quote_first": "Tony marks papers until ",
     "quote_time_case": "quarter to eight",
     "quote_last": ". Sunlight floods the room, made golden by the yellow leaves outside; a jet flies over; the garbage truck approaches along the street, clanking like a tank.",
@@ -23,7 +32,7 @@
     "quote_time_case": "fifteen minutes to eight",
     "quote_last": ".",
     "title": "War and Peace",
-    "author": "Leo Tostoy",
+    "author": "Leo Tolstoy",
     "sfw": "yes"
   },
   {
@@ -31,7 +40,7 @@
     "quote_first": "Mr. Green left for work at a ",
     "quote_time_case": "quarter to eight",
     "quote_last": ", as he did every morning. He walked down his front steps carrying his empty-looking leatherette briefcase with the noisy silver clasps, opened his car door, and ducked his head to climb into the driver’s seat.",
-    "title": "A Crime in The Neighborhood",
+    "title": "A Crime in the Neighborhood",
     "author": "Suzanne Berne",
     "sfw": "yes"
   },

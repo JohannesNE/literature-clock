@@ -1,6 +1,24 @@
 [
   {
     "time": "16:30",
+    "quote_first": "At ",
+    "quote_time_case": "4:30",
+    "quote_last": " Gunther came back to House Berg with his arms full of yellow daffodils. Frau Julia was Frau Julia again, and she received both him and the daffodils with open arms.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "16:30",
+    "quote_first": "The local police wouldn’t relish being called out at ",
+    "quote_time_case": "4:30",
+    "quote_last": " on Christmas Eve, and if this was some kind of hoax he preferred not to be an active participant.",
+    "title": "The Mistletoe Murder",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "16:30",
     "quote_first": "“I won’t go in,” she says. “I’ll meet you on the steps at ",
     "quote_time_case": "four-thirty",
     "quote_last": ". We can take the girls to Murray’s for a sundae or something.”<br>He seems relieved. “Right,” he says.<br>“Tell the children to enjoy themselves.”",
@@ -42,15 +60,6 @@
     "quote_last": " by stimulin in the airflow, then yellow-up in our dormroom. After a minute in the hygiener and steamer, we put on fresh uniforms before filing into the restaurant.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
-  },
-  {
-    "time": "16:30",
-    "quote_first": "It was after ",
-    "quote_time_case": "four-thirty",
-    "quote_last": " when they arrived at the old Red Bull Playhouse in upper St. John Street, and the performance had been under way for more than an hour. The theatre was hot and stuffy, almost humid, and it smelt strongly of sweat and unwashed bodies and powerful perfumes.",
-    "title": "Forever Amber",
-    "author": "Kathleen Windsor",
     "sfw": "yes"
   },
   {

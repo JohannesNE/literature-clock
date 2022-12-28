@@ -1,6 +1,15 @@
 [
   {
     "time": "19:45",
+    "quote_first": "“I imagine so. He died at night, or he was last seen alive by Grace Willson at ",
+    "quote_time_case": "7:45 p.m.",
+    "quote_last": " when he heard her confession. I suppose he died of boredom.”",
+    "title": "The Black Tower",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:45",
     "quote_first": "At ",
     "quote_time_case": "quarter to eight in the evening",
     "quote_last": ", Emmett was sitting in a run-down saloon at the edge of Manhattan with a glass of beer and a photograph of Harrison Hewett on the bar in front of him.",
@@ -32,7 +41,7 @@
     "quote_time_case": "fifteen minutes to eight",
     "quote_last": ".",
     "title": "War and Peace",
-    "author": "Leo Tostoy",
+    "author": "Leo Tolstoy",
     "sfw": "yes"
   },
   {

@@ -1,6 +1,24 @@
 [
   {
     "time": "00:00",
+    "quote_first": "Ren said, “If you go to the football field at ",
+    "quote_time_case": "midnight",
+    "quote_last": " on Halloween and say his name three times, his ghost is supposed to appear.”",
+    "title": "Copper River",
+    "author": "William Kent Krueger",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "“You, Willi, my friend,” said Pastor Fritz softly, “you who sit in ",
+    "quote_time_case": "midnight",
+    "quote_last": " darkness at midday, is this Jesus Christ a horn of salvation, a light in your darkness?”",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
     "quote_first": "You take a black cat—isn’t that it?—that does not have even one white hair (you know this), and you bind his four paws, and then you take him at ",
     "quote_time_case": "midnight",
     "quote_last": " to a crossroads and you cry out in a loud voice:",
@@ -14,7 +32,7 @@
     "quote_time_case": "midnight",
     "quote_last": ", to receive you.",
     "title": "The Horse and His Boy",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {
@@ -23,7 +41,7 @@
     "quote_time_case": "midnight",
     "quote_last": " escape she forgot her sleepiness.",
     "title": "The Silver Chair",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {

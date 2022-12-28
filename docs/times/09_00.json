@@ -1,6 +1,15 @@
 [
   {
     "time": "09:00",
+    "quote_first": "No trace of Inge was found that day or night. For some the search went on all night long. Then, about ",
+    "quote_time_case": "nine",
+    "quote_last": " the next morning, the bells in the belfry of Zion Church began to ring wildly.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:00",
     "quote_first": "At ",
     "quote_time_case": "nine o’clock",
     "quote_last": " the parsonage buggy carried them south on the highway toward Ravelunda. Fridfeldt felt more at home north of the church hamlet. There the revival had been more evident. Down here at Vänneberga it had one of its last outposts. Beyond it lay Sörbygden where the spiritual life was of another type. There one could both smoke and confess the Savior; there the doctrine of total sinful depravity was preached, and it was said whisky might be found also among the awakened.",
@@ -66,7 +75,7 @@
     "time": "09:00",
     "quote_first": "He’d woken up at ",
     "quote_time_case": "nine",
-    "quote_last": ", worked for a while in his room, and then said he felt sleepy. He went to the kitchen, made some coffee, and drank it. But the coffee didn’t help. “I think I’ll take a nap,” he said. “I hear a buzzing sound in the back of my head.” Those were his last words. He curled up in bed, went to sleep, and never woke up again.",
+    "quote_last": ", worked for a while in his room, and then said he felt sleepy. He went to the kitchen, made some coffee, and drank it. But the coffee didn’t help. <br/> “I think I’ll take a nap,” he said. “I hear a buzzing sound in the back of my head.” Those were his last words. He curled up in bed, went to sleep, and never woke up again.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
     "sfw": "yes"
@@ -121,15 +130,6 @@
     "quote_first": "“Don’t give it another thought, old sport.” The familiar expression held no more familiarity than the hand which reassuringly brushed my shoulder. “And don’t forget we’re going up in the hydroplane tomorrow morning, at ",
     "quote_time_case": "nine",
     "quote_last": ".”",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
-  },
-  {
-    "time": "09:00",
-    "quote_first": "At ",
-    "quote_time_case": "nine o’clock",
-    "quote_last": ", one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn. It was the first time he had called on me, though I had gone to two of his parties, mounted in his hydroplane, and, at his urgent invitation, made frequent use of his beach.",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -255,7 +255,7 @@
     "time": "09:00",
     "quote_first": "At ",
     "quote_time_case": "nine o’clock",
-    "quote_last": ", one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn",
+    "quote_last": ", one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -320,7 +320,16 @@
     "quote_time_case": "nine",
     "quote_last": ".",
     "title": "The Waste Land",
-    "author": "T S Eliot",
+    "author": "T.S. Eliot",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:00",
+    "quote_first": "",
+    "quote_time_case": "Nine o’clock",
+    "quote_last": " young residents wearing leather elbows talk to Acutes for fifty minutes about what they did when they were little boys. The Big Nurse is suspicious of the crew-cut looks of these residents, and that fifty minutes they are on the ward is a tough time for her.",
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "author": "Ken Kesey",
     "sfw": "yes"
   }
 ]

@@ -84,7 +84,7 @@
     "time": "20:00",
     "quote_first": "It was nearly ",
     "quote_time_case": "8:00 p.m.",
-    "quote_last": ", and Sully was glad to see the lights still on. With no Internet  service of his own, and the computers at the Gazette being out of the question (he didn’t want anyone to know what he was doing, least of all reporters), this was his best and only option for doing research; a place where he once wrote grade-school book reports.",
+    "quote_last": ", and Sully was glad to see the lights still on. With no Internet service of his own, and the computers at the Gazette being out of the question (he didn’t want anyone to know what he was doing, least of all reporters), this was his best and only option for doing research; a place where he once wrote grade-school book reports.",
     "title": "The First Phone Call From Heaven",
     "author": "Mitch Albom",
     "sfw": "yes"
@@ -145,9 +145,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“I trace the words, ‘I’ll arrive to collect you for drinks ",
-    "quote_time_case": "at eight",
-    "quote_last": " on Saturday.’”",
+    "quote_first": "I trace the words, “I’ll arrive to collect you for drinks at ",
+    "quote_time_case": "eight",
+    "quote_last": " on Saturday.”",
     "title": "Tell-All",
     "author": "Chuck Palahniuk",
     "sfw": "yes"
@@ -208,10 +208,10 @@
   },
   {
     "time": "20:00",
-    "quote_first": "That day he forgot to go to dinner; he noticed the fact ",
-    "quote_time_case": "at eight",
-    "quote_last": " in the evening, and as it was too late to go to the Rue St. Jaques, he ate a lump of bread.",
-    "title": "Les Miserables",
+    "quote_first": "That day he forgot to go to dinner; he noticed the fact at ",
+    "quote_time_case": "eight in the evening",
+    "quote_last": ", and as it was too late to go to the Rue St. Jaques, he ate a lump of bread.",
+    "title": "Les Misérables",
     "author": "Victor Hugo",
     "sfw": "yes"
   },

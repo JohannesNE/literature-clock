@@ -1,6 +1,33 @@
 [
   {
     "time": "19:20",
+    "quote_first": "Two million dollars had been delivered to Lindstrom’s home on Grace Cove at ",
+    "quote_time_case": "seven-twenty P.M.",
+    "quote_last": " It had come in large bundles of hundred-dollar bills, packed in two large metal cases, and accompanied by Lucky Knudsen and three additional state troopers.",
+    "title": "Purgatory Ridge",
+    "author": "William Kent Krueger",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:20",
+    "quote_first": "What is interesting and important is that the caller had some difficulty getting through, either genuine or contrived. As a result we know the operator reported the time of the call: ",
+    "quote_time_case": "twenty minutes past seven",
+    "quote_last": ".",
+    "title": "The Murder Room",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:20",
+    "quote_first": "The next Friday he watched to see if they would come again. They did, and at the same times, the woman first, at ",
+    "quote_time_case": "twenty minutes past seven",
+    "quote_last": ", the boy forty minutes later.",
+    "title": "The Mistletoe Murder",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:20",
     "quote_first": "“I’d love to, but if I went horizontal, it would be all over. I have to stay awake for Sean’s call.” Grant checked the clock, which told him it was ",
     "quote_time_case": "7:20 PM",
     "quote_last": ". “He’s actually a bit late.”",
@@ -22,7 +49,7 @@
     "quote_first": "The clock read ",
     "quote_time_case": "seven-twenty",
     "quote_last": ", but I felt no hunger. You’d think I might have wanted to eat something after the day I’d had, but I cringed at the very thought of food. I was short of sleep, my gut was slashed, and my apartment was gutted. There was no room for appetite.",
-    "title": "Hard Boiled Wonderland and the End of the World",
+    "title": "Hard-Boiled Wonderland and the End of the World",
     "author": "Haruki Murakami",
     "sfw": "yes"
   },
@@ -32,7 +59,7 @@
     "quote_time_case": "7:20",
     "quote_last": ".",
     "title": "Parkinson's Law or the Pursuit of Progress",
-    "author": "C Northcote Parkinson",
+    "author": "C. Northcote Parkinson",
     "sfw": "yes"
   }
 ]

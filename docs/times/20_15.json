@@ -1,9 +1,18 @@
 [
   {
     "time": "20:15",
+    "quote_first": "By ",
+    "quote_time_case": "8.15",
+    "quote_last": " on Sunday night Theresa had finished the last of her long-deferred homework and thought she could safely put away her arithmetic book and tell her father she was tired and ready for bed.",
+    "title": "Devices and Desires",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "20:15",
     "quote_first": "",
     "quote_time_case": "8:15 p.m.",
-    "quote_last": " Cannot locate operating instructions (for video)",
+    "quote_last": " Humph. Cannot locate operating instructions.",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
     "sfw": "yes"

@@ -1,8 +1,17 @@
 [
   {
     "time": "09:17",
+    "quote_first": "The task was allocated to the Naval tug. Not only was she a more suitable vessel than a destroyer for working close inshore among rocks, she also happened to be much nearer. She sailed from Lochmaddy at ",
+    "quote_time_case": "09.17 hours",
+    "quote_last": ".",
+    "title": "Atlantic Fury",
+    "author": "Hammond Innes",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:17",
     "quote_first": "",
-    "quote_time_case": "9.17am",
+    "quote_time_case": "9:17 am",
     "quote_last": " sat in bed, staring out window.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",

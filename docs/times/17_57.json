@@ -1,11 +1,20 @@
 [
   {
     "time": "17:57",
-    "quote_first": "When he arrived it was ",
-    "quote_time_case": "nearly six o’clock",
-    "quote_last": ", and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.",
-    "title": "Dracula",
-    "author": "Bram Stoker",
+    "quote_first": "Hugo Carmody had done this, with the result that by ",
+    "quote_time_case": "three minutes to six",
+    "quote_last": " he was feeling as if he had been marooned among roses since the beginning of summer.",
+    "title": "Summer Lightning",
+    "author": "P.G. Wodehouse",
+    "sfw": "yes"
+  },
+  {
+    "time": "17:57",
+    "quote_first": "He would make his way by charm, the charm of voice, of jewel-like language, above all by the intellectual charm of new, moving, luminous ideas. At ",
+    "quote_time_case": "three minutes to six",
+    "quote_last": " the doctor closed the book and waited.",
+    "title": "The Drunkard",
+    "author": "Guy Thorne",
     "sfw": "yes"
   }
 ]

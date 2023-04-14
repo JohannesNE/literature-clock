@@ -1,6 +1,15 @@
 [
   {
     "time": "02:15",
+    "quote_first": "He scrolled through [the emails], mentally dismissing the vast majority as low priority, but one in particular triggered his curiosity: it was from Art Bullock, sent at ",
+    "quote_time_case": "2:15 a.m.",
+    "quote_last": " The subject line read: URGENT FOR FRIDAY MORNING.",
+    "title": "The Ambition",
+    "author": "Lee Strobel",
+    "sfw": "yes"
+  },
+  {
+    "time": "02:15",
     "quote_first": "It was the middle of the night when the phone rang. He opened his eyes to find the clock reading ",
     "quote_time_case": "2:15",
     "quote_last": ". At first he was too groggy to grasp why a bell might be ringing nearby, but he shook his head and, almost unconsciously, picked up the receiver and held it to his ear.",
@@ -11,7 +20,7 @@
   {
     "time": "02:15",
     "quote_first": "At ",
-    "quote_time_case": "2.15am",
+    "quote_time_case": "2.15 am",
     "quote_last": " a policeman observed the place in darkness, but with the stranger’s motor still at the curb.",
     "title": "The Shadow Out of Time",
     "author": "H.P. Lovecraft",

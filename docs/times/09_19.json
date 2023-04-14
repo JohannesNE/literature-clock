@@ -1,8 +1,17 @@
 [
   {
     "time": "09:19",
+    "quote_first": "According to this, it is high-water on the full and charge at ",
+    "quote_time_case": "nineteen minutes past nine in the morning",
+    "quote_last": ": I observed the flood to come from southward, though at Restoration Island, I thought it came from the northward.",
+    "title": "Mutiny on the Bounty",
+    "author": "Captain William Bligh",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:19",
     "quote_first": "",
-    "quote_time_case": "9.19am",
+    "quote_time_case": "9:19 am",
     "quote_last": " sat in bed, staring out window.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",

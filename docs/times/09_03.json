@@ -2,10 +2,19 @@
   {
     "time": "09:03",
     "quote_first": "",
-    "quote_time_case": "9:03am",
+    "quote_time_case": "9:03 am",
     "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:03",
+    "quote_first": "The greengrocer arrived on his bicycle at ",
+    "quote_time_case": "three minutes past nine",
+    "quote_last": ", felt in the pocket of his close-fitting denim jacket, and unlocked the door. But his back was firmly toward the street and it was impossible for Scase to get a glance at the keys.",
+    "title": "Innocent Blood",
+    "author": "P.D. James",
     "sfw": "yes"
   },
   {

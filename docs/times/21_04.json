@@ -1,6 +1,15 @@
 [
   {
     "time": "21:04",
+    "quote_first": "In the light of a narrow-beam lantern, Pierce checked his watch. It was ",
+    "quote_time_case": "9:04",
+    "quote_last": ". That gave them an hour to find the key before Barlow provided his diversion to cover their escape.",
+    "title": "The Great Train Robbery",
+    "author": "Michael Crichton",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:04",
     "quote_first": "",
     "quote_time_case": "9:04 P.M.",
     "quote_last": "<br/>“How does an ETA of 0200 hours sound to you?” Dimitri Spiros was using an unsecured radio, but he had no choice. “That’ll give us about twenty-nine hours. Enough time to get everything together.”",
@@ -11,7 +20,7 @@
   {
     "time": "21:04",
     "quote_first": "At ",
-    "quote_time_case": "9.04pm",
+    "quote_time_case": "9.04 pm",
     "quote_last": " trilobites swim onto the scene, followed more or less immediately by the shapely creatures of the Burgess Shale.",
     "title": "A Short History of Nearly Everything",
     "author": "Bill Bryson",

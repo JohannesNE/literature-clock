@@ -7,5 +7,23 @@
     "title": "Ulysses",
     "author": "James Joyce",
     "sfw": "yes"
+  },
+  {
+    "time": "13:01",
+    "quote_first": "At ",
+    "quote_time_case": "about one o’clock",
+    "quote_last": " the overseer arrived and told them he had no jobs for them.",
+    "title": "A Clergyman's Daughter",
+    "author": "George Orwell",
+    "sfw": "yes"
+  },
+  {
+    "time": "13:01",
+    "quote_first": "It was ",
+    "quote_time_case": "a little after one o’clock",
+    "quote_last": " when I got there, time for lunch, so I had it. The food was awful. But it would go on the expense account, and after I’d eaten I got out my notebook and put it down. Lunch $1.50. Taxi $1.00.",
+    "title": "The Big Clock",
+    "author": "Kenneth Fearing",
+    "sfw": "yes"
   }
 ]

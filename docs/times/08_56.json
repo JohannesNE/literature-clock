@@ -1,11 +1,29 @@
 [
   {
     "time": "08:56",
+    "quote_first": "I filled her in on the weekend’s events, and she paled when I told her about the gunshot. “Thank the Lord you weren’t hurt.”<br/>We discussed the incident a few minutes longer, and then I noticed the time. ",
+    "quote_time_case": "Four minutes before nine",
+    "quote_last": ".",
+    "title": "No Cats Allowed",
+    "author": "Miranda James",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:56",
     "quote_first": "It was ",
     "quote_time_case": "nearly nine o’clock",
     "quote_last": " and the sun was fiercer every minute.",
     "title": "Burmese Days",
     "author": "George Orwell",
+    "sfw": "yes"
+  },
+  {
+    "time": "08:56",
+    "quote_first": "It was Mrs. Poppets that woke me up next morning. She said: “Do you know that it’s ",
+    "quote_time_case": "nearly nine o’clock",
+    "quote_last": ", sir?”<br/> “Nine o’ what?” I cried, starting up.<br/> “Nine o’clock,” she replied, through the keyhole. “I thought you was a- oversleeping yourselves.”",
+    "title": "Three Men in a Boat",
+    "author": "Jerome K. Jerome",
     "sfw": "yes"
   }
 ]

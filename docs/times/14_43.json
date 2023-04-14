@@ -1,8 +1,26 @@
 [
   {
     "time": "14:43",
+    "quote_first": "“Right! Let’s get on with it. You know what we want, a full account of where you were, what you were doing, and whom you saw between one o’clock when lunch was over and ",
+    "quote_time_case": "two-forty-three",
+    "quote_last": " when Miss Gray found the body.”",
+    "title": "The Skull Beneath the Skin",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:43",
+    "quote_first": "",
+    "quote_time_case": "2:43 P.M.",
+    "quote_last": "<br/>Vance watched the control room freeze as the body slumped to the floor, and he felt his fingers involuntarily bunch into a fist. The bastards were killing hostages already. They definitely were terrorists, right out of the textbook. Kill one, and frighten a thousand. Except they might not stop with one. He foresaw a long day. And night.",
+    "title": "Project Cyclops",
+    "author": "Thomas Hoover",
+    "sfw": "no"
+  },
+  {
+    "time": "14:43",
     "quote_first": "Jacobson died at ",
-    "quote_time_case": "2.43pm",
+    "quote_time_case": "2.43 pm",
     "quote_last": " the next day after slashing his wrists with a razor blade in the second cubicle from the left in the men’s washroom on the third floor.",
     "title": "Now: Zero",
     "author": "J.G. Ballard",
@@ -14,7 +32,7 @@
     "quote_time_case": "seventeen minutes to three",
     "quote_last": ". Just about the time he had planned. She should be here soon if she had left Miss Lloyd’s a little after two.",
     "title": "Silverthorns",
-    "author": "Mrs. Molesworth",
+    "author": "Mary Louisa Molesworth",
     "sfw": "yes"
   }
 ]

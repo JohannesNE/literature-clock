@@ -1,6 +1,15 @@
 [
   {
     "time": "09:11",
+    "quote_first": "These new locks yielded easily to Agar’s attentions. At ",
+    "quote_time_case": "9:11",
+    "quote_last": " they swung the grating door open and entered the wine cellar proper. They immediately began the search for the key.",
+    "title": "The Great Train Robbery",
+    "author": "Micheal Crichton",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:11",
     "quote_first": "“What train can I get?”<br>“There’s one about ",
     "quote_time_case": "9:11",
     "quote_last": " if you really must go.”",
@@ -11,8 +20,8 @@
   {
     "time": "09:11",
     "quote_first": "",
-    "quote_time_case": "9:11am",
-    "quote_last": " lay in bed, staring at wall",
+    "quote_time_case": "9:11 am",
+    "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
     "sfw": "yes"

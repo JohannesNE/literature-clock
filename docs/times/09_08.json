@@ -1,8 +1,26 @@
 [
   {
     "time": "09:08",
+    "quote_first": "“What time was it?” asked Edmund. <br/> “",
+    "quote_time_case": "Between nine and ten of the clock",
+    "quote_last": ",” said Trumpkin. <br/> “Just when we were at the railway station!” said all the children, and looked at one another with shining eyes.",
+    "title": "Prince Caspian",
+    "author": "C.S. Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:08",
+    "quote_first": "He stopped, dried the sweat from his forehead, and took a minute to look for the sun. The day was completely gray and without shade. It must have been ",
+    "quote_time_case": "between nine and ten",
+    "quote_last": ". The shooting continued relentlessly up ahead. He trampled on.",
+    "title": "Faith Alone: The Heart of Everything",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:08",
     "quote_first": "",
-    "quote_time_case": "9.08am",
+    "quote_time_case": "9:08 am",
     "quote_last": " rolled over onto left side.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",

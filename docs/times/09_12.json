@@ -1,8 +1,17 @@
 [
   {
     "time": "09:12",
+    "quote_first": "On a Wednesday morning, then, at ",
+    "quote_time_case": "twelve minutes past nine",
+    "quote_last": " EDT, the Pleiades hung poised, high over the Chancellery of Solar System Enterprises, Incorporated.",
+    "title": "The Galaxy Primes",
+    "author": "E.E. Smith",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:12",
     "quote_first": "",
-    "quote_time_case": "9.12am",
+    "quote_time_case": "9:12 am",
     "quote_last": " lay in bed, staring at wall.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",

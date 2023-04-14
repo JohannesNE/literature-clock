@@ -1,8 +1,17 @@
 [
   {
     "time": "11:40",
+    "quote_first": "There was a group of about twenty people waiting for the ",
+    "quote_time_case": "11:40",
+    "quote_last": " train, and the murderess and her daughter walked some fifty yards farther down the platform and stood alone, not speaking.",
+    "title": "Innocent Blood",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:40",
     "quote_first": "But the door was locked, and the window heavily barred with iron rods. He sat down again, and drew his journal from his pocket. On the line where these words were written, “21st December, Saturday, Liverpool,” he added, “80th day, ",
-    "quote_time_case": "11.40am",
+    "quote_time_case": "11.40 am",
     "quote_last": ",” and waited.",
     "title": "Around the World in Eighty Days",
     "author": "Jules Verne",

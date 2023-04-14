@@ -1,8 +1,17 @@
 [
   {
     "time": "09:18",
+    "quote_first": "I’ve been fishin’ this here “hole” for something like forty years, off and on, and I’ve found out that these here sunfish get through breakfast at exactly ",
+    "quote_time_case": "eighteen minutes past nine",
+    "quote_last": ".",
+    "title": "Quill's Window",
+    "author": "George Barr McCutcheon",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:18",
     "quote_first": "",
-    "quote_time_case": "9.18am",
+    "quote_time_case": "9:18 am",
     "quote_last": " sat in bed, staring out window.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",

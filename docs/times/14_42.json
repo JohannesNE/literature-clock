@@ -1,11 +1,38 @@
 [
   {
     "time": "14:42",
+    "quote_first": "It was ",
+    "quote_time_case": "two-forty-two",
+    "quote_last": ". Clarissa has asked to be called at two-forty-five but a few minutes could hardly matter. She knocked, quietly at first, and then more loudly. There was no reply.",
+    "title": "The Skull Beneath the Skin",
+    "author": "P.D. James",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:42",
+    "quote_first": "At ",
+    "quote_time_case": "14:42",
+    "quote_last": " precisely I saw a plasm tether descend from the sky and pause outside the apartment as if it contained a sensorium that was doing some surveilling of its own.",
+    "title": "City on Fire",
+    "author": "Walter Jon Williams",
+    "sfw": "yes"
+  },
+  {
+    "time": "14:42",
     "quote_first": "",
     "quote_time_case": "2:42 P.M.",
     "quote_last": "<br/>“No!” Cally screamed, but it was already too late. Before Chris Schneider even saw it coming, Ramirez shot him precisely between the eyes, neatly and without fanfare.",
     "title": "Project Cyclops",
     "author": "Thomas Hoover",
     "sfw": "no"
+  },
+  {
+    "time": "14:42",
+    "quote_first": "The graphic film is already wrinkling: the eagle has a broken wing; the hour hand is kinked. It is ",
+    "quote_time_case": "eighteen minutes to three",
+    "quote_last": ".",
+    "title": "Fairyland",
+    "author": "Paul J. McAuley",
+    "sfw": "yes"
   }
 ]

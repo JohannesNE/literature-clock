@@ -1,9 +1,18 @@
 [
   {
     "time": "09:06",
+    "quote_first": "Secretly, it’s only ",
+    "quote_time_case": "six minutes past nine",
+    "quote_last": ". I set my huge clock (oversize so that I can see without my contacts in) nine minutes fast in the hope that somehow this deception will make me on time.",
+    "title": "Milkrun",
+    "author": "Sarah Miynowski",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:06",
     "quote_first": "",
-    "quote_time_case": "9:06am",
-    "quote_last": " lay in bed, staring at ceiling",
+    "quote_time_case": "9:06 am",
+    "quote_last": " lay in bed, staring at ceiling.",
     "title": "A Fraction of the Whole",
     "author": "Steve Toltz",
     "sfw": "yes"

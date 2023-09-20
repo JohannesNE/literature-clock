@@ -1,6 +1,24 @@
 [
   {
     "time": "18:12",
+    "quote_first": "Bill Russell left the office at ",
+    "quote_time_case": "6:12",
+    "quote_last": " that evening, and never entered the building again.",
+    "title": "Sons of Fortune",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "18:12",
+    "quote_first": "He checked his watch: ",
+    "quote_time_case": "6:12 p.m.",
+    "quote_last": " He left the dining room and went downstairs to the wine cellar. A single bulb lit a room that had once stored filing cabinets full of archives. Since Giles’s arrival, they had been replaced by wine racks.",
+    "title": "The Sins of the Father",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "18:12",
     "quote_first": "Wednesday ",
     "quote_time_case": "6:12 P.M.",
     "quote_last": "<br/>The dusk was settling majestically over Tokyo, after a rare smogless day. The view was particularly inspiring from the fifty-fifth-floor penthouse of the granite-clad Mino Industries building.",

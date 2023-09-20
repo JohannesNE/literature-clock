@@ -1,10 +1,19 @@
 [
   {
     "time": "12:26",
+    "quote_first": "",
+    "quote_time_case": "12:26 P.M.",
+    "quote_last": "<br/>“I, Florentyna Kane, do solemnly swear …”<br/>“I, Florentyna Kane, do solemnly swear …”",
+    "title": "Shall We Tell the President?",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:26",
     "quote_first": "12.25 pm. ",
     "quote_time_case": "26",
-    "quote_last": ". 27. Every time Billy saved a shot he looked heartbroken",
-    "title": "A Kestrel For a Knave",
+    "quote_last": ". 27. Every time Billy saved a shot he looked heartbroken.",
+    "title": "A Kestrel for a Knave",
     "author": "Barry Hines",
     "sfw": "yes"
   }

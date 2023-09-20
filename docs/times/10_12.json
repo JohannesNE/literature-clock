@@ -1,6 +1,24 @@
 [
   {
     "time": "10:12",
+    "quote_first": "This disappeared and the watch showed ",
+    "quote_time_case": "10:12",
+    "quote_last": ". The President rehearsed the opening line of her speech for the last time. She’d gone over the final draft with Edward that morning, and she was satisfied with it.",
+    "title": "Shall We Tell the President?",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:12",
+    "quote_first": "George checked his watch: ",
+    "quote_time_case": "10:12",
+    "quote_last": ". Although their progress had been slower than he had anticipated, he still believed that if they could reach the summit by midday, they would have enough time to return to the North Col before sunset.",
+    "title": "Paths of Glory",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:12",
     "quote_first": "“I’ll take the coffee tray out,” I suggest humbly. As I pick it up I glance again at my watch. ",
     "quote_time_case": "Ten twelve",
     "quote_last": ". I wonder if they’ve started the meeting.",

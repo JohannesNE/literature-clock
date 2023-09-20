@@ -1,10 +1,19 @@
 [
   {
     "time": "12:35",
+    "quote_first": "“Unfortunately you missed the early morning plane for Rome. However, we managed to book you onto the ",
+    "quote_time_case": "twelve thirty-five",
+    "quote_last": " flight, and the airline has upgraded you to business class. A limousine will be waiting outside to take you back to the airport.”<br/>“Of course it will,” said Beth.<br/>“I beg your pardon, madam?”",
+    "title": "Hidden in Plain Sight",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:35",
     "quote_first": "As surely as Apthorpe was marked for early promotion, Trimmer was marked for ignominy. That morning he had appeared at the precise time stated in orders. Everyone else had been waiting five minutes and Colour Sergeant Cork called out the marker just as Trimmer appeared. So it was ",
     "quote_time_case": "twelve-thirty-five",
     "quote_last": " when they were dismissed.",
-    "title": "Men At Arms",
+    "title": "Men at Arms",
     "author": "Evelyn Waugh",
     "sfw": "yes"
   }

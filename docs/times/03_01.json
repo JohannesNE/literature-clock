@@ -1,6 +1,15 @@
 [
   {
     "time": "03:01",
+    "quote_first": "Yesterday, at ",
+    "quote_time_case": "around three in the morning",
+    "quote_last": ", I found my mother unresponsive on her bathroom floor. I’m a hero, they say, because I saved her from a lithium overdose. <br/> I’m not a hero. This is all my fault.",
+    "title": "Blink and We'll Miss It",
+    "author": "Ginny Kochis",
+    "sfw": "no"
+  },
+  {
+    "time": "03:01",
     "quote_first": "It was now ",
     "quote_time_case": "about three o’clock",
     "quote_last": " in the morning and Francis Macomber, who had been asleep a little while after he had stopped thinking about the lion, wakened and then slept again.",

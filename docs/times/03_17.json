@@ -1,6 +1,15 @@
 [
   {
     "time": "03:17",
+    "quote_first": "Hassan checked her watch – ",
+    "quote_time_case": "03.17",
+    "quote_last": " – confident that the only person on board still awake would be the young man on the bridge. Rook to bishop’s four. He removed a knight from the board.",
+    "title": "Next in Line",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "03:17",
     "quote_first": "Timestamp says ",
     "quote_time_case": "3:17 a.m.",
     "quote_last": " A large block of text. Not a good sign of things to come.",
@@ -24,7 +33,7 @@
     "quote_last": " in the morning.",
     "title": "The Goldfinch",
     "author": "Donna Tartt",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "03:17",

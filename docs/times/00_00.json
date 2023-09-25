@@ -1,6 +1,33 @@
 [
   {
     "time": "00:00",
+    "quote_first": "While they were drinking at the fountain, church clocks began to strike ",
+    "quote_time_case": "midnight",
+    "quote_last": ". Missis said gladly, “Oh, Pongo, it’s tomorrow! Now we shall be with our puppies today!”",
+    "title": "The 101 Dalmatians",
+    "author": "Dodie Smith",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "At ",
+    "quote_time_case": "midnight",
+    "quote_last": " the entrances were thrown wide, and the rabble, surging in, occupied the quarters assigned to them, from which nothing less than an earthquake or an army with spears could have dislodged them. They dozed the night away on the benches, and breakfasted there; and there the close of the exercises found them, patient and sight-hungry as in the beginning.",
+    "title": "Ben-Hur",
+    "author": "Lew Wallace",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "“I thought you asleep,” he said, presently.<br/>“Sleep is for old people and little children, and I came out to look at my friends, the stars in the south—those now holding the curtains of ",
+    "quote_time_case": "midnight",
+    "quote_last": " over the Nile. But confess yourself surprised!”",
+    "title": "Ben-Hur",
+    "author": "Lew Wallace",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
     "quote_first": "Ren said, “If you go to the football field at ",
     "quote_time_case": "midnight",
     "quote_last": " on Halloween and say his name three times, his ghost is supposed to appear.”",
@@ -301,7 +328,7 @@
     "quote_first": "But, odder still - Big Ben had once again struck ",
     "quote_time_case": "midnight",
     "quote_last": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H’m.",
-    "title": "Nights At The Circus",
+    "title": "Nights at the Circus",
     "author": "Angela Carter",
     "sfw": "yes"
   },

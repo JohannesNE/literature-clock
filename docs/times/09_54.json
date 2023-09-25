@@ -1,11 +1,29 @@
 [
   {
     "time": "09:54",
+    "quote_first": "Danny walked quickly back past the hotel, checking every intersection until he finally saw the name Argyll Street carved in large letters on a stone slab above him. He checked his watch as he turned into the street: ",
+    "quote_time_case": "9:54",
+    "quote_last": ".",
+    "title": "A Prisoner of Birth",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:54",
     "quote_first": "",
     "quote_time_case": "9:54",
     "quote_last": " This is sheer torture. My arms have never ached so much in my entire life. The blankets weigh a ton, and the sheets won’t go straight and I have no idea how to do the wretched corners. How do chambermaids do it?",
     "title": "The Undomestic Goddess",
     "author": "Sophie Kinsella",
+    "sfw": "yes"
+  },
+  {
+    "time": "09:54",
+    "quote_first": "The car parked outside Barrington House at ",
+    "quote_time_case": "six minutes to ten",
+    "quote_last": ". By the time she stepped out of the lift on the fifth floor and walked down the corridor to the chairman’s office, it was two minutes to ten.",
+    "title": "The Sins of the Father",
+    "author": "Jeffrey Archer",
     "sfw": "yes"
   }
 ]

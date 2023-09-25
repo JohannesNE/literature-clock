@@ -1,11 +1,20 @@
 [
   {
     "time": "13:35",
+    "quote_first": "Fletcher checked his watch again. It was ",
+    "quote_time_case": "1:35 P.M.",
+    "quote_last": " He sighed and asked the receptionist if he could use the washroom.",
+    "title": "Sons of Fortune",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "13:35",
     "quote_first": "",
     "quote_time_case": "1:35 P.M.",
     "quote_last": "<br>Katelyn stood in the hallway, her hands on her hips, enjoying the hell out of the moment. “So I see how it is,” she said. “Your cousin can visit during finals week but my sister can’t.”",
     "title": "Kitchens of the Great Midwest",
     "author": "J. Ryan Stradal",
-    "sfw": "yes"
+    "sfw": "no"
   }
 ]

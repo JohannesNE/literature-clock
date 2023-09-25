@@ -1,10 +1,19 @@
 [
   {
     "time": "19:07",
+    "quote_first": "Qantas Flight 102 touched down at Melbourne Airport at ",
+    "quote_time_case": "seven minutes past seven",
+    "quote_last": ". Charlie was the first off the aircraft, running as fast as he could, but having to lug Cathy’s picture under one arm slowed him down and made it possible for several other passengers, who obviously had the same idea, to overtake him.",
+    "title": "As the Crow Flies",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:07",
     "quote_first": "She fell into unconsciousness and so remained two days and five hours, until Tuesday evening at ",
     "quote_time_case": "seven minutes past seven",
     "quote_last": ", when the release came. She was twenty-four years and five months old.",
-    "title": "Chapters from My Autobiography",
+    "title": "Chapters From My Autobiography",
     "author": "Mark Twain",
     "sfw": "yes"
   }

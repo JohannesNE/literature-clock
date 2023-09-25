@@ -1,11 +1,29 @@
 [
   {
     "time": "10:56",
+    "quote_first": "The second hand moved relentlessly—relentlessly towards ",
+    "quote_time_case": "10:56",
+    "quote_last": ". He busied himself with breakfast and the morning paper. The Post informed him that many buildings had caught fire during the night in one of the worst storms in Washington’s history, and the Lubber Run in Virginia had overflowed its banks, causing heavy property damage.",
+    "title": "Shall We Tell the President?",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:56",
     "quote_first": "“Here’s your clock, Katy,” he said. “I’ve got it fixed so that it strikes all right. Only you must be careful not to hit the stiker when you start the pendulum.”<br/>“Have you really?” said Katy. “Why, Dorry, you’re a genius! I’m ever so much obliged.”<br/>“It’s ",
     "quote_time_case": "four minutes to eleven",
     "quote_last": " now,” went on Dorry.",
     "title": "What Katy Did",
     "author": "Susan Coolidge",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:56",
+    "quote_first": "BOOTH WATSON KNEW IT WOULD be a question of careful timing if he hoped to pull it off. He’d have to keep one eye on the clock to make sure it was ",
+    "quote_time_case": "10.56",
+    "quote_last": " before he made his move.",
+    "title": "Next in Line",
+    "author": "Jeffrey Archer",
     "sfw": "yes"
   }
 ]

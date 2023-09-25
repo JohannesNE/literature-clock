@@ -1,6 +1,15 @@
 [
   {
     "time": "12:45",
+    "quote_first": "On Friday at ",
+    "quote_time_case": "12:45 P.M.",
+    "quote_last": ", David arrived at the Athenaeum, a massive white building on the corner of Pall Mall, overlooked by a statue of the Duke of York.",
+    "title": "Not a Penny More, Not a Penny Less",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:45",
     "quote_first": "That Sunday was a picture-book summer day in Maine: clear, bright, warm. At ",
     "quote_time_case": "a quarter to one",
     "quote_last": ", Ruth McCausland, dressed in a pretty blue summer frock, left her house for the last time.",

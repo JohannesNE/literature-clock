@@ -1,6 +1,15 @@
 [
   {
     "time": "22:12",
+    "quote_first": "The phone rang at ",
+    "quote_time_case": "twelve minutes past ten",
+    "quote_last": ". He grabbed the receiver, and immediately recognized the voice of the local party chairman. “Good evening, Peter.”",
+    "title": "Mightier Than the Sword",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "22:12",
     "quote_first": "Still unable to sleep, Tengo was sitting on the floor, listening to the Duke Ellington record at low volume, when the phone rang again. The hands on the wall clock were pointing to ",
     "quote_time_case": "10:12",
     "quote_last": ".",

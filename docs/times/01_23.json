@@ -1,6 +1,15 @@
 [
   {
     "time": "01:23",
+    "quote_first": "Croydon Central was declared at ",
+    "quote_time_case": "1:23 a.m.",
+    "quote_last": ", with a swing of 1.8 percent to the Conservatives.",
+    "title": "This Was a Man",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "01:23",
     "quote_first": "The clock marked ",
     "quote_time_case": "twenty-three minutes past one",
     "quote_last": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival.",

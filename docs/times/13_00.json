@@ -118,9 +118,9 @@
   },
   {
     "time": "13:00",
-    "quote_first": "“I think,” he said, with a triumphant smile, “that I may safely expect to find the person I seek in the dining-room, fair lady.”<br/>“There may be more than ",
-    "quote_time_case": "one",
-    "quote_last": ".”<br/>“Whoever is there, as the clock strikes one, will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.’”",
+    "quote_first": "“I think,” he said, with a triumphant smile, “that I may safely expect to find the person I seek in the dining-room, fair lady.”<br/>“There may be more than one.”<br/>“Whoever is there, as the clock strikes ",
+    "quote_time_case": "<time/>one<\/time>",
+    "quote_last": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.’”",
     "title": "The Scarlet Pimpernel",
     "author": "Baroness Orczy",
     "sfw": "yes"

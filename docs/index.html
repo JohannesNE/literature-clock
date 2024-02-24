@@ -8,16 +8,25 @@
 
         function init() {
             // This code runs only at page load
+            var queries = new URLSearchParams(window.location.search);
+            
 
+            if (queries.has('theme')) {
+                var query_theme =  queries.get('theme').toLowerCase();
+                if (query_theme === 'dark') {
+                    dark_theme();
+                } else {
+                    light_theme();
+                }
+            }
             // Try to guess theme preference
-            if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            else if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
                 dark_theme();
             } else {
                 light_theme();
             }
 
             // Check if sfw query parameter passed
-            var queries = new URLSearchParams(window.location.search);
             var sfw = queries.has('sfw') && ['yes', 'true', '1'].includes(queries.get('sfw').toLowerCase());
 
             if (sfw) {

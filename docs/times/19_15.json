@@ -1,6 +1,15 @@
 [
   {
     "time": "19:15",
+    "quote_first": "“Your holiness,” he called.<br/>“Well?”<br/>“The horses are here; it’s time for the evening service.”<br/>“What o’clock is it?”<br/>“A ",
+    "quote_time_case": "quarter past seven",
+    "quote_last": ".”",
+    "title": "The Bishop",
+    "author": "Anton Pavlovich Chekhov",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:15",
     "quote_first": "The raft drifted steadily north. “There must be a current.” The current was carrying them north, toward the hotel. He looked at his watch and was astonished to see it was ",
     "quote_time_case": "fifteen minutes past seven",
     "quote_last": ". Only fifteen minutes had passed since he had last looked at his watch. It seemed like two hours.",

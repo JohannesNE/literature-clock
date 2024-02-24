@@ -1,6 +1,15 @@
 [
   {
     "time": "23:45",
+    "quote_first": "It was a ",
+    "quote_time_case": "quarter to twelve",
+    "quote_last": " when the service was over. When he reached home, the bishop undressed and went to bed at once without even saying his prayers.",
+    "title": "The Bishop",
+    "author": "Anton Pavlovich Chekhov",
+    "sfw": "yes"
+  },
+  {
+    "time": "23:45",
     "quote_first": "It was ",
     "quote_time_case": "fifteen minutes to midnight",
     "quote_last": ", when the dead—according to Celia—threw off their coffin lids like so many blankets. Stop that, Matt told himself.",

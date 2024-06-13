@@ -33,7 +33,7 @@ cite #book{
     font-style: normal;
 }
 
-#buttom {
+#bottom {
     height: 10px; 
     width: 90%;
     position: fixed; 
@@ -43,7 +43,7 @@ cite #book{
     padding-right: 0px;
 
 }
-#buttom a, a:visited {
+#bottom a, a:visited {
     color: rgb(66, 66, 66)
 }
 
@@ -52,7 +52,7 @@ cite #book{
     padding-right: 5px;
 }
 
-#buttom span {
+#bottom span {
     padding-left: 5px;
     border-left-style: solid;
     border-left-width: 2px;
@@ -68,10 +68,10 @@ body.dark #lit_quote em {
     color: rgb(220, 217, 212);
 }
 
-body.dark #main_text, body.dark #buttom {
+body.dark #main_text, body.dark #bottom {
     color: rgb(166, 158, 146);
 }
 
-body.dark #buttom a, a:visited {
+body.dark #bottom a, a:visited {
     color: rgb(190, 185, 176);
 }

@@ -46,6 +46,15 @@
   },
   {
     "time": "11:00",
+    "quote_first": "That’s correct - at ",
+    "quote_time_case": "11 a.m.",
+    "quote_last": " on November 7, 1944, I received a phone call from the assistant principal at the local elementary school. I used to be the school doctor, or something close to it, so that’s why they contacted me first.",
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:00",
     "quote_first": "An ending, then. November 11, 1991, at ",
     "quote_time_case": "eleven o’clock in the morning",
     "quote_last": ", the eleventh hour of the eleventh month. It’s a Monday.",
@@ -168,6 +177,15 @@
     "quote_last": ".”",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle",
+    "sfw": "yes"
+  },
+  {
+    "time": "11:00",
+    "quote_first": "The two of them drove back to Colonel Sander’s apartment, slept soundly and set off at ",
+    "quote_time_case": "eleven",
+    "quote_last": " the next morning for the library. It was only a twenty-minute walk from the apartment, so they decided to stroll over. Hoshino had already returned the rental car.",
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
     "sfw": "yes"
   },
   {

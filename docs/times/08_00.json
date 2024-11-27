@@ -358,5 +358,14 @@
     "title": "Death in Venice",
     "author": "Thomas Mann",
     "sfw": "yes"
+  },
+  {
+    "time": "08:00",
+    "quote_first": "Crowley liked the city in the early morning. Its population consisted almost entirely of people who had proper jobs to do and real reasons for being there, as opposed to the unnecessary millions who trailed in after ",
+    "quote_time_case": "8 A.M.",
+    "quote_last": ", and the streets were more or less quiet.",
+    "title": "Good Omens",
+    "author": "Terry Pratchett and Neil Gaiman",
+    "sfw": "yes"
   }
 ]

@@ -241,5 +241,23 @@
     "title": "The Hasheesh Eater",
     "author": "Fitz Hugh Ludlow",
     "sfw": "no"
+  },
+  {
+    "time": "04:00",
+    "quote_first": "Corporal Carrot awoke around ",
+    "quote_time_case": "four a.m.",
+    "quote_last": ", that secret hour known only to the night people, such as criminals, policemen and other misfits. He lay on his half of the narrow bed and stared at the wall.",
+    "title": "Men at Arms",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "04:00",
+    "quote_first": "Twenty-seven people were got out of bed in quick succession and they got another fifty-three out of bed, because if there is one thing a man wants to know when he’s woken up in a panic at ",
+    "quote_time_case": "4:00 A.M.",
+    "quote_last": ", it’s that he’s not alone.",
+    "title": "Good Omens",
+    "author": "Terry Pratchett and Neil Gaiman",
+    "sfw": "yes"
   }
 ]

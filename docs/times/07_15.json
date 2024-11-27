@@ -34,5 +34,14 @@
     "title": "The Adventure of the Speckled Band",
     "author": "Sir Arthur Conan Doyle",
     "sfw": "yes"
+  },
+  {
+    "time": "07:15",
+    "quote_first": "This strange loop has a curious effect on causality. We get up in the morning and leave the house at ",
+    "quote_time_case": "7.15",
+    "quote_last": " because we have to get to work by 9 o’clock. Scientifically, this is a very bizarre form of causality: the future is affecting the past.",
+    "title": "The Globe",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

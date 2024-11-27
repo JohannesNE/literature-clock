@@ -205,5 +205,14 @@
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoyevsky",
     "sfw": "yes"
+  },
+  {
+    "time": "07:00",
+    "quote_first": "He approved of the milkman, because he was regular and punctual and had the bottles at the doorstep every morning on the stroke of ",
+    "quote_time_case": "7 A.M",
+    "quote_last": "",
+    "title": "Thief of Time",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

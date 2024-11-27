@@ -439,5 +439,23 @@
     "title": "Middlemarch",
     "author": "George Eliot",
     "sfw": "yes"
+  },
+  {
+    "time": "03:00",
+    "quote_first": "“Fred, the finest tradition of the Watch is having a quiet smoke somewhere out of the wind at ",
+    "quote_time_case": "three a.m.",
+    "quote_last": " Let’s not get carried away, eh?”",
+    "title": "Jingo",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "03:00",
+    "quote_first": "THERE ARE TIMES when you just have to miss a night’s sleep. But Ankh-Morpork never slept; the city never did more than doze, and would wake up around ",
+    "quote_time_case": "three A.M",
+    "quote_last": ". for a glass of water.",
+    "title": "Going Postal",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

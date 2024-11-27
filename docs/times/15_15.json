@@ -52,5 +52,23 @@
     "title": "The Voices of Time",
     "author": "J.G. Ballard",
     "sfw": "yes"
+  },
+  {
+    "time": "15:15",
+    "quote_first": "Women weren’t allowed in the club at all except under Rule Thirty-four B, which grudgingly allowed for female members of the family or respectable married ladies over thirty to be entertained to tea in the Green Drawing Room between ",
+    "quote_time_case": "3:15",
+    "quote_last": " and 4:30 P.M., provided at least one member of staff was present at all times.",
+    "title": "Thief of Time",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "15:15",
+    "quote_first": "You couldn’t remember every little thing. Wednesday: 3 P.M., reign of terror; ",
+    "quote_time_case": "3:15 P.M.",
+    "quote_last": ", clean out scorpion pit…",
+    "title": "Feet of Clay",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

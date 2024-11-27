@@ -142,5 +142,23 @@
     "title": "The Long Dark Tea-Time of the Soul",
     "author": "Douglas Adams",
     "sfw": "yes"
+  },
+  {
+    "time": "01:00",
+    "quote_first": "Cut-me-own-Throat Dibbler had wandered off and was doing a busy trade with those late-night revelers who were too drunk to prevent optimism triumphing over experience; anyone who bought a meal at ",
+    "quote_time_case": "one a.m.",
+    "quote_last": " after a night’s reveling was probably going to be riotously ill anyway, so they might as well have something to show for it.",
+    "title": "Moving Pictures",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
+  },
+  {
+    "time": "01:00",
+    "quote_first": "Being caught at ",
+    "quote_time_case": "one A.M.",
+    "quote_last": " in a bank’s deposit vault while wearing a black suit with lots of little pockets in it could be considered suspicious, so why do it?",
+    "title": "Going Postal",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

@@ -133,5 +133,14 @@
     "title": "Zen and the Art of Motorcycle Maintenance",
     "author": "Robert M. Pirsig",
     "sfw": "yes"
+  },
+  {
+    "time": "08:30",
+    "quote_first": "He woke up at ",
+    "quote_time_case": "half past eight",
+    "quote_last": ", read the accumulated papers, and voided a small scream. All right, all right, he thought. There is no actual hurry, as such. We can change it back any time we like. That’s what time travel means.",
+    "title": "Darwin's Watch",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

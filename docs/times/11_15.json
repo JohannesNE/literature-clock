@@ -25,5 +25,14 @@
     "title": "The Adventures of Sherlock Holmes",
     "author": "Sir Arthur Conan Doyle",
     "sfw": "yes"
+  },
+  {
+    "time": "11:15",
+    "quote_first": "The clock said ",
+    "quote_time_case": "quarter past eleven",
+    "quote_last": ".<br>Vimes walked over to the door and, despite precedent, knocked gently.<br>There was no sound from within, no murmur of distant voices.<br>He tried the handle. The door was unlocked.<br>Lord Vetinari had always said that punctuality was the politeness of princes.<br>Vimes went in.",
+    "title": "Feet of Clay",
+    "author": "Terry Pratchett",
+    "sfw": "yes"
   }
 ]

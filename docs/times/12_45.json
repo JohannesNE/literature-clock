@@ -34,5 +34,23 @@
     "title": "The Lottery, or the Adventure of James Harris",
     "author": "Shirley Jackson",
     "sfw": "yes"
+  },
+  {
+    "time": "12:45",
+    "quote_first": "By this time it was a ",
+    "quote_time_case": "quarter to one o’clock",
+    "quote_last": ", but Karl Ivanitch never thought of releasing us, He merely set us a new lesson to learn.",
+    "title": "Childhood",
+    "author": "Leo Tolstoy",
+    "sfw": "yes"
+  },
+  {
+    "time": "12:45",
+    "quote_first": "“Good, “he reflected. “It is now a ",
+    "quote_time_case": "quarter to one",
+    "quote_last": ".",
+    "title": "Vladimir Nabokov",
+    "author": "King, queen, knave",
+    "sfw": "yes"
   }
 ]
